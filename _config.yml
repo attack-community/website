@@ -17,7 +17,7 @@ baseurl: ""
 title: ATT&CK community
 
 # Short description of your site
-description: A user community of the MITRE’s Adversarial Tactics, Techniques, and Common Knowledge (ATT&CK™)
+description: A user community of the MITRE’s Adversarial Tactics, Techniques, and Common Knowledge ("ATT&CK™)
 
 # --- Navigation bar options --- #
 
@@ -63,6 +63,7 @@ footer-link-col: "#404040"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: ATT&CK Community
+  name: ATT&CK is a trademark of The MITRE Corporation
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -96,7 +97,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
