@@ -6,7 +6,7 @@ subtitle: Next workshop - event for EU ATT&CK community
 
 # Friday 19th October 2018 - EU ATT&CK registration
 
-An EU ATT&CK community workshop will take place the Friday 19th October 2018 between 10:00 and 18:00 at the Alvisse Parc Hotel in Luxembourg. The workshop is by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK Framework in Prevention, Detection/Hunting and Response. All participants will be invited to present their experiences and expectations in short (15') Lightning Talks. 
+An EU ATT&CK community workshop will take place the Friday 19th October 2018 between 10:00 and 18:00 at the Alvisse Parc Hotel in Luxembourg. The workshop is by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK Framework in Prevention, Detection/Hunting and Response. Participants are invited to present their experiences and expectations in short (15') Lightning Talks. 
 
 Registration is required and the event is free.
 
