@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Workshop - EU ATT&CK community
-subtitle: Next workshop - event for EU ATT&CK community
+title: Workshop - EU ATT&CK Community
+subtitle: Next workshop - event for EU ATT&CK Community
 ---
 
 # Friday 19th October 2018 - EU ATT&CK Community workshop registration
