@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: ATT&CK community
+title: EU ATT&CK community
 
 # Short description of your site
 description: A user community of the MITRE’s Adversarial Tactics, Techniques, and Common Knowledge ("ATT&CK™)
@@ -62,7 +62,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: ATT&CK Community
+  name: EU ATT&CK Community
   name: ATT&CK is a trademark of The MITRE Corporation
 
 # Select your active Social Network Links.

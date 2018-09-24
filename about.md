@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About ATT&CK community
+title: About EU ATT&CK community
 subtitle: The background story
 ---
 
-# About the ATT&CK community
+# About the EU ATT&CK community
 
-The ATT&CK community a diverse community of practitioners including security professionals, cybersecurity vendors, CSIRTs/CERTs and organisations whose aim is to actively use MITRE ATT&CK™ while contributing back to improve cyber defense. The ATT&CK community is a vendor neutral platform where all users can discuss, exchange and improve their use of adversary tactics and techniques together in practical use cases like attribution, prevention, detection, hunting and response.
+The EU ATT&CK community a diverse community of practitioners including security professionals, cybersecurity vendors, CSIRTs/CERTs and organisations whose aim is to actively use MITRE ATT&CK™ while contributing back to improve cyber defense. The ATT&CK community is a vendor neutral platform where all users can discuss, exchange and improve their use of adversary tactics and techniques together in practical use cases like attribution, prevention, detection, hunting and response.
 
 # History
 
