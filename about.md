@@ -11,3 +11,7 @@ The EU ATT&CK community a diverse community of practitioners including security 
 # History
 
 On 24-25 May 2018, over 40 participants met at C3 (the Cybersecurity Competence Center) in Luxembourg to discuss how MITRE ATT&CK™ can help strengthen cyber defense . The participants hailed from over 30 different organizations, ranging from national CERTs to financial sector organizations to cybersecurity vendors. Despite their differences in country of origin, sector, and background, attendees came together with a common goal of sharing how ATT&CK can be used in practice. The group found value about hearing each other’s use cases and think it would be valuable to continue the conversation.
+
+# Contact
+
+If you want to get in touch with us, don't hesitate to join the [Gitter chat](https://gitter.im/attack-community/Lobby#). You can also reach us via email info@attack-community.org.
