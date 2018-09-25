@@ -8,7 +8,7 @@ subtitle: The background story
 
 The EU ATT&CK Community is a diverse community of practitioners including security professionals, cybersecurity vendors, CSIRTs/CERTs and organisations whose aim is to actively use MITRE ATT&CK™ while contributing back to improve cyber defense. The EU ATT&CK Community is a vendor neutral platform where all users can discuss, exchange and improve their use of adversary tactics and techniques together in practical use cases like attribution, prevention, detection, hunting and response.
 
-ATT&CK is a trademark of the MITRE Corporation. The EU ATT&CK Community was set up in agreement with MITRE but it is not operated by MITRE.
+The EU ATT&CK Community was set up in agreement with MITRE but it is not operated by MITRE and the content of these webpages are not specifically endorsed by MITRE.
 
 # History
 
