@@ -3,14 +3,9 @@ layout: page
 title: Workshop - EU ATT&CK Community
 subtitle: Next workshop - event for EU ATT&CK Community
 ---
+# Thursday-Friday 9-10 May 2019 - EU ATT&CK Community third workshop in Brussels
 
-# Friday 19th October 2018 - EU ATT&CK Community workshop registration
-
-An EU ATT&CK Community workshop will take place the Friday 19th October 2018 between 10:00 and 18:00 at the Alvisse Parc Hotel in Luxembourg. The workshop is by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK Framework in Prevention, Detection/Hunting and Response. Participants are invited to present their experiences and expectations in short (15') Lightning Talks. 
-
-Registration is required and the event is free. You can register here and indicate if you would like to present as well.
-
-{% include registration.html %}
+The third EU ATT&CK Community workshop will take place on 9-10 May 2019 at Eurocontrol in Brussels. The workshop is organised by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK Framework in Prevention, Detection/Hunting and Response. Participants are invited to present their experiences and expectations in short (15') Lightning Talks. More details will follow. Registration is possible by sending an email to contact@freddydezeure.eu.
 
 # About the EU ATT&CK Community
 
@@ -18,4 +13,4 @@ The EU ATT&CK Community a diverse community of practitioners including security 
 
 # Contact
 
-If you want to get in touch with us, don't hesitate to join the [Gitter chat](https://gitter.im/attack-community/Lobby#). You can also reach us via email info@attack-community.org.
+If you want to get in touch with us, you can reach us via email info@circl.lu or contact@freddydezeure.eu.
