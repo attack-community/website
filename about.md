@@ -18,4 +18,4 @@ A second workshop was organised in October 2018 in Luxembourg, with over 80 part
 
 # Contact
 
-If you want to get in touch with us, don't hesitate to join the [Gitter chat](https://gitter.im/attack-community/Lobby#). You can also reach us via email info@attack-community.org.
+If you want to get in touch with us, you can reach us via email info@circl.lu or contact@freddydezeure.eu.
