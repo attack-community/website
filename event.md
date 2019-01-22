@@ -7,7 +7,7 @@ subtitle: Next workshop - event for EU ATT&CK Community
 
 The third EU ATT&CK Community workshop will take place on 9-10 May 2019 at Eurocontrol in Brussels. The workshop is organised by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK Framework in Prevention, Detection/Hunting and Response. All participating organisations are invited to present their experiences and expectations in short (15') Lightning Talks. Registration, including an indication of the selected theme for the lightning talk, on the following link:
 
-https://en.xing-events.com/PHRDADH.html
+[Registration](https://en.xing-events.com/PHRDADH.html)
 
 More practical details will follow for registered participants. 
 
