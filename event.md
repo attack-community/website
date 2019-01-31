@@ -15,8 +15,8 @@ Registration is mandatory. Don't show up at the gate of Eurocontrol if you haven
 
 Eurocontrol's premises can be found as follows:
 
-[Location](https://www.eurocontrol.int/articles/how-find-us)
-[Location](https://www.eurocontrol.int/articles/eurocontrol-headquarters-brussels)
+[How to find us](https://www.eurocontrol.int/articles/how-find-us)
+[Eurcontrol Headquarters](https://www.eurocontrol.int/articles/eurocontrol-headquarters-brussels)
 
 There are several hotels in the vicinity, at walking distance. However, the week of the workshop there are other events in Brussels. Don't wait too long in booking your hotel room.
 
