@@ -7,13 +7,9 @@ subtitle: Next workshop - event for EU ATT&CK Community
 
 The third EU ATT&CK Community workshop will take place at Eurocontrol in Brussels on 9-10 May 2019 from 9am until 6pm. The workshop is organised by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK Framework in Prevention, Detection/Hunting and Response. No press or sales people in the room. 
 
-On 9 May, the draft agenda is as follows:
+The draft agenda can be found on the following link:
 
-08:00 Registration
-
-09:00 Welcome by Eurocontrol
-
-9:15-12:30 Update by MITRE. Presentations by community tool developers (MISP, SIGMA, Atomic Threat Coverage
+[Draft Agenda](https://www.eurocontrol.int/node/12550/)
 
 Registration is mandatory. Don't show up at the gate of Eurocontrol if you haven't registered at least one week before the workhops using the following link. Also, please present yourself at the security at least 30' before the start of the event. You can come with your luggage, there will be a protected luggage space next to the meeting room.
 
@@ -27,10 +23,6 @@ There are several hotels in the vicinity, at walking distance. However, the week
 
 More practical details will follow for registered participants. 
 
-For those of you attending the RSA conference in San Francisco this year, we will have a session on Tuesday Mar 05 | 01:00 P.M. -
-01:50 P.M.
-
-[RSA Conference](https://www.rsaconference.com/events/us19/agenda/sessions/14753-ATT&CK-in-Practice-A-Primer-to-Improve-Your-Cyber-Defense)
 
 # About the EU ATT&CK Community
 
