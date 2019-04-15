@@ -9,7 +9,7 @@ The third EU ATT&CK Community workshop will take place at Eurocontrol in Brussel
 
 The draft agenda can be found on the following link:
 
-[Draft Agenda](https://www.eurocontrol.int/node/12550/)
+[Draft Agenda](https://web.tresorit.com/l#UwyldQhPN8JZJwc0MQvv-A)
 
 Registration is mandatory. Don't show up at the gate of Eurocontrol if you haven't registered at least one week before the workhops using the following link. Also, please present yourself at the security at least 30' before the start of the event. You can come with your luggage, there will be a protected luggage space next to the meeting room.
 
