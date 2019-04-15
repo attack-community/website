@@ -7,11 +7,12 @@ subtitle: Next workshop - event for EU ATT&CK Community
 
 The third EU ATT&CK Community workshop will take place at Eurocontrol in Brussels on 9-10 May 2019 from 9am until 6pm. The workshop is organised by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK Framework in Prevention, Detection/Hunting and Response. No press or sales people in the room. 
 
-All participating organisations are invited to present their experiences and expectations in short (5-10') Lightning Talks. We already have confirmed presentations by Rich and his team from MITRE, CIRCL, CERT-EU, BDF, TIETO, BSI, Thomas Hartong, Roberto Rodriguez, Florian/Thomas (SIGMA) and many others.
+On 9 May, the draft agenda is as follows:
+08:00 Registration
+09:00 Welcome by Eurocontrol
+9:15-12:30 Update by MITRE. Presentations by community tool developers (MISP, SIGMA, Atomic Threat Coverage
 
 Registration is mandatory. Don't show up at the gate of Eurocontrol if you haven't registered at least one week before the workhops using the following link. Also, please present yourself at the security at least 30' before the start of the event. You can come with your luggage, there will be a protected luggage space next to the meeting room.
-
-Please provide an indication of the selected theme for your lightning talk if you intend to give one:
 
 [Registration](https://www.eurocontrol.int/node/12550/)
 
