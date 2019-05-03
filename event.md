@@ -17,12 +17,12 @@ The third EU ATT&CK Community workshop will take place at Eurocontrol in Brussel
 |9:00|Welcome|Eurocontrol|||
 |9:15|Update on ATT&CK & CAR|MITRE|Rich Struse||
 |10:00|Update on MISP|CIRCL|Alexandre Dulaunoy||
-|10:15|Atomic Threat Coverage|Daniil Yugoslavskiy|||
+|10:15|Atomic Threat Coverage|TIETO|Daniil Yugoslavskiy||
 |10:30|50 Shades of Sigma|NEXTRON|Florian Roth||
 |10:45|Tying it all together: Sigma, ATT&CK, and STIX|Palantir|Tareq Alkhatib||
 |11:00|Coffee||||
 |11:30|ATT&CK Coverage assessment from a data perspective|Deloitte|Olaf Hartong||
-|11:45|Mordor: Pick your adversary technique or simulation plan, and get pre-recorded events right away!|SpectreOps/Roberto Rodriguez|Roberto Rodriguez||
+|11:45|Mordor: Pick your adversary technique or simulation plan, and get pre-recorded events right away!|SpectreOps|Roberto Rodriguez||
 |12:00|Gain insights with a measurable business impact. Extend ATT&CK beyond its original scope.|ING|Francesco Bigarella||
 |12:15|Threat hunting with ATT&CK|ThyssenKrupp|Thomas Patzke||
 |12:30|Lunch||||
