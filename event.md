@@ -24,13 +24,13 @@ The third EU ATT&CK Community workshop will take place at Eurocontrol in Brussel
 |11:30|ATT&CK Coverage assessment from a data perspective|Deloitte /Olaf Hartong|Olaf Hartong||
 |11:45|Mordor: Pick your adversary technique or simulation plan, and get pre-recorded events right away!|SpectreOps/Roberto Rodriguez|Roberto Rodriguez||
 |12:00|Gain insights with a measurable business impact. Extend ATT&CK beyond its original scope.|ING|Francesco Bigarella||
+|12:15|Threat hunting with ATT&CK|ThyssenKrupp/Thomas Patzke|Thomas Patzke||
 |12:30|Lunch||||
-|13:30|ATT&CK Meets Automation|Arctic Security|Lari Huttunen||
-|13:45|Moving the MITRE ATT@CK Framework to the Att&cker|Crowdstrike|Spencer Parker||
-|13:30|Defending against adversary playbooks|Palo Alto|Alexander Hincliffe||
+|13:15|ATT&CK Meets Automation|Arctic Security|Lari Huttunen||
+|13:30|Moving the MITRE ATT@CK Framework to the Att&cker|Crowdstrike|Spencer Parker||
 |13:45|Adoption of the ATT&CK framework within our collaborative TIP QuoLab and TI production.|Quoscient|Fabien Dombard||
 |14:00|Using ATT&CK for threat hunting|AVIVA|Seth Brunt||
-|14:15|Threat hunting with ATT&CK|ThyssenKrupp/Thomas Patzke|Thomas Patzke||
+|14:15|Defending against adversary playbooks|Palo Alto|Alexander Hincliffe||
 |14:30|Daily use of ATT&CK, Sigma & ELK for threat hunting and actor attribution|SOCPRIME|Andrii Bezverkhyi||
 |14:45|DCSO & ATT&CK|DCSO|Robert Haist||
 |15:00|Coffee||||
