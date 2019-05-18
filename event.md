@@ -68,8 +68,6 @@ The third EU ATT&CK Community workshop will take place at Eurocontrol in Brussel
 |14:15|The best of fails for Red and Blue|Société Générale|Alex Kouzmine||
 |14:30|Using MITRE in prevention and detection|PSA|Maxim D'hollander||
 |14:45|Use of ATT&CK within CERT-W activities|Wavestone|Vincent Nguyen||
-|15:00|Communautés CERT|BANK AL MAGHRIB|Mustapha Hadadi||
-|15:15|Cyber Defense measured, rated, improved and finally sleep peacefully again|Computacenter|Fabian Lochmann||
 ||||||
 ||||||
 
