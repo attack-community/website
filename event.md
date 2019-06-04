@@ -5,7 +5,7 @@ subtitle: Next workshop - event for EU ATT&CK Community
 ---
 # Friday 25 October 2019 - EU ATT&CK Community fourth workshop in Luxembourg
 
-The fourth EU ATT&CK Community workshop will take place at the Parc Hotel in Luxembourg-Dommeldange Eurocontrol on 25 October 2019 from 9am until 5pm. The workshop is organised by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK Framework in Prevention, Detection/Hunting and Response. No press or sales people in the room.
+The fourth EU ATT&CK Community workshop will take place at the Parc Hotel in Luxembourg-Dommeldange on 25 October 2019 from 9am until 5pm. The workshop is organised by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK Framework in Prevention, Detection/Hunting and Response. No press or sales people in the room.
 
 In this one day workshop you will hear updates from MITRE and from the developers of community systems and tools supporting the MITRE ATT&CK Framework. A detailed agenda will be made available as soon as possible. 
 
