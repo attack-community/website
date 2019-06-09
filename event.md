@@ -9,8 +9,6 @@ The fourth EU ATT&CK Community workshop will take place at the Parc Hotel in Lux
 
 In this one day workshop you will hear updates from MITRE and from the developers of community systems and tools supporting the ATT&CK Framework. A detailed agenda will be made available as soon as possible. 
 
-<script type="text/javascript" src="https://www.xing-events.com/resources/js/amiandoExport.js"></script><iframe src="https://ZEFGTRF-modules.xing-events.com/ZEFGTRF.html?viewType=iframe&distributionChannel=CHANNEL_IFRAME&language=en&useDefaults=false&resizeIFrame=true" frameborder="0" width="650px" id="_amiandoIFrame3778333"><p>This page requires frame support. Please use a frame compatible browser to see the ticket sales module.</p><p> Try out the <a href="https://en.xing-events.com/">online event registration system</a> from XING Events.</p></iframe>More participants thanks to <a href="https://en.xing-events.com?viralRefId=ZEFGTRF&utm_campaign=ev-ZEFGTRF&utm_medium=viral&utm_source=EventWebsite&utm_content=TextLinkBottom&utm_term=text-link" target="_blank" alt="XING Events" title="XING Events">online event management solutions</a> from XING Events.
-
 <a href="https://ZEFGTRF-modules.xing-events.com/ZEFGTRF.html"> Registration page.</a>
 
 You can already save the date for the fifth workshop, on 18-19 May 2020 in Brussels. This will be a two day workshop packed with presentations by practitioners on how they apply the MITRE ATT&CK Framework in their environment. At the third workshop in Brussels there were 45 such presentations. There will also the opportunity to have in depth discussions on specific themes. And if there is sufficient interest we will also organise hands on seminars on the tools available (Navigator, SIGMA).
