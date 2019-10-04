@@ -36,7 +36,7 @@ You can already save the date for the fifth workshop, on 18-19 May 2020 in Bruss
 |13:30|Raphael   |Mollimard     |Société Générale                |Threat modeling, SOC coverage analysis, Red teaming exercices, products added value analysis inside Société Générale infrastructure SOC and CERT.|
 |13:45|Thomas    |Lanz          |Daimler                         |Attack-Simulation for better detections and faster response times... based on MITRE ATT&CK.                                                      |
 |14:00|Saâd      |Kadhi         |CERT-EU                         |How CERT-EU leverages ATT&CK and what progress needs to be made?                                                                                 |
-|14:15|Oleksiy   |Meletskiy     |Seb.se                          |Adoption of MITE ATT&CK in CTI processes and company security strategy at SEB Group                                                              |
+|14:15|Joeri |van Bodegom       |SHELL                         |Update on the use of MITRE ATT&CK at SHELL                                                              |
 |14:30|Oriol     |Castejon      |AttackIQ                        |Developing safe ATT&CK scenarios for security validation.                                                                                              |
 |14:45|Zeki      |Turedi        |CrowdStrike                     |Mitre ATT&CK From a Vendor's Perspective: feedback from our customer base.                                                                       |
 |15:00|Jason     |Keirstead     |IBM Security                    |Challenges developing detection analytics on ATT&CK                                                                                              |
@@ -44,6 +44,13 @@ You can already save the date for the fifth workshop, on 18-19 May 2020 in Bruss
 |15:30|Simon     |Goldsmith     |EY                              |Opportunities for Att&ck in SecDevOps                                                                                                            |
 |15:45|Stijn     |Vande Casteele|Sweepatic                       |Breakdown of the pre-attack framework                                                                                                            |
 |16:00|Sven      |Jacobs        |Cegeka                          |ATT&CK @Cegeka         
+|
+|16:15|Christophe      |Vandeplas        |NATO                          |Visualizing ATT&CK data in Maltego        
+|
+|16:30|Jeroen      |Vanderauwera        |NATO                          |Initial steps of implementing ATT&CK at a multinational 
+organization.       
+|
+|16:45|Sergey      |Polzunov        |EclecticIQ                          |Generating MITRE ATT&CK DNA for groups of actors        
 
 
 # About the EU ATT&CK Community
