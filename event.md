@@ -60,4 +60,3 @@ The EU ATT&CK Community a diverse community of practitioners including security 
 # Contact
 
 If you want to get in touch with us, you can reach us via email info@circl.lu or contact@freddydezeure.eu.
-
