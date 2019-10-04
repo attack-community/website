@@ -48,10 +48,9 @@ You can already save the date for the fifth workshop, on 18-19 May 2020 in Bruss
 |16:15|Christophe      |Vandeplas        |NATO                          |Visualizing ATT&CK data in Maltego        
 |
 |16:30|Jeroen      |Vanderauwera        |NATO                          |Initial steps of implementing ATT&CK at a multinational 
-organization.       
-|
+organization.       |
 |16:45|Sergey      |Polzunov        |EclecticIQ                          |Generating MITRE ATT&CK DNA for groups of actors        
-
+|
 
 # About the EU ATT&CK Community
 
