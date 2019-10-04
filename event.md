@@ -43,8 +43,7 @@ You can already save the date for the fifth workshop, on 18-19 May 2020 in Bruss
 |15:15|Alfie     |Champion      |MWR                             |Overview of using MITRE ATT&CK when carrying out purple team exercises for clients.                                                              |
 |15:30|Simon     |Goldsmith     |EY                              |Opportunities for Att&ck in SecDevOps                                                                                                            |
 |15:45|Stijn     |Vande Casteele|Sweepatic                       |Breakdown of the pre-attack framework                                                                                                            |
-|16:00|Sven      |Jacobs        |Cegeka                          |ATT&CK @Cegeka         
-|
+|16:00|Sven      |Jacobs        |Cegeka                          |ATT&CK @Cegeka         |
 |16:15|Christophe      |Vandeplas        |NATO                          |Visualizing ATT&CK data in Maltego        
 |
 |16:30|Jeroen      |Vanderauwera        |NATO                          |Initial steps of implementing ATT&CK at a multinational 
