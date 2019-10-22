@@ -21,7 +21,6 @@ You can already save the date for the fifth workshop, on 18-19 May 2020 in Bruss
 |9:30 |Alex      |Dulaunoy      |CIRCL                           |Update on MISP                                                                                                                                   |
 |9:45 |Thomas    |Patzke        |SIGMA                           |Update on SIGMA                                                                                                                                  |
 |10:00|Daniil    |Yugoslavskiy  |Cindicator                      |Update on Atomic Threat Coverage                                                                                                                 |
-|10:15|Myriam    |Wiesner       |Microsoft                       |EventList, matching Windows Event Log IDs with MITRE ATT&CK                                                                                      |
 |10:30|Claus     |Cramon Houmann|                                |ATT&CKING Cloud                                                                                                                                  |
 |10:45|Andrew    |Roberts       |Tallinn University of Technology|The difficulty in ascribing attack frameworks to industrial control systems cyber attacks.                                                       |
 |11:00|Coffee    |              |                                |                                                                                                                                                 |
@@ -32,12 +31,12 @@ You can already save the date for the fifth workshop, on 18-19 May 2020 in Bruss
 |12:30|Andrii    |Bezverkyi    |SOCPRIME                        |SIGMA for cloud and IOT.                                                                                                                         |
 |12:45|Antoine   |Levaque      |PROXIMUS                        |Map Att&CK on the Telco-Cloud                                                                                                                         |
 |13:00|Lunch     |              |                                |                                                                                                                                                 |
-|14:00|Saâd      |Kadhi         |CERT-EU                         |How CERT-EU leverages ATT&CK and what progress needs to be made?                                                                                 |
+|13:45|Myriam    |Wiesner       |Microsoft                       |EventList, matching Windows Event Log IDs with MITRE ATT&CK                                                                                      |
 |14:15|Joeri |van Bodegom       |SHELL                         |Update on the use of MITRE ATT&CK at SHELL                                                              |
 |14:30|Oriol     |Castejon      |AttackIQ                        |Developing safe ATT&CK scenarios for security validation.                                                                                              |
 |14:45|Trey      |Darley        |CCB/CERT.BE                     |Mitre ATT&CK at CERT.BE.                                                                       |
 |15:00|Mike      |Maassen       |ASML            |How att&ck changed the game  |
-|15:15|     |      |                             |                                                              |
+|15:15|Saâd      |Kadhi         |CERT-EU         |How CERT-EU leverages ATT&CK and what progress needs to be made? |
 |15:30|Simon     |Goldsmith     |EY                              |Opportunities for Att&ck in SecDevOps                                                                                                            |
 |15:45|Stijn     |Vande Casteele|Sweepatic                       |Breakdown of the pre-attack framework                                                                                                            |
 |16:00|Sven      |Jacobs        |Cegeka                          |ATT&CK @Cegeka         |
