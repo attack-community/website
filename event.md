@@ -37,7 +37,7 @@ You can already save the date for the fifth workshop, on 18-19 May 2020 in Bruss
 |14:00|Saâd      |Kadhi         |CERT-EU                         |How CERT-EU leverages ATT&CK and what progress needs to be made?                                                                                 |
 |14:15|Joeri |van Bodegom       |SHELL                         |Update on the use of MITRE ATT&CK at SHELL                                                              |
 |14:30|Oriol     |Castejon      |AttackIQ                        |Developing safe ATT&CK scenarios for security validation.                                                                                              |
-|14:45|Zeki      |Turedi        |CrowdStrike                     |Mitre ATT&CK From a Vendor's Perspective: feedback from our customer base.                                                                       |
+|14:45|Trey      |Darley        |CCB/CERT.BE                     |Mitre ATT&CK at CERT.BE.                                                                       |
 |15:00|Jason     |Keirstead     |IBM Security                    |Challenges developing detection analytics on ATT&CK                                                                                              |
 |15:15|Alfie     |Champion      |MWR                             |Overview of using MITRE ATT&CK when carrying out purple team exercises for clients.                                                              |
 |15:30|Simon     |Goldsmith     |EY                              |Opportunities for Att&ck in SecDevOps                                                                                                            |
