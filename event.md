@@ -22,7 +22,7 @@ You can already save the date for the fifth workshop, on 18-19 May 2020 in Bruss
 |9:45 |Thomas    |Patzke        |SIGMA                           |Update on SIGMA                                                                                                                                  |
 |10:00|Daniil    |Yugoslavskiy  |Cindicator                      |Update on Atomic Threat Coverage                                                                                                                 |
 |10:30|Claus     |Cramon Houmann|                                |ATT&CKING Cloud                                                                                                                                  |
-|10:45|Andrew    |Roberts       |Tallinn University of Technology|The difficulty in ascribing attack frameworks to industrial control systems cyber attacks.                                                       |
+|10:45|Andrew    |Roberts       |Tallinn University of Technology|ATT&CK at Tallinn University.                                                       |
 |11:00|Coffee    |              |                                |                                                                                                                                                 |
 |11:15|Christoph |Wurm          |Elastic                         |ATT&CK @Elastic                                                                                                                                  |
 |11:45|Ferdinand |Vroom         |NN Group                        |Status of Mitre ATT&CK at NN Group                                                                                                               |
