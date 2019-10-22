@@ -26,19 +26,17 @@ You can already save the date for the fifth workshop, on 18-19 May 2020 in Bruss
 |10:45|Andrew    |Roberts       |Tallinn University of Technology|The difficulty in ascribing attack frameworks to industrial control systems cyber attacks.                                                       |
 |11:00|Coffee    |              |                                |                                                                                                                                                 |
 |11:15|Christoph |Wurm          |Elastic                         |ATT&CK @Elastic                                                                                                                                  |
-|11:30|Mike      |Maassen       |ASML                            |How att&ck changed the game                                                                                                                      |
 |11:45|Ferdinand |Vroom         |NN Group                        |Status of Mitre ATT&CK at NN Group                                                                                                               |
 |12:00|Vincent   |Nguyen        |Wavestone                       |Use of ATT&CK to perform a cyber-resilience evaluation                                                                                           |
 |12:15|Raphaël Mollimard     |Luc Roudé      |CERT Societe Generale           |CERT & SOC Purple Teaming in action                                                                               |
 |12:30|Andrii    |Bezverkyi    |SOCPRIME                        |SIGMA for cloud and IOT.                                                                                                                         |
 |12:45|Antoine   |Levaque      |PROXIMUS                        |Map Att&CK on the Telco-Cloud                                                                                                                         |
 |13:00|Lunch     |              |                                |                                                                                                                                                 |
-|13:45|Thomas    |Lanz          |Daimler                         |Attack-Simulation for better detections and faster response times... based on MITRE ATT&CK.                                                      |
 |14:00|Saâd      |Kadhi         |CERT-EU                         |How CERT-EU leverages ATT&CK and what progress needs to be made?                                                                                 |
 |14:15|Joeri |van Bodegom       |SHELL                         |Update on the use of MITRE ATT&CK at SHELL                                                              |
 |14:30|Oriol     |Castejon      |AttackIQ                        |Developing safe ATT&CK scenarios for security validation.                                                                                              |
 |14:45|Trey      |Darley        |CCB/CERT.BE                     |Mitre ATT&CK at CERT.BE.                                                                       |
-|15:00|Jason     |Keirstead     |IBM Security                    |Challenges developing detection analytics on ATT&CK                                                                                              |
+|15:00|Mike      |Maassen       |ASML            |How att&ck changed the game  |
 |15:15|     |      |                             |                                                              |
 |15:30|Simon     |Goldsmith     |EY                              |Opportunities for Att&ck in SecDevOps                                                                                                            |
 |15:45|Stijn     |Vande Casteele|Sweepatic                       |Breakdown of the pre-attack framework                                                                                                            |
