@@ -26,6 +26,7 @@ You can already save the date for the fifth workshop, on 18-19 May 2020 in Bruss
 |11:00|Coffee    |              |                                |                                                                                                                                                 |
 |11:15|Christoph |Wurm          |Elastic                         |ATT&CK @Elastic                                                                                                                                  |
 |11:45|Ferdinand |Vroom         |NN Group                        |Status of Mitre ATT&CK at NN Group                                                                                                               |
+|12:00|Jake     |King       |CMD             |ATT&CK on Linux - Open Source tooling.                                                                              |
 |12:15|Raphaël Mollimard     |Luc Roudé      |CERT Societe Generale           |CERT & SOC Purple Teaming in action                                                                               |
 |12:30|Andrii    |Bezverkyi    |SOCPRIME                        |SIGMA for cloud and IOT.                                                                                                                         |
 |12:45|Antoine   |Levaque      |PROXIMUS                        |Map Att&CK on the Telco-Cloud                                                                                                                         |
