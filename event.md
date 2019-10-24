@@ -31,7 +31,7 @@ You can already save the date for the fifth workshop, on 18-19 May 2020 in Bruss
 |12:30|Andrii    |Bezverkyi    |SOCPRIME                        |SIGMA for cloud and IOT.                                                                                                                         |
 |12:45|Antoine   |Levaque      |PROXIMUS                        |Map Att&CK on the Telco-Cloud                                                                                                                         |
 |13:00|Lunch     |              |                                |                                                                                                                                                 |
-|13:45|Myriam    |Wiesner       |Microsoft                       |EventList, matching Windows Event Log IDs with MITRE ATT&CK                                                                                      |
+|13:45|Miriam    |Wiesner       |Microsoft                       |EventList, matching Windows Event Log IDs with MITRE ATT&CK                                                                                      |
 |14:15|Joeri |van Bodegom       |SHELL                         |Update on the use of MITRE ATT&CK at SHELL                                                              |
 |14:30|Oriol     |Castejon      |AttackIQ                        |Developing safe ATT&CK scenarios for security validation.                                                                                              |
 |14:45|Trey      |Darley        |CCB/CERT.BE                     |Mitre ATT&CK at CERT.BE.                                                                       |
