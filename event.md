@@ -1,49 +1,22 @@
 ---
 layout: page
-title: Workshop - EU ATT&CK Community
+title: Save The Date - Workshop - EU ATT&CK Community
 subtitle: Next workshop - event for EU ATT&CK Community
 ---
-# Friday 25 October 2019 - EU ATT&CK Community fourth workshop in Luxembourg
+# Monday-Tuesday 18-19 May 2020 - EU ATT&CK Community workshop in Brussels
 
-The fourth EU ATT&CK Community workshop will take place at the Parc Hotel in Luxembourg-Dommeldange on 25 October 2019 from 9am until 5pm. The workshop is organised by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK Framework in Prevention, Detection/Hunting and Response. No press or sales people in the room.
+The fifth EU ATT&CK Community workshop will take place at the European Commission on 18 and 19 May 2020 from 9am until 5pm. The workshop is organised by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK Framework in Prevention, Detection/Hunting and Response. No press or sales people in the room.This will be the biggest MITRE ATT&CK conference ever, with more than 400 seats available. There will be plenty of networking opportunity as well. 
 
-In this one day workshop you will hear updates from MITRE and from the developers of community systems and tools supporting the ATT&CK Framework.
+In this workshop you will hear updates from MITRE and from the developers of community systems and tools supporting the ATT&CK Framework. But even more importantly, you will learn best practices from your peers in the user community. 
 
-<a href="https://ZEFGTRF-modules.xing-events.com/ZEFGTRF.html"> Registration page.</a>
+The two day workshop will be packed with presentations by practitioners on how they apply the MITRE ATT&CK Framework in their environment. At the third workshop in Brussels there were 45 such presentations. And if there is sufficient interest we will also organise hands on seminars on the tools available (Navigator, SIGMA).
 
-You can already save the date for the fifth workshop, on 18-19 May 2020 in Brussels. This will be a two day workshop packed with presentations by practitioners on how they apply the MITRE ATT&CK Framework in their environment. At the third workshop in Brussels there were 45 such presentations. There will also the opportunity to have in depth discussions on specific themes. And if there is sufficient interest we will also organise hands on seminars on the tools available (Navigator, SIGMA).
+Participation to this event is at no cost for the participants, but registration is required. The link to register for this event will be made available in December 2019. 
 
-## Agenda
+The presentations from the fourth community workshop in Luxembourg in October 2019 are available on the following link:
 
-|Time |First name|Last name     |Company                         |Title                                                                                                                                            |
-|-----|----------|--------------|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-|9:00 |Rich      |Struse        |MITRE                           |Update from MITRE                                                                                                                                |
-|9:30 |Alex      |Dulaunoy      |CIRCL                           |Update on MISP                                                                                                                                   |
-|9:45 |Thomas    |Patzke        |SIGMA                           |Update on SIGMA                                                                                                                                  |
-|10:00|Daniil    |Yugoslavskiy  |Cindicator                      |Update on Atomic Threat Coverage                                                                                                                 |
-|10:30|Claus     |Cramon Houmann|                                |ATT&CKING Cloud                                                                                                                                  |
-|10:45|Andrew    |Roberts       |Tallinn University of Technology|ATT&CK at Tallinn University.                                                       |
-|11:00|Coffee    |              |                                |                                                                                                                                                 |
-|11:15|Christoph |Wurm          |Elastic                         |ATT&CK @Elastic                                                                                                                                  |
-|11:45|Ferdinand |Vroom         |NN Group                        |Status of Mitre ATT&CK at NN Group                                                                                                               |
-|12:00|Jake     |King       |CMD             |ATT&CK on Linux - Open Source tooling.                                                                              |
-|12:15|Raphaël Mollimard     |Luc Roudé      |CERT Societe Generale           |CERT & SOC Purple Teaming in action                                                                               |
-|12:30|Andrii    |Bezverkyi    |SOCPRIME                        |SIGMA for cloud and IOT.                                                                                                                         |
-|12:45|Antoine   |Levaque      |PROXIMUS                        |Map Att&CK on the Telco-Cloud                                                                                                                         |
-|13:00|Lunch     |              |                                |                                                                                                                                                 |
-|13:45|Miriam    |Wiesner       |Microsoft                       |EventList, matching Windows Event Log IDs with MITRE ATT&CK                                                                                      |
-|14:15|Joeri |van Bodegom       |SHELL                         |Update on the use of MITRE ATT&CK at SHELL                                                              |
-|14:30|Oriol     |Castejon      |AttackIQ                        |Developing safe ATT&CK scenarios for security validation.                                                                                              |
-|14:45|Trey      |Darley        |CCB/CERT.BE                     |Mitre ATT&CK at CERT.BE.                                                                       |
-|15:00|Mike      |Maassen       |ASML            |How att&ck changed the game  |
-|15:15|Saâd      |Kadhi         |CERT-EU         |How CERT-EU leverages ATT&CK and what progress needs to be made? |
-|15:30|Simon     |Goldsmith     |EY                              |Opportunities for Att&ck in SecDevOps                                                                                                            |
-|15:45|Stijn     |Vande Casteele|Sweepatic                       |Breakdown of the pre-attack framework                                                                                                            |
-|16:00|Sven      |Jacobs        |Cegeka                          |ATT&CK @Cegeka         |
-|16:15|Christophe      |Vandeplas        |NATO                          |Visualizing ATT&CK data in Maltego        |
-|16:30|Robert      |Seepers        |TNO               |Qualitative assessment of security products using ATT&CK       |
-|16:45|Sergey     |Polzunov        |EclecticIQ                          |Generating MITRE ATT&CK DNA for groups of actors        |
-|17:00|      |        |                          |       |
+<a href="https://web.tresorit.com/l#7Q428PydYnkv-zpzWyWi0g"> Presentations October 2019.</a>
+
 
 # About the EU ATT&CK Community
 
