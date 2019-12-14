@@ -11,7 +11,9 @@ In this workshop you will hear updates from MITRE and from the developers of com
 
 The two day workshop will be packed with presentations by practitioners on how they apply the MITRE ATT&CK Framework in their environment. At the third workshop in Brussels there were 45 such presentations. And if there is sufficient interest we will also organise hands on seminars on the tools available (Navigator, SIGMA).
 
-Participation to this event is at no cost for the participants, but registration is required. The link to register for this event will be made available in December 2019. 
+Participation to this event is at no cost for the participants, but registration is required. The link to register for this event is:
+
+<a href="https://scic.ec.europa.eu/ew/register/dgscic/EU_ATT_CK_Community_Workshop_18_19_May_2020_Brussels/e/lk/g/12400/k/"> Registration for EU ATT&CK workshop in Brussels May 2020</a>
 
 The presentations from the fourth community workshop in Luxembourg in October 2019 are available on the following link:
 
