@@ -1,3 +1,10 @@
+---
+layout: post
+title: EU ATT&CK community - 5th workshop - 18-19 May 2020
+image: /img/avatar-icon.png
+---
+
+
 # Monday-Tuesday 18-19 May 2020 - EU ATT&CK Community workshop in Brussels
 
 The fifth EU ATT&CK Community workshop will take place at the European Commission on 18 and 19 May 2020 from 9am until 5pm. The workshop is organised by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK Framework in Prevention, Detection/Hunting and Response. No press or sales people in the room.This will be the biggest MITRE ATT&CK conference ever, with more than 400 seats available. There will be plenty of networking opportunity as well. 
