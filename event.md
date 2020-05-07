@@ -20,7 +20,7 @@ Accepted participants will receive practical instructions on how to join as well
 | 18-May                   |                                                                              |             |              |                    |
 |--------------------------|------------------------------------------------------------------------------|-------------|--------------|--------------------|
 |                          |                                                                              |             |              |                    |
-| Time CET                 | Title                                                                        | First namer | Last name    | Organisation       |
+| Time CET                 | Title                                                                        | First name  | Last name    | Organisation       |
 | 13.00                    | Opening and welcome                                                          | Freddy      | Dezeure      |                    |
 | 13.15                    | Update from MITRE                                                            | Rich        | Struse       | MITRE              |
 |                          |                                                                              |             |              |                    |
