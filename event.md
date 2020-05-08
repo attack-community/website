@@ -22,7 +22,9 @@ Accepted participants will receive practical instructions on how to join as well
 |                          |                                                                              |             |              |                    |
 | Time CET                 | Title                                                                        | First name  | Last name    | Organisation       |
 | 13.00                    | Opening and welcome                                                          | Freddy      | Dezeure      |                    |
-| 13.15                    | Update from MITRE                                                            | Rich        | Struse       | MITRE              |
+| 13.10                    | Introduction - Center for Threat-Informed Defense                            | Rich        | Struse       | MITRE Engenuity    |
+|                          | Update from the MITRE ATT&CK team                                            | Adam        | Pennington   | MITRE              |
+|                          |                                                                              |             |              |                    |
 |                          |                                                                              |             |              |                    |
 | Tools                    |                                                                              |             |              |                    |
 | 13.45                    | Mature contextualisation of threat intelligence via ATT&CK in MISP           | Alex        | Dulaunoy     | CIRCL              |
@@ -39,7 +41,7 @@ Accepted participants will receive practical instructions on how to join as well
 | User experiences         |                                                                              |             |              |                    |
 | 16.00                    | Threat Hunting Using ATT&CK a year on.                                       | Seth        | Brunt        | AVIVA              |
 | 16.15                    | ATT&CK in our threat modelling and use case generation                       | Ion         | Santotomas   | SCHNEIDER ELECTRIC |
-| 16.30                    | ATT&CK at ING Bank: 2020 update                                              | Francesco   | Bigarella    | ING                |
+| 16.30                    | Threat hunting at ING Bank                                                   | Renato      | Fontana      | ING                |
 | 16.45                    | The good, the bad and the ugly                                               | Saâd        | Kadhi        | CERT-EU            |
 | 17.00                    | Fly with ATT&CK                                                              | Szymon      | Loza         | EUROCONTROL        |
 | 17.15                    | Threat Operations using ATT&CK at the Bank of England                        | James       | Morrin       | Bank of England    |
@@ -48,18 +50,18 @@ Accepted participants will receive practical instructions on how to join as well
 |                          |                                                                              |             |              |                    |
 | Hands-on                 |                                                                              |             |              |                    |
 | 18.00                    | Writing good SIGMA rules                                                     | Thomas      | Patzke       |                    |
-| 18.30                    | Navigator                                                                    |             |              | MITRE              |
-| 18.45                    | TRAM                                                                         |             |              | MITRE              |
+| 18.30                    | Navigator                                                                    | Jen         | Burns        | MITRE              |
+| 18.45                    | TRAM                                                                         | Connor      | Magee        | MITRE              |
 |                          |                                                                              |             |              |                    |
 | 19-May                   |                                                                              |             |              |                    |
 | ICS                      |                                                                              |             |              |                    |
 | 13.00                    | Delivering indicators of risk from the ICS ATT&CK Framework                  | Carolina    | Adaro        | ETAS BOSCH         |
 |                          |                                                                              |             |              |                    |
 | NETWORK                  |                                                                              |             |              |                    |
-| 13.15                    | MITRE ATT&CK Telecom Profile                                                 | Jonathan    | Olsson       | ERICSSON           |
-| 13.30                    | Man-in-the-Network: Network Devices are Endpoints Too                        | Austin      | Clark        | US ARMY            |
-| 13.45                    | The 5G battle                                                                | Robert      | Moody        | Telefónica Germany |
-| 14.00                    | Threat modeling framework for mobile communication systems                   | Sid         | Rao          | NOKIA              |
+| 13.15                    | ATT&CK for Telecom                                                           | Jonathan    | Olsson       | ERICSSON           |
+|                          |                                                                              | Sid         | Rao          | NOKIA              |
+| 13.45                    | Man-in-the-Network: Network Devices are Endpoints Too                        | Austin      | Clark        | US ARMY            |
+| 14.00                    | The 5G battle                                                                | Robert      | Moody        | Telefónica Germany |
 | 14.15                    | BZAR                                                                         | Mark        | Fernandez    | MITRE              |
 | 14.30                    | Supercharging Network Security with SIGMA                                    | Nate        | Guagenti     | SOCPRIME           |
 |                          |                                                                              |             |              |                    |
@@ -77,10 +79,9 @@ Accepted participants will receive practical instructions on how to join as well
 | 16.45                    | Leverage Endpoint Visibility with ATT&CK                                     | Digit       | Oktavianto   | MII                |
 |                          |                                                                              |             |              |                    |
 | Hands-on                 |                                                                              |             |              |                    |
-| 17:00                    | Caldera                                                                      |             |              | MITRE              |
+| 17:00                    | Caldera                                                                      | Scott       | Taylor       | MITRE              |
 | 17.30                    | DeTT&CT: new features                                                        | Marcus      | Bakker       | MB SECURE          |
 |                          |                                                                              | Ruben       | Bouman       | Sirius Security    |
-
 
 # About the EU ATT&CK Community
 
