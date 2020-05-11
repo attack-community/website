@@ -26,7 +26,7 @@ Registration for this event is closed now. Accepted participants will receive pr
 | 13.45                    | Mature contextualisation of threat intelligence via ATT&CK in MISP           | Alex        | Dulaunoy     | CIRCL              |
 | 14.00                    | 50 Shades of Sigma                                                           | Florian     | Roth         | NEXTRON            |
 | 14.15                    | ATC RE&CT and OSCD Sprint #2                                                 | Daniil      | Yugoslavskiy | CINDICATOR         |
-| 14.30                    | Creating detection opportunities leveraging ATT&CK evaluations                                                                             | Roberto     | Rodriguez    | Microsoft          |
+| 14.30                    | Creating detection research opportunities leveraging ATT&CK evaluations                                                                             | Roberto     | Rodriguez    | MICROSOFT          |
 | 14.45                    |                                                                              |             |              |                    |
 | 15.00                    | Detection resilience validation, sniffing out the Duke from the Bear         | Olaf        | Hartong      | FALCONFORCE        |
 | 15.15                    | Sub-techniques, priorities, more open source and ATT&CK on mobile phone      | Andrii      | Bezverkhyi   | SOCPRIME           |
