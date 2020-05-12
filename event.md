@@ -51,7 +51,7 @@ Registration for this event is closed now. Accepted participants will receive pr
 |                          |                                                                              |             |              |                    |
 | 19-May                   |                                                                              |             |              |                    |
 | ICS                      |                                                                              |             |              |                    |
-| 13.00                    | Delivering indicators of risk from the ICS ATT&CK Framework                  | Carolina    | Adaro        | ETAS BOSCH         |
+| 13.00                    | Mapping Indicators of Risk with ICS ATT&CK TTPs                  | Carolina    | Adaros        | ETAS BOSCH         |
 |                          |                                                                              |             |              |                    |
 | NETWORK                  |                                                                              |             |              |                    |
 | 13.15                    | ATT&CK for Telecom                                                           | Jonathan    | Olsson       | ERICSSON           |
