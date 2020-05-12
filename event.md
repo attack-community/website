@@ -32,10 +32,9 @@ Registration for this event is closed now. Accepted participants will receive pr
 | 15.15                    | Sub-techniques, priorities, more open source and ATT&CK on mobile phone      | Andrii      | Bezverkhyi   | SOCPRIME           |
 | 15.30                    | Detection Development using Attack Range based on the Mitre ATT&CK Framework | Patrick     | Bareiss      | SPLUNK             |
 |                          |                                                                              |             |              |                    |
-| 15.45                    | Break for coffee -                                                           |             |              |                    |
+| 16.00                    | Break for coffee -                                                           |             |              |                    |
 |                          |                                                                              |             |              |                    |
 | User experiences         |                                                                              |             |              |                    |
-| 16.00                    |                                                                              |             |              |                |
 | 16.15                    | ATT&CK in our threat modelling and use case generation                       | Ion         | Santotomas   | SCHNEIDER ELECTRIC |
 | 16.30                    | Threat hunting at ING Bank                                                   | Renato      | Fontana      | ING                |
 | 16.45                    | The good, the bad and the ugly                                               | Saâd        | Kadhi        | CERT-EU            |
