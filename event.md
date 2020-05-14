@@ -27,7 +27,6 @@ Registration for this event is closed now. Accepted participants will receive pr
 | 14.00                    | 50 Shades of Sigma                                                           | Florian     | Roth         | NEXTRON            |
 | 14.15                    | ATC RE&CT and OSCD Sprint #2                                                 | Daniil      | Yugoslavskiy | CINDICATOR         |
 | 14.30                    | Creating detection research opportunities leveraging ATT&CK evaluations                                                                             | Roberto     | Rodriguez    | MICROSOFT          |
-| 14.45                    |                                                                              |             |              |                    |
 | 15.00                    | Detection resilience validation, sniffing out the Duke from the Bear         | Olaf        | Hartong      | FALCONFORCE        |
 | 15.15                    | Sub-techniques, priorities, more open source and ATT&CK on mobile phone      | Andrii      | Bezverkhyi   | SOCPRIME           |
 | 15.30                    | Detection Development using Attack Range based on the Mitre ATT&CK Framework | Patrick     | Bareiss      | SPLUNK             |
@@ -35,7 +34,7 @@ Registration for this event is closed now. Accepted participants will receive pr
 | 16.00                    | Break for coffee -                                                           |             |              |                    |
 |                          |                                                                              |             |              |                    |
 | User experiences         |                                                                              |             |              |                    |
-| 16.15                    | ATT&CK in our threat modelling and use case generation                       | Ion         | Santotomas   | SCHNEIDER ELECTRIC |
+| 16.15                    | ATT&CK in threat modelling and use case generation                           | Ion         | Santotomas   |   |
 | 16.30                    | Threat hunting at ING Bank                                                   | Renato      | Fontana      | ING                |
 | 16.45                    | The good, the bad and the ugly                                               | Saâd        | Kadhi        | CERT-EU            |
 | 17.00                    | Fly with ATT&CK                                                              | Szymon      | Loza         | EUROCONTROL/EATM-CERT        |
