@@ -82,12 +82,12 @@ The presentations are available on the following link:
 
 # Next EU ATT&CK Community Workshop
 
-The sixth workshop will take place on 23 October, hosted by CIRCL. It will most likely be a virtual event again. THe opening of the registration will be announced on social media and via the EU ATT&CK Community mailing list. 
+The sixth workshop will take place on 23 October, hosted by CIRCL. It will most likely be a virtual event again. The opening of the registrations will be announced on social media and via the EU ATT&CK Community mailing list. 
 
 # About the EU ATT&CK Community
 
-The EU ATT&CK Community a diverse community of practitioners including security professionals, cybersecurity vendors, CSIRTs/CERTs and organisations whose aim is to actively use MITRE ATT&CK™ while contributing back to improve cyber defense. The EU ATT&CK Community is a vendor neutral platform where all users can discuss, exchange and improve their use of adversary tactics and techniques together in practical use cases like attribution, prevention, detection, hunting and response.
+The EU ATT&CK Community is a diverse community of practitioners including security professionals, cybersecurity vendors, CSIRTs/CERTs and user organisations whose aim is to actively use MITRE ATT&CK™ while contributing back to improve cyber defense. The EU ATT&CK Community is a vendor neutral platform where all users can discuss, exchange and improve their use of adversary tactics and techniques together in practical use cases like attribution, prevention, detection, hunting and response.
 
 # Contact
 
-If you want to get in touch with us, you can reach us via email contact@freddydezeure.eu and info@circl.lu. You can join the mailing list by sending a request to info@circl.lu.
+If you want to get in touch with us, you can reach us via email contact@freddydezeure.eu and info@circl.lu. You can also join the mailing list by sending a request to info@circl.lu.
