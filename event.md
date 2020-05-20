@@ -1,15 +1,16 @@
 ---
 layout: page
 title: EU ATT&CK Community
-subtitle: Next workshop
+subtitle: Fifth EU ATT&CK Community Workshop
 ---
 # Monday-Tuesday 18-19 May 2020
 
-The fifth EU ATT&CK Community Workshop will take place on 18 and 19 May 2020 from 1pm CET until 7pm CET. This time it will be organised as a virtual event, by videoconference, in view of the current travel restrictions. The Workshop is organised by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK Framework in Prevention, Detection/Hunting and Response. There will be no sales pitches.  
+The fifth EU ATT&CK Community Workshop has taken place on 18 and 19 May 2020, as a virtual event. The event was very successful, with more than 1800 individual attendees, between 500 and 800 of them online at any time during the two days.  
 
-In this virtual Workshop you will hear updates from MITRE and from the developers of community systems and tools supporting the ATT&CK Framework. But even more importantly, you will learn best practices from your peers in the user community. The workshop will be packed with presentations by practitioners on how they apply the MITRE ATT&CK Framework in their environment. There will also be hands on sections on the tools available (Navigator, SIGMA etc.).
+The agenda was packed with inspiring, useful and stimulating content, with updates from MITRE and from the developers of community systems and tools supporting the ATT&CK Framework and SIGMA. There were also very interesting presentations of best practices from the user community and with different perspectives of the use of the Framework. There were also hands-on sections on some of the tools available (Navigator, SIGMA, DETT&CT etc.).
 
-Registration for this event is closed now. Accepted participants will receive practical instructions on how to join.
+The presentations are available on the following link:
+
 
 # Agenda
 
@@ -78,10 +79,14 @@ Registration for this event is closed now. Accepted participants will receive pr
 | 17.30                    | DeTT&CT: new features                                                        | Marcus      | Bakker       | MB SECURE          |
 |                          |                                                                              | Ruben       | Bouman       | Sirius Security    |
 
+# Next EU ATT&CK Community Workshop
+
+The sixth workshop will take place on 23 October, hosted by CIRCL. It will most likely be a virtual event again. THe opening of the registration will be announced on social media and via the EU ATT&CK Community mailing list. 
+
 # About the EU ATT&CK Community
 
 The EU ATT&CK Community a diverse community of practitioners including security professionals, cybersecurity vendors, CSIRTs/CERTs and organisations whose aim is to actively use MITRE ATT&CK™ while contributing back to improve cyber defense. The EU ATT&CK Community is a vendor neutral platform where all users can discuss, exchange and improve their use of adversary tactics and techniques together in practical use cases like attribution, prevention, detection, hunting and response.
 
 # Contact
 
-If you want to get in touch with us, you can reach us via email contact@freddydezeure.eu and info@circl.lu.
+If you want to get in touch with us, you can reach us via email contact@freddydezeure.eu and info@circl.lu. You can join the mailing list by sending a request to info@circl.lu.
