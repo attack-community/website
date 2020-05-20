@@ -7,7 +7,7 @@ subtitle: Fifth EU ATT&CK Community Workshop
 
 The fifth EU ATT&CK Community Workshop has taken place on 18 and 19 May 2020, as a virtual event. The event was very successful, with more than 1800 individual attendees, between 500 and 800 of them online at any time during the two days.  
 
-The agenda was packed with inspiring, useful and stimulating content, with updates from MITRE and from the developers of community systems and tools supporting the ATT&CK Framework and SIGMA. There were also very interesting presentations of best practices from the user community and with different perspectives of the use of the Framework. There were also hands-on sections on some of the tools available (Navigator, SIGMA, DETT&CT etc.).
+The agenda was packed with inspiring, useful and stimulating content, with updates from MITRE and from the developers of community systems and tools supporting the ATT&CK Framework and SIGMA. There were also very interesting presentations of best practices from the user community and different perspectives of the use of the Framework. There were also hands-on sections on some of the tools available (Navigator, SIGMA, DETT&CT etc.).
 
 The presentations are available on the following link:
 
