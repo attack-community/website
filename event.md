@@ -9,7 +9,7 @@ The fifth EU ATT&CK Community Workshop has taken place on 18 and 19 May 2020, as
 
 The agenda was packed with inspiring, useful and stimulating content, with updates from MITRE and from the developers of community systems and tools supporting the ATT&CK Framework and SIGMA. There were also very interesting presentations of best practices from the user community and different perspectives of the use of the Framework. There were also hands-on sections on some of the tools available (Navigator, SIGMA, DETT&CT etc.).
 
-The presentations with the respective Q&A as well as the results of the polls done during the breaks are available on the following link:
+The presentations with their respective Q&A as well as the results of the poll done during the breaks are available on the following link:
 
 <a href="https://web.tresorit.com/l/f9aK8#YQ4UTUMhq-8ukYJpy9n7hA"> Presentations and Q&A at the fifth EU ATT&CK workshop 18-19 May 2020.</a>
 
