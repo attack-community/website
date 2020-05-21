@@ -11,7 +11,7 @@ The agenda was packed with inspiring, useful and stimulating content, with updat
 
 The presentations with their respective Q&A as well as the results of the poll done during the breaks are available on the following link:
 
-<a href="https://web.tresorit.com/l/RuMkm#WTj9QDYnQ9ugL3qWWwGd7A"> Presentations and Q&A at the fifth EU ATT&CK workshop 18-19 May 2020.</a>
+<a href="https://web.tresorit.com/l/yNDTE#Ug5RVtXe33J4mt-ECSPGaQ"> Presentations and Q&A at the fifth EU ATT&CK workshop 18-19 May 2020.</a>
 
 # Agenda
 
