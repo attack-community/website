@@ -25,6 +25,7 @@ description: A user community of the MITRE’s Adversarial Tactics, Techniques, 
 navbar-links:
   About: "about"
   Event: "event"
+  Directory: "directory"
   Resources:
     - Gitter chat: "https://gitter.im/attack-community/Lobby#"
     - GitHub Pages: "https://github.com/attack-community/attack-best-practices"
