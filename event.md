@@ -17,7 +17,7 @@ The presentations with their respective Q&A as well as the results of the poll d
 
 <a href="https://web.tresorit.com/l/lN841#uqbRHdXCFzVVX8obs1OEUw"> Presentations and Q&A from the fifth EU ATT&CK workshop 18-19 May 2020.</a>
 
-The experience of adapting a planned large physicial conference to a virtual format was described in a blogpost after the event:
+The experience of adapting a planned large physicial conference to a virtual format was described in a blogpost:
 
 <a href="https://medium.com/@contact_98783/organizing-a-conference-during-lockdown-4486d722eee1"> Organizing a conference during lockdown.</a>
 
