@@ -36,8 +36,8 @@ Directory of tools discussed during the EU ATT&CK Community Workshops.
 
 | Name                             | Link                                                 | Owner                         |
 |----------------------------------|------------------------------------------------------|-------------------------------|
+| CALDERA                          | [https://github.com/mitre/caldera](https://github.com/mitre/caldera)    | MITRE                         |
+| Atomic Red Team                  | [https://github.com/redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)      | Red Canary                    |
 | SPLUNK ATTACK Range              | [https://github.com/splunk/attack_range](https://github.com/splunk/attack_range)              | SPLUNK                        |
 | MORDOR                           | [https://mordordatasets.com/introduction.html](https://mordordatasets.com/introduction.html)         | Roberto Rodriguez             |
-| Atomic Red Team                  | [https://github.com/redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)      | Red Canary                    |
-| CALDERA                          | [https://github.com/mitre/caldera](https://github.com/mitre/caldera)    | MITRE                         |
 
