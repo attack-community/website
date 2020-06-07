@@ -8,14 +8,14 @@ Directory of tools discussed during the EU ATT&CK Community Workshops.
 
 | Name                             | Link                                                 | Owner                         |
 |----------------------------------|------------------------------------------------------|-------------------------------|
-| CTI                              |                                                      |                               |
+| #CTI                              |                                                      |                               |
 | Navigator                        | [https://mitre.github.io/attack-navigator/enterprise/](https://mitre.github.io/attack-navigator/enterprise/) | MITRE                         |
 | CAR                              | [https://car.mitre.org/wiki/Main_Page](https://car.mitre.org/wiki/Main_Page) | MITRE                         |
 | AMITT                            | [https://github.com/misinfosecproject/amitt_framework](https://github.com/misinfosecproject/amitt_framework) |                               |
 | MISP                             | [https://www.misp-project.org](https://www.misp-project.org/) | MISP Project             |
 |                                  |                                                      |                               |
 |                                  |                                                      |                               |
-| SOC/Detection/Hunting/Blue Team |                                                      |                               |
+| #SOC/Detection/Hunting/Blue Team |                                                      |                               |
 | SIGMA                            | [https://github.com/Neo23x0/sigma](https://github.com/Neo23x0/sigma)                    | Florian Roth                  |
 | SIGMA Rules                      | [https://github.com/Neo23x0/sigma/tree/master/rules ](https://github.com/Neo23x0/sigma/tree/master/rules)  | Florian Roth                  |
 | OSCD Community                   | [https://oscd.community ](https://oscd.community )                               |                               |
@@ -29,7 +29,7 @@ Directory of tools discussed during the EU ATT&CK Community Workshops.
 | DETT&CT                          | [https://github.com/rabobank-cdc/DeTTECT](https://github.com/rabobank-cdc/DeTTECT)             | Marcus Bakker / Ruben Bouwman |
 | attack2jira                      | [https://github.com/mvelazc0/attack2jira](https://github.com/mvelazc0/attack2jira)              | Mauricio Velazco              |
 |                                  |                                                      |                               |
-| Red Team / Testing               |                                                      |                               |
+| #Red Team / Testing               |                                                      |                               |
 | SPLUNK ATTACK Range              | [https://github.com/splunk/attack_range](https://github.com/splunk/attack_range)              | SPLUNK                        |
 | MORDOR                           | [https://mordordatasets.com/introduction.html](https://mordordatasets.com/introduction.html)         | Roberto Rodriguez             |
 | Atomic Red Team                  | [https://github.com/redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)      | Red Canary                    |
