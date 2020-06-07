@@ -24,7 +24,7 @@ description: A user community of the MITRE’s Adversarial Tactics, Techniques, 
 # List of links in the navigation bar
 navbar-links:
   About: "about"
-  Event: "event"
+  Events: "event"
   Resources:
     - Directory of Tools: "directory"
 
