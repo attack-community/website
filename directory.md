@@ -3,7 +3,7 @@ layout: page
 title: Directory of ATT&CK Open Source Tools
 ---
 
-Directory of tools discussed during the EU ATT&CK Community Workshops.
+Tools discussed during the EU ATT&CK Community Workshops.
 
 # CTI
 
