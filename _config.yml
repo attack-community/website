@@ -75,7 +75,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "info@attack-community.org"
+  email: "info@circl.lu"
   github: attack-community
 #  twitter: daattali
 #  reddit: yourname
