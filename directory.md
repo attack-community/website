@@ -15,7 +15,7 @@ Directory of tools discussed during the EU ATT&CK Community Workshops.
 | MISP                             | [https://www.misp-project.org](https://www.misp-project.org/) | MISP Project             |
 |                                  |                                                      |                               |
 |                                  |                                                      |                               |
-| Detection/Hunting/Blue Team |                                                      |                               |
+| SOC/Detection/Hunting/Blue Team |                                                      |                               |
 | SIGMA                            | [https://github.com/Neo23x0/sigma](https://github.com/Neo23x0/sigma)                    | Florian Roth                  |
 | SIGMA Rules                      | [https://github.com/Neo23x0/sigma/tree/master/rules ](https://github.com/Neo23x0/sigma/tree/master/rules)  | Florian Roth                  |
 | OSCD Community                   | [https://oscd.community ](https://oscd.community )                               |                               |
