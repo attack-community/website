@@ -3,11 +3,11 @@ layout: page
 title: EU ATT&CK Community
 subtitle: EU ATT&CK Community Workshops
 ---
-# Sixth EU ATT&Ck Community Workshop
+# Sixth EU ATT&CK Community Workshop
 
 The sixth workshop will take place on 23 October, as a virtual event. The opening of the registrations will be announced on social media and via the EU ATT&CK Community mailing list. 
 
-# Fifth EU ATT&Ck Community Workshop
+# Fifth EU ATT&CK Community Workshop
 
 The fifth EU ATT&CK Community Workshop has taken place on 18 and 19 May 2020, as a virtual event. The event was very successful, with more than 1800 individual attendees joining from 76 countries. We had between 500 and 800 participants online at any time during the two days.  The event was co-hosted and strongly supported by <a href="https://mitre-engenuity.org/"> MITRE Engenuity.</a> .  
 
