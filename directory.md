@@ -1,11 +1,9 @@
 ---
 layout: page
-title: EU ATT&CK Community Directory of Tools and Models
+title: Directory of ATT&CK Open Source Tools
 ---
 
-# EU ATT&CK Community Directory of Tools and Models
-
-Directory of tools and models discussed during the EU ATT&CK Community.
+Directory of tools discussed during the EU ATT&CK Community Workshops.
 
 
 | Name                             | Link                                                 | Owner                         |
