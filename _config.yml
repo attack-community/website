@@ -26,10 +26,11 @@ navbar-links:
   About: "about"
   Events: "event"
   Resources:
-    - Directory of Tools: "directory"
-    - Slides from the fifth workshop: "directory"
-
-    
+    - Directory of Open Source Tools: "directory"
+    - Slides from the Fifth Workshop: "https://web.tresorit.com/l/lN841#uqbRHdXCFzVVX8obs1OEUw"
+    - Slides from the Fourth Workshop: "https://web.tresorit.com/l/yxYqH#Hftihl820SXk1zqIFe1YwQ"
+    - Slides from the Third Workshop: "https://web.tresorit.com/l/vcXZj#TdH1Ht0aX_0DMWzxyDXQAw"
+   
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
