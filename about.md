@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About EU ATT&CK community
+title: About EU ATT&CK Community
 subtitle: The background story
 ---
 
