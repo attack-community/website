@@ -14,8 +14,7 @@ TRE ATT&CK™ can be found at <a href="https://attack.mitre.org/"> MITRE ATT&CK�
 
 On 24-25 May 2018, over 40 cybersecurity professionals met at C3 (the Cybersecurity Competence Center) in Luxembourg to discuss how MITRE ATT&CK™ can help strengthen cyber defense. The parti
 cipants came from over 30 different organizations, ranging from national CERTs to financial sector organizations to cybersecurity vendors. Despite their differences in country of origin, sec
-tor, and background, attendees came together with a common goal of sharing how MITRE ATT&CK™ can be used in practice. The group found value about hearing each other’s use cases and thought i
-t would be valuable to continue the conversation. Since then EU ATT&CK workshops have been organised twice a year.
+tor, and background, attendees came together with a common goal of sharing how MITRE ATT&CK™ can be used in practice. The group found value about hearing each other’s use cases and thought it would be valuable to continue the conversation. Since then EU ATT&CK workshops have been organised twice a year.
 
 # Contact
 

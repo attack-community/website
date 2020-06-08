@@ -9,7 +9,7 @@ The sixth workshop will take place on 23 October, as a virtual event. The openin
 
 # Fifth EU ATT&CK Community Workshop
 
-The fifth EU ATT&CK Community Workshop has taken place on 18 and 19 May 2020, as a virtual event. The event was very successful, with more than 1800 individual attendees joining from 76 countries. We had between 500 and 800 participants online at any time during the two days.  The event was co-hosted and strongly supported by <a href="https://mitre-engenuity.org/"> MITRE Engenuity.</a> .  
+The fifth EU ATT&CK Community Workshop has taken place on 18 and 19 May 2020, as a virtual event. The event was very successful, with more than 1800 individual attendees joining from 76 countries. We had between 500 and 800 participants online at any time during the two days.  The event was co-hosted and strongly supported by <a href="https://mitre-engenuity.org/"> MITRE Engenuity</a> .  
 
 The agenda was packed with inspiring, useful and stimulating content, with updates from MITRE and from the developers of community systems and tools supporting the ATT&CK Framework and SIGMA. There were also very interesting presentations of best practices from the user community and different perspectives of the use of the Framework. There were also hands-on sections on some of the tools available (Navigator, Caldera, SIGMA, DeTT&CT etc.).
 
