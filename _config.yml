@@ -25,8 +25,8 @@ description: A user community of the MITRE’s Adversarial Tactics, Techniques, 
 navbar-links:
   About: "about"
   Events: "event"
+  Tools: "directory"
   Resources:
-    - Directory of Open Source Tools: "directory"
     - Slides from the Fifth Workshop: "https://web.tresorit.com/l/lN841#uqbRHdXCFzVVX8obs1OEUw"
     - Slides from the Fourth Workshop: "https://web.tresorit.com/l/yxYqH#Hftihl820SXk1zqIFe1YwQ"
     - Slides from the Third Workshop: "https://web.tresorit.com/l/vcXZj#TdH1Ht0aX_0DMWzxyDXQAw"
@@ -75,8 +75,8 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "info@attack-community.org"
-  github: attack-community
+  email: "info@circl.lu"
+#  github: attack-community
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
