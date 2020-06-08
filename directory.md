@@ -15,7 +15,7 @@ Tools discussed during the EU ATT&CK Community Workshops.
 | MISP                             | [https://www.misp-project.org](https://www.misp-project.org/) | MISP Project             |
 |                                  |                                                      |                               |
 
-# SOC / Detection / Hunting / Blue Teams
+# Detection / Hunting / Blue Teams
 
 | Name                             | Link                                                 | Owner                         |
 |----------------------------------|------------------------------------------------------|-------------------------------|
@@ -32,7 +32,7 @@ Tools discussed during the EU ATT&CK Community Workshops.
 | DETT&CT                          | [https://github.com/rabobank-cdc/DeTTECT](https://github.com/rabobank-cdc/DeTTECT)             | Marcus Bakker / Ruben Bouwman |
 | attack2jira                      | [https://github.com/mvelazc0/attack2jira](https://github.com/mvelazc0/attack2jira)              | Mauricio Velazco              |
 
-# Red Teams / Testing of Controls
+# Prevention / Red Teams / Testing of Controls
 
 | Name                             | Link                                                 | Owner                         |
 |----------------------------------|------------------------------------------------------|-------------------------------|
