@@ -19,7 +19,7 @@ Tools discussed during the EU ATT&CK Community Workshops.
 
 | Name                             | Link                                                 | Owner                         |
 |----------------------------------|------------------------------------------------------|-------------------------------|
-| SIGMA                            | [https://github.com/Neo23x0/sigma](https://github.com/Neo23x0/sigma)                    | Florian Roth                  |
+| SIGMA                            | [https://github.com/Neo23x0/sigma](https://github.com/Neo23x0/sigma)                    | Florian Roth / Thomas Patzke                 |
 | SIGMA Rules                      | [https://github.com/Neo23x0/sigma/tree/master/rules ](https://github.com/Neo23x0/sigma/tree/master/rules)  | Florian Roth                  |
 | OSCD Community                   | [https://oscd.community ](https://oscd.community )                               |                               |
 | BZAR                             | [https://github.com/mitre-attack/bzar ](https://github.com/mitre-attack/bzar)                 | MITRE                         |
