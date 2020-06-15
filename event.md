@@ -5,7 +5,7 @@ subtitle: EU ATT&CK Community Workshops
 ---
 # Sixth EU ATT&CK Community Workshop
 
-Our next workshop will take place on 23 October, as a virtual event. We will continue the highly-effective format of short (15’) lightning talks, focusing the selected talks on the following themes in two-hour blocks: 
+Our next workshop will take place on 23 October, as a virtual event. We will continue the highly-effective format of short lightning talks, focusing on the following themes in two-hour blocks: 
 -	Cyber threat intelligence, information sharing
 -	Detection, hunting, blue teaming
 -	Prevention, red teaming
