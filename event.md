@@ -11,7 +11,6 @@ Our next workshop will take place on 23 October, as a virtual event. We will con
 -	Prevention, red teaming
 
 You can register using the following link: 
-
 <a href="https://scic.ec.europa.eu/ew/register/dgscic/EU_ATT_CK_Community_Workshop_23_Oct_2020/e/lk/g/15270/k/"> Registration for the sixth EU ATT&CK workshop 23 October 2020.</a>
 
 During your registration, we kindly invite you to indicate your willingness to give a lightning talk. We offer the opportunity to selected speakers to provide a one-page written contribution as well which will be included in the workshop proceedings. Contributions will be peer-reviewed under the editorial coordination of CIRCL. 
@@ -23,11 +22,9 @@ The fifth EU ATT&CK Community Workshop has taken place on 18 and 19 May 2020, as
 The agenda was packed with inspiring, useful and stimulating content, with updates from MITRE and from the developers of community systems and tools supporting the ATT&CK Framework and SIGMA. There were also very interesting presentations of best practices from the user community and different perspectives of the use of the Framework. There were also hands-on sections on some of the tools available (Navigator, Caldera, SIGMA, DeTT&CT etc.).
 
 The presentations with their respective Q&A are available on the following link:
-
 <a href="https://web.tresorit.com/l/lN841#uqbRHdXCFzVVX8obs1OEUw"> Presentations and Q&A from the fifth EU ATT&CK workshop 18-19 May 2020.</a>
 
 The experience of adapting a planned large physicial conference to a virtual format was described in a blogpost:
-
 <a href="https://medium.com/@contact_98783/organizing-a-conference-during-lockdown-4486d722eee1"> Organizing a conference during lockdown.</a>
 
 # About the EU ATT&CK Community
