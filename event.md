@@ -9,12 +9,12 @@ Our next workshop will take place on 23 October, as a virtual event. We will con
 -	Cyber threat intelligence, information sharing
 -	Detection, hunting, blue teaming
 -	Prevention, red teaming
-During your registration, we kindly invite you to indicate your willingness to give a lightning talk. We offer the opportunity to selected speakers to provide a one-page written contribution as well which will be included in the workshop proceedings. Contributions will be peer-reviewed under the editorial coordination of CIRCL. 
-
 
 You can register using the following link: 
 
 <a href="https://scic.ec.europa.eu/ew/register/dgscic/EU_ATT_CK_Community_Workshop_23_Oct_2020/e/lk/g/15270/k/"> Registration for the sixth EU ATT&CK workshop 23 October 2020.</a>
+
+During your registration, we kindly invite you to indicate your willingness to give a lightning talk. We offer the opportunity to selected speakers to provide a one-page written contribution as well which will be included in the workshop proceedings. Contributions will be peer-reviewed under the editorial coordination of CIRCL. 
 
 # Fifth EU ATT&CK Community Workshop
 
