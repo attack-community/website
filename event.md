@@ -5,7 +5,9 @@ subtitle: EU ATT&CK Community Workshops
 ---
 # Sixth EU ATT&CK Community Workshop
 
-The sixth workshop will take place on 23 October, as a virtual event. The opening of the registrations will be announced on social media and via the EU ATT&CK Community mailing list. 
+Our next workshop will take place on 23 October, as a virtual event. You can register using the following link: 
+
+<a href="https://scic.ec.europa.eu/ew/register/dgscic/EU_ATT_CK_Community_Workshop_23_Oct_2020/e/lk/g/15270/k/"> Registration for the sixth EU ATT&CK workshop 23 October 2020.</a>
 
 # Fifth EU ATT&CK Community Workshop
 
