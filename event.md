@@ -5,15 +5,12 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 ---
 # Sixth EU MITRE ATT&CK® Community Workshop
 
-Our next workshop will take place on 23 October, as a virtual event, in cooperation with <a href="https://mitre-engenuity.org/">MITRE Engenuity's Center for Threat-Informed Defense</a>, CIRCL and CERT-EU. We will continue the highly-effective format of short lightning talks, focusing on the following themes in two-hour blocks: 
--	Cyber threat intelligence, information sharing
--	Detection, hunting, blue teaming
--	Prevention, red teaming
+Our next workshop will take place on 23 October, as a virtual event, in cooperation with <a href="https://mitre-engenuity.org/">MITRE Engenuity's Center for Threat-Informed Defense</a>, CIRCL and CERT-EU. We will continue the highly-effective format of short lightning talks.
 
-You can register using the following link: 
+The link to the videostream will only be made available to registered and accepted participants. The event will not be recorded. Participation is at no cost but registration is required. You can register using the following link: 
 <a href="https://scic.ec.europa.eu/ew/register/dgscic/EU_ATT_CK_Community_Workshop_23_Oct_2020/e/lk/g/15270/k/"> Registration for the sixth EU MITRE ATT&CK® workshop 23 October 2020.</a>
 
-During your registration, we kindly invite you to indicate your willingness to give a lightning talk. We offer the opportunity to selected speakers to provide a one-page written contribution as well which will be included in the workshop proceedings. Contributions will be peer-reviewed under the editorial coordination of CIRCL. 
+The agenda is complete now, we cannot take additional speakers anymore for this workshop. 
 
 ## Agenda
 
