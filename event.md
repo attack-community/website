@@ -5,7 +5,7 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 ---
 # Save the date for the Seventh EU MITRE ATT&CK® Community Workshop
 
-The seventh workshop will taken place on 1-2 June 2021, as a virtual event, in cooperation with <a href="https://mitre-engenuity.org/">MITRE Engenuity's Center for Threat-Informed Defense</a>, CIRCL and CERT-EU. We will continue the highly-effective format of short lightning talks.
+The seventh workshop will taken place on 1-2 June 2021.
 
 # Sixth EU MITRE ATT&CK® Community Workshop
 
