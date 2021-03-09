@@ -6,9 +6,9 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 
 # Seventh EU MITRE ATT&CK® Community Workshop
 
-The seventh EU ATT&CK Community Workshop will take place, in virtual format, on 1-2 June 2021 from 1pm CET until 7pm CET. The workshop is supported by CERT-EU, CIRCL and the MITRE Engenuity Center for Threat-Informed Defense. It is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CKTM Framework in Prevention, Detection/Hunting and Response. 
+The seventh EU ATT&CK Community Workshop will take place, in virtual format, on 1-2 June 2021 from 1pm CET until 7pm CET. The workshop is supported by CERT-EU, CIRCL and the MITRE Engenuity Center for Threat-Informed Defense. It is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response. 
 
-You will hear updates from MITRE and from the developers of systems and tools supporting the ATT&CKTM Framework. But even more importantly, you will learn best practices from your peers in the user community. 
+You will hear updates from MITRE and from the developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community. 
 
 We will continue the highly-effective format of short (15’) lightning talks, focusing on the following themes: 
 1.	Tools and methods for sharing (CyCAT, SIGMA, MISP…)
