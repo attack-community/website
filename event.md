@@ -25,7 +25,7 @@ Participation to this event is at no cost for the participants, but registration
 You can register on the following link:
 <a href="https://scic.ec.europa.eu/ew/register/dgscic/EU_MITRE_ATTACK_01_01_June_2021_virtual/e/lk/g/23630/k/"> Registration for the seventh EU ATT&CK workshop.</a>
 
-Those of you who registered for the sixth workshop can reuse their login credentials to registered for the seventh conference. The registration system is the same. 
+Those of you who registered for the sixth workshop can reuse their login credentials to registered for the seventh conference. The registration system is the same. We will distribute to all registered participants the videoconference information along with a detailed agenda in due time before the start of the event.
 
 Our experience of adapting a large physical conference to a virtual format in the fifth workshop was described in a blogpost:
 <a href="https://medium.com/@contact_98783/organizing-a-conference-during-lockdown-4486d722eee1"> Organizing a conference during lockdown.</a>
