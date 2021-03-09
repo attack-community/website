@@ -16,7 +16,7 @@ We will continue the highly-effective format of short (15’) lightning talks, f
 3.	ATT&CK flavors (cloud, telecom, ICS, Active Defense…)
 
 We intend to launch the alpha version of CyCAT (https://cycat.org/) at the workshop. We would very much welcome presentations from the community on existing repositories that are planned to be submitted to CyCAT for inclusion and the expectations of the authors. There will also be a hand-on session on CyCAT at the end of the first day. 
-It would be highly appreciated if you would be willing to share your experience with the ATT&CKTM Framework in any of the three domains in a 15’ lightning talk. We would also welcome short (5’) presentations of an unresolved problem in your environment: “I have a problem, does the community have a solution?” 
+It would be highly appreciated if you would be willing to share your experience with the ATT&CK® Framework in any of the three domains in a 15’ lightning talk. We would also welcome short (5’) presentations of an unresolved problem in your environment: “I have a problem, does the community have a solution?” 
 
 We would like to point out that the presentations should focus on practical insights and contributions that the community can put into practice. Tools and methods presented should therefore be accessible and deployable by the participants. Commercial content in the presentations will not be accepted. 
 
