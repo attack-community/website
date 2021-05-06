@@ -24,6 +24,55 @@ Those of you who registered for the sixth workshop can reuse their login credent
 Our experience of adapting a large physical conference to a virtual format in the fifth workshop was described in a blogpost:
 <a href="https://medium.com/@contact_98783/organizing-a-conference-during-lockdown-4486d722eee1"> Organizing a conference during lockdown.</a>
 
+## Agenda
+
+| 01-Jun   |                                                                                       |             |            |                                   |
+|----------|---------------------------------------------------------------------------------------|-------------|------------|-----------------------------------|
+|          |                                                                                       |             |            |                                   |
+| Time CET | Ttile                                                                                 | First namer | Last name  | Organisation                      |
+| 14.00    | Opening and welcome (Freddy & Rich)                                                   | Freddy      | Dezeure    |                                   |
+| 14.10    | Update from the MITRE ATT&CK team                                                     | Adam        | Pennington | MITRE                             |
+| 14.30    | Adversary Engagement from ATT&CK to MITRE Shield                                      | Stanley     | Barr       | MITRE                             |
+| 14:45    | MITRE ATT&CK Defender Certification and Training Overview                             | Chriss      | Knisley    | MITRE-ENGENUITY                   |
+| 15.00    | Offical launch of CyCAT                                                               | Alex        | Dulaunoy   | CIRCL                             |
+| 15.15    | Great news on SIGMA                                                                   | Thomas      | Patzke     |                                   |
+| 15.30    | How Google YARA-L Works with Sigma and Other Community Standards                      | Anton       | Chuvakin   | GOOGLE                            |
+| 15.45    | ENGENUITY Atomic data source projet                                                   | TBD         |            | MITRE                             |
+|          |                                                                                       |             |            |                                   |
+| 16.00    | Break for coffee -                                                                    |             |            |                                   |
+|          |                                                                                       |             |            |                                   |
+| 16.15    | TBD                                                                                   |             |            |                                   |
+| 16.30    | ATT&CK operationalization                                                             | Joris       | Pinoy      | EUROCLEAR                         |
+| 16.45    | Analysis of 1.5 years of APT activity data                                            | Vicente     | Diaz       | VirusTotal                        |
+| 17.00    | How to integrate MITRE ATT&CK into official security documentations                   | Desiree     | Sacher     | Finanz Informatik                 |
+| 17.15    | TBD                                                                                   |             |            |                                   |
+| 17.30    | TTPs with MITRE ATT&CK in TheHive                                                     | Jérôme      | Léonard    | StrangeBee                        |
+| 17.45    | TBD                                                                                   |             |            |                                   |
+|          |                                                                                       |             |            |                                   |
+| Hands on |                                                                                       |             |            |                                   |
+| 18.00    | Hands on with CyCAT                                                                   | Alex        | Dulaunoy   | CIRCL                             |
+|          |                                                                                       |             |            |                                   |
+| 02-Jun   |                                                                                       |             |            |                                   |
+| 14.00    | Building an Indicators of Risk Library based on ICS ATT&CK                            | Carolina    | Adaros     | ETAS BOSCH                        |
+| 14:15    | Creating Attack Graphs for Purple Teaming in ICS Environments                         | Jan         | Hoff       | EON                               |
+| 14.30    | TBD                                                                                   |             |            |                                   |
+| 14.45    | Who littered the sandbox? Scooping up new malware behavior.                           | Olaf        | Hartong    | FALCONFORCE                       |
+| 14.00    | Security Incident Timing Metrics - let’s all align!                                   | Francesco   | Chiarini   | ISSA                              |
+| 14.15    | Metrics for ATT&CK coverage and effectiveness                                         | Nicholas    | Amon       | MITRE                             |
+| 14.30    | How GoCardless is tracking Maturity and Coverage of MITRE ATT&CK using attack2jira2.0 | Melanie     | Molina     | GoCardlesss                       |
+| 14.45    | TBD                                                                                   |             |            |                                   |
+| 15.00    | TBD                                                                                   |             |            |                                   |
+| 15.15    | TBD                                                                                   |             |            |                                   |
+| 15.30    | New resources from the Centre of Threat Informed Defence                              | Rich        | Struse     | MITRE ENGENUITY                   |
+|          |                                                                                       |             |            |                                   |
+| 15.45    | Break for coffee                                                                      |             |            |                                   |
+|          |                                                                                       |             |            |                                   |
+| 16.00    | TBD                                                                                   |             |            |                                   |
+| 16.15    | Using MITRE ATT&CK for better communication                                           | Philip      | Winther    | CERTA Intelligence & Security A/S |
+| 16.30    | Sigma customisations and Threat Bounty updates                                        | Andrii      | Bezverkhyi | SOCPRIME                          |
+| 16.45    | Red Team Ops: Planning and Targeting with ATT&CK                                      | Agostino    | Panico     | MOVEAX                            |
+| 17.00    | How to effectively use ATT&CK in the context of TIBER-EU                              | Jose Miguel | Esparza    | BlueLiv                           |
+
 # About the EU ATT&CK Community
 
 The EU ATT&CK Community is a diverse community of practitioners including security professionals, cybersecurity vendors, CSIRTs/CERTs and user organisations whose aim is to actively use MITRE ATT&CK® while contributing back to improve cyber defense. The EU MITRE ATT&CK® Community is a volunteer-driven vendor neutral platform where all users can discuss, exchange and improve their use of adversary tactics and techniques together in practical use cases like attribution, prevention, detection, hunting and response.
