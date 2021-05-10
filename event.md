@@ -49,7 +49,7 @@ There are still speaking slots available and it would be highly appreciated if y
 | 14:15    | Creating Attack Graphs for Purple Teaming in ICS Environments                         | Jan         | Hoff       | EON                               |
 | 14.30    | TBD                                                                                   |             |            |                                   |
 | 14.45    | Who littered the sandbox? Scooping up new malware behavior.                           | Olaf        | Hartong    | FALCONFORCE                       |
-| 14.00    | Security Incident Timing Metrics - let’s all align!                                   | Francesco   | Chiarini   | ISSA                              |
+| 14.00    | Security Incident Timing Metrics - let’s all align!                                   | Francesco   | Chiarini   | FIRST.org                         |
 | 14.15    | Metrics for ATT&CK coverage and effectiveness                                         | Nicholas    | Amon       | MITRE                             |
 | 14.30    | How GoCardless is tracking Maturity and Coverage of MITRE ATT&CK using attack2jira2.0 | Melanie     | Molina     | GoCardlesss                       |
 | 14.45    | ATT&CKing Active Directory: Automated Adversary Simulation against AD                 | Mauricio    | Velazco    | SPLUNK                            |
