@@ -63,7 +63,7 @@ There are still speaking slots available and it would be highly appreciated if y
 | 16.15    | Using MITRE ATT&CK for better communication                                           | Philip      | Winther    | CERTA Intelligence & Security A/S |
 | 16.30    | Sigma customisations and Threat Bounty updates                                        | Andrii      | Bezverkhyi | SOCPRIME                          |
 | 16.45    | Red Team Ops: Planning and Targeting with ATT&CK                                      | Agostino    | Panico     | MOVEAX                            |
-| 17.00    | How to effectively use ATT&CK in the context of TIBER-EU                              | Jose Miguel | Esparza    | BlueLiv                           |
+| 17.00    | How to effectively use ATT&CK in the context of TIBER-EU                              | Jose Miguel | Esparza    | Blueliv                           |
 
 Participation to this event is at no cost, but registration is required. We insist that you provide your real name, affiliation and a corporate email address in your registration. You can register on the following link:
 <a href="https://scic.ec.europa.eu/ew/register/dgscic/EU_MITRE_ATTACK_01_01_June_2021_virtual/e/lk/g/23630/k/"> Registration for the seventh EU ATT&CK workshop.</a>
