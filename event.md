@@ -37,7 +37,7 @@ There are still speaking slots available and it would be highly appreciated if y
 | 16.30    | ATT&CK operationalization                                                             | Joris       | Pinoy      | EUROCLEAR                         |
 | 16.45    | Analysis of 1.5 years of APT activity data                                            | Vicente     | Diaz       | VirusTotal                        |
 | 17.00    | How to integrate MITRE ATT&CK into official security documentations                   | Desiree     | Sacher     | Finanz Informatik                 |
-| 17.15    | TBD                                                                                   |             |            |                                   |
+| 17.15    | Extending MITRE ATT&CK for better Adversary profiling                                 | Mikel       | Gastesi    | CounterCraft                      |
 | 17.30    | TTPs with MITRE ATT&CK in TheHive                                                     | Jérôme      | Léonard    | StrangeBee                        |
 | 17.45    | TBD                                                                                   |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
