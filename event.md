@@ -14,7 +14,7 @@ We plan a breakout sesssion on SIGMA and datamodels, in which you will be able t
 
 We will launch the alpha version of CyCAT (https://cycat.org/) at the workshop. We would very much welcome presentations from the community on existing repositories that could be included in CyCAT. There will also be a hand-on session on CyCAT at the end of the first day. 
 
-There are still speaking slots available and it would be highly appreciated if you would be willing to share your experience with the ATT&CK® Framework in a 15’ lightning talk. We also welcome short (5’) presentations of an unresolved problem in your environment: “I have a problem, does the community have a solution?”. Presentations should focus on practical insights and contributions that the community can put into practice. Tools and methods presented should therefore be accessible and deployable by the participants. Commercial content in the presentations will not be accepted. 
+Presentations should focus on practical insights and contributions that the community can put into practice. Tools and methods presented should therefore be accessible and deployable by the participants. Commercial content in the presentations will not be accepted. 
 
 ## Agenda
 
