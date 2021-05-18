@@ -6,7 +6,7 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 
 # Seventh EU MITRE ATT&CK® Community Workshop
 
-The seventh EU ATT&CK Community Workshop will take place, in virtual format, on 1-2 June 2021 from 2pm CET until 6pm CET. The workshop is supported by CERT-EU, CIRCL and the MITRE Engenuity Center for Threat-Informed Defense. It is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response. 
+The seventh EU ATT&CK Community Workshop will take place, in virtual format, on 1-2 June 2021 from 2pm CET until 6pm CEST. The workshop is supported by CERT-EU, CIRCL and the MITRE Engenuity Center for Threat-Informed Defense. It is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response. 
 
 You will hear updates from MITRE and from developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community. Here is the draft agenda:
 
@@ -26,7 +26,7 @@ Presentations should focus on practical insights and contributions that the comm
 | 14.10    | Update from the MITRE ATT&CK team                                                     | Adam        | Pennington | MITRE                             |
 | 14.30    | Adversary Engagement from ATT&CK to MITRE Shield                                      | Stanley     | Barr       | MITRE                             |
 | 14:45    | MITRE ATT&CK Defender Certification and Training Overview                             | Chriss      | Knisley    | MITRE-ENGENUITY                   |
-| 15.00    | Offical launch of CyCAT                                                               | Alex        | Dulaunoy   | CIRCL                             |
+| 15.00    | Official launch of CyCAT                                                               | Alex        | Dulaunoy   | CIRCL                             |
 | 15.15    | Great news on SIGMA                                                                   | Thomas      | Patzke     |                                   |
 | 15.30    | How Google YARA-L Works with Sigma and Other Community Standards                      | Anton       | Chuvakin   | GOOGLE                            |
 | 15.45    | ENGENUITY Atomic data source projet                                                   | TBD         |            | MITRE                             |
