@@ -46,7 +46,7 @@ Presentations should focus on practical insights and contributions that the comm
 |          |                                                                                       |             |            |                                   |
 | 02-Jun   |                                                                                       |             |            |                                   |
 | 14.00    | Building an Indicators of Risk Library based on ICS ATT&CK                            | Carolina    | Adaros     | ETAS BOSCH                        |
-| 14:15    | Creating Attack Graphs for Purple Teaming in ICS Environments                         | Jan         | Hoff       | EON                               |
+| 14:15    | Creating Attack Graphs for Purple Teaming in ICS Environments                         | Jan         | Hoff       |                                |
 | 14.30    | TBD                                                                                   |             |            |                                   |
 | 14.45    | Who littered the sandbox? Scooping up new malware behavior.                           | Olaf        | Hartong    | FALCONFORCE                       |
 | 14.00    | Security Incident Timing Metrics - let’s all align!                                   | Francesco   | Chiarini   | FIRST.org                         |
