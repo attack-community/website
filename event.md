@@ -51,7 +51,7 @@ Presentations should focus on practical insights and contributions that the comm
 | 14.45    | Who littered the sandbox? Scooping up new malware behavior.                           | Olaf        | Hartong    | FALCONFORCE                       |
 | 14.00    | Security Incident Timing Metrics - let’s all align!                                   | Francesco   | Chiarini   | FIRST.org                         |
 | 14.15    | Metrics for ATT&CK coverage and effectiveness                                         | Nicholas    | Amon       | MITRE                             |
-| 14.30    | How GoCardless is tracking Maturity and Coverage of MITRE ATT&CK using attack2jira2.0 | Melanie     | Molina     | GoCardlesss                       |
+| 14.30    | How GoCardless is tracking Maturity and Coverage of MITRE ATT&CK using attack2jira2.0 | Melanie     | Molina     | GoCardless                       |
 | 14.45    | ATT&CKing Active Directory: Automated Adversary Simulation against AD                 | Mauricio    | Velazco    | SPLUNK                            |
 | 15.00    | TBD                                                                                   |             |            |                                   |
 | 15.15    | TBD                                                                                   |             |            |                                   |
