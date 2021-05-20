@@ -39,10 +39,10 @@ You will hear updates from MITRE and from developers of systems and tools suppor
 | 14:15    | Creating Attack Graphs for Purple Teaming in ICS Environments                         | Jan         | Hoff       |                                   |
 | 14.30    | Who littered the sandbox? Scooping up new malware behavior.                           | Olaf        | Hartong    | FALCONFORCE                       |
 | 14.45    | Security Incident Timing Metrics - let’s all align!                                   | Francesco   | Chiarini   | FIRST.org                         |
-| 15.00    | Metrics for ATT&CK coverage and effectiveness                                         | Nicholas    | Amon       | MITRE                             |
+| 15.00    | Mapping Platform Security Stacks to ATT&CK: Data Format, Rubric & Methodology         | Nicholas    | Amon       | MITRE                             |
 | 15.15    | How GoCardless is tracking Maturity and Coverage of MITRE ATT&CK using attack2jira2.0 | Melanie     | Molina     | GoCardless                        |
 | 15.30    | ATT&CKing Active Directory: Automated Adversary Simulation against AD                 | Mauricio    | Velazco    | SPLUNK                            |
-| 15.45    | New resources from the Center for Threat Informed Defence                              | Rich        | Struse     | MITRE ENGENUITY                   |
+| 15.45    | New resources from the Center for Threat Informed Defence                             | Rich        | Struse     | MITRE ENGENUITY                   |
 |          |                                                                                       |             |            |                                   |
 | 16.00    | Break for coffee                                                                      |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
