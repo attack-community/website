@@ -31,7 +31,7 @@ Presentations will focus on practical insights and contributions that the commun
 |          |                                                                                       |             |            |                                   |
 | 16.15    | ATT&CK operationalization                                                             | Joris       | Pinoy      | EUROCLEAR                         |
 | 16.30    | Analysis of 1.5 years of APT activity data                                            | Vicente     | Diaz       | VirusTotal                        |
-| 16.45    | How to integrate MITRE ATT&CK into official security documentations                   | Desiree     | Sacher     | Finanz Informatik                 |
+| 16.45    | How to integrate MITRE ATT&CK into official security documentation                    | Desiree     | Sacher     | Finanz Informatik                 |
 | 17.00    | Extending MITRE ATT&CK for better Adversary profiling                                 | Mikel       | Gastesi    | CounterCraft                      |
 | 17.15    | TTPs with MITRE ATT&CK in TheHive                                                     | Jérôme      | Léonard    | StrangeBee                        |
 | 17.30    | Hands on with CyCAT                                                                   | Alex        | Dulaunoy   | CIRCL                             |
