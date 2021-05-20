@@ -8,13 +8,9 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 
 The seventh EU ATT&CK Community Workshop will take place, in virtual format, on 1-2 June 2021 from 2pm CET until 6pm CET. The workshop is supported by CERT-EU, CIRCL and the MITRE Engenuity Center for Threat-Informed Defense. It is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response. 
 
-You will hear updates from MITRE and from developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community. Here is the draft agenda:
+You will hear updates from MITRE and from developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community. Here is the agenda:
 
-We plan a breakout sesssion on SIGMA and datamodels, in which you will be able to interact with the leading community experts. The breakout session is planned after the coffee break on the first day.
-
-We will launch the alpha version of CyCAT (https://cycat.org/) at the workshop. We would very much welcome presentations from the community on existing repositories that could be included in CyCAT. There will also be a hand-on session on CyCAT at the end of the first day. 
-
-Presentations should focus on practical insights and contributions that the community can put into practice. Tools and methods presented should therefore be accessible and deployable by the participants. Commercial content in the presentations will not be accepted. 
+Presentations will focus on practical insights and contributions that the community can put into practice. Tools and methods presented should therefore be accessible and deployable by the participants. Commercial content in the presentations will not be accepted. 
 
 ## Agenda
 
@@ -33,29 +29,22 @@ Presentations should focus on practical insights and contributions that the comm
 |          |                                                                                       |             |            |                                   |
 | 16.00    | Break for coffee -                                                                    |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
-| 16.15    | TBD                                                                                   |             |            |                                   |
-| 16.30    | ATT&CK operationalization                                                             | Joris       | Pinoy      | EUROCLEAR                         |
-| 16.45    | Analysis of 1.5 years of APT activity data                                            | Vicente     | Diaz       | VirusTotal                        |
-| 17.00    | How to integrate MITRE ATT&CK into official security documentations                   | Desiree     | Sacher     | Finanz Informatik                 |
-| 17.15    | Extending MITRE ATT&CK for better Adversary profiling                                 | Mikel       | Gastesi    | CounterCraft                      |
-| 17.30    | TTPs with MITRE ATT&CK in TheHive                                                     | Jérôme      | Léonard    | StrangeBee                        |
-| 17.45    | TBD                                                                                   |             |            |                                   |
-|          |                                                                                       |             |            |                                   |
-| Hands on |                                                                                       |             |            |                                   |
-| 18.00    | Hands on with CyCAT                                                                   | Alex        | Dulaunoy   | CIRCL                             |
+| 16.15    | ATT&CK operationalization                                                             | Joris       | Pinoy      | EUROCLEAR                         |
+| 16.30    | Analysis of 1.5 years of APT activity data                                            | Vicente     | Diaz       | VirusTotal                        |
+| 16.45    | How to integrate MITRE ATT&CK into official security documentations                   | Desiree     | Sacher     | Finanz Informatik                 |
+| 17.00    | Extending MITRE ATT&CK for better Adversary profiling                                 | Mikel       | Gastesi    | CounterCraft                      |
+| 17.15    | TTPs with MITRE ATT&CK in TheHive                                                     | Jérôme      | Léonard    | StrangeBee                        |
+| 17.30    | Hands on with CyCAT                                                                   | Alex        | Dulaunoy   | CIRCL                             |
 |          |                                                                                       |             |            |                                   |
 | 02-Jun   |                                                                                       |             |            |                                   |
 | 14.00    | Building an Indicators of Risk Library based on ICS ATT&CK                            | Carolina    | Adaros     | ETAS BOSCH                        |
-| 14:15    | Creating Attack Graphs for Purple Teaming in ICS Environments                         | Jan         | Hoff       |                                |
-| 14.30    | TBD                                                                                   |             |            |                                   |
-| 14.45    | Who littered the sandbox? Scooping up new malware behavior.                           | Olaf        | Hartong    | FALCONFORCE                       |
-| 14.00    | Security Incident Timing Metrics - let’s all align!                                   | Francesco   | Chiarini   | FIRST.org                         |
-| 14.15    | Metrics for ATT&CK coverage and effectiveness                                         | Nicholas    | Amon       | MITRE                             |
-| 14.30    | How GoCardless is tracking Maturity and Coverage of MITRE ATT&CK using attack2jira2.0 | Melanie     | Molina     | GoCardless                       |
-| 14.45    | ATT&CKing Active Directory: Automated Adversary Simulation against AD                 | Mauricio    | Velazco    | SPLUNK                            |
-| 15.00    | TBD                                                                                   |             |            |                                   |
-| 15.15    | TBD                                                                                   |             |            |                                   |
-| 15.30    | New resources from the Centre of Threat Informed Defence                              | Rich        | Struse     | MITRE ENGENUITY                   |
+| 14:15    | Creating Attack Graphs for Purple Teaming in ICS Environments                         | Jan         | Hoff       |                                   |
+| 14.30    | Who littered the sandbox? Scooping up new malware behavior.                           | Olaf        | Hartong    | FALCONFORCE                       |
+| 14.45    | Security Incident Timing Metrics - let’s all align!                                   | Francesco   | Chiarini   | FIRST.org                         |
+| 15.00    | Metrics for ATT&CK coverage and effectiveness                                         | Nicholas    | Amon       | MITRE                             |
+| 15.15    | How GoCardless is tracking Maturity and Coverage of MITRE ATT&CK using attack2jira2.0 | Melanie     | Molina     | GoCardless                        |
+| 15.30    | ATT&CKing Active Directory: Automated Adversary Simulation against AD                 | Mauricio    | Velazco    | SPLUNK                            |
+| 14.45    | New resources from the Centre of Threat Informed Defence                              | Rich        | Struse     | MITRE ENGENUITY                   |
 |          |                                                                                       |             |            |                                   |
 | 15.45    | Break for coffee                                                                      |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
@@ -68,10 +57,7 @@ Presentations should focus on practical insights and contributions that the comm
 Participation to this event is at no cost, but registration is required. We insist that you provide your real name, affiliation and a corporate email address in your registration. You can register on the following link:
 <a href="https://scic.ec.europa.eu/ew/register/dgscic/EU_MITRE_ATTACK_01_01_June_2021_virtual/e/lk/g/23630/k/"> Registration for the seventh EU ATT&CK workshop.</a>
 
-Those of you who registered for the sixth workshop can reuse their login credentials to registered for the seventh conference. The registration system is the same. We will distribute to all registered participants the videoconference information along with a detailed agenda in due time before the start of the event.
-
-Our experience of adapting a large physical conference to a virtual format in the fifth workshop was described in a blogpost:
-<a href="https://medium.com/@contact_98783/organizing-a-conference-during-lockdown-4486d722eee1"> Organizing a conference during lockdown.</a>
+We will distribute to all registered participants the videoconference information along with the final agenda in due time before the start of the event.
 
 # About the EU ATT&CK Community
 
