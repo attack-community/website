@@ -10,8 +10,6 @@ The seventh EU ATT&CK Community Workshop will take place, in virtual format, on 
 
 You will hear updates from MITRE and from developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community. Presentations will focus on practical insights and contributions that the community can put into practice. Tools and methods presented should therefore be accessible and deployable by the participants. Commercial content in the presentations will not be accepted. 
 
-Here is the agenda:
-
 ## Agenda
 
 | 01-Jun   |                                                                                       |             |            |                                   |
