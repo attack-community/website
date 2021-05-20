@@ -44,11 +44,10 @@ Presentations will focus on practical insights and contributions that the commun
 | 15.00    | Metrics for ATT&CK coverage and effectiveness                                         | Nicholas    | Amon       | MITRE                             |
 | 15.15    | How GoCardless is tracking Maturity and Coverage of MITRE ATT&CK using attack2jira2.0 | Melanie     | Molina     | GoCardless                        |
 | 15.30    | ATT&CKing Active Directory: Automated Adversary Simulation against AD                 | Mauricio    | Velazco    | SPLUNK                            |
-| 14.45    | New resources from the Centre of Threat Informed Defence                              | Rich        | Struse     | MITRE ENGENUITY                   |
+| 15.45    | New resources from the Centre of Threat Informed Defence                              | Rich        | Struse     | MITRE ENGENUITY                   |
 |          |                                                                                       |             |            |                                   |
-| 15.45    | Break for coffee                                                                      |             |            |                                   |
+| 16.00    | Break for coffee                                                                      |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
-| 16.00    | TBD                                                                                   |             |            |                                   |
 | 16.15    | Using MITRE ATT&CK for better communication                                           | Philip      | Winther    | CERTA Intelligence & Security A/S |
 | 16.30    | Sigma customisations and Threat Bounty updates                                        | Andrii      | Bezverkhyi | SOCPRIME                          |
 | 16.45    | Red Team Ops: Planning and Targeting with ATT&CK                                      | Agostino    | Panico     | MOVEAX                            |
