@@ -25,7 +25,7 @@ Presentations will focus on practical insights and contributions that the commun
 | 15.00    | Official launch of CyCAT                                                              | Alex        | Dulaunoy   | CIRCL                             |
 | 15.15    | Great news on SIGMA                                                                   | Thomas      | Patzke     |                                   |
 | 15.30    | How Google YARA-L Works with Sigma and Other Community Standards                      | Anton       | Chuvakin   | GOOGLE                            |
-| 15.45    | ENGENUITY Atomic data source projet                                                   | TBD         |            | MITRE                             |
+| 15.45    | Center for Threat Informed Defence Atomic data source projet                          | TBD         |            | MITRE                             |
 |          |                                                                                       |             |            |                                   |
 | 16.00    | Break for coffee -                                                                    |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
