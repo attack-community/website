@@ -18,11 +18,11 @@ Presentations will focus on practical insights and contributions that the commun
 |----------|---------------------------------------------------------------------------------------|-------------|------------|-----------------------------------|
 |          |                                                                                       |             |            |                                   |
 | Time CET | Ttile                                                                                 | First namer | Last name  | Organisation                      |
-| 14.00    | Opening and welcome (Freddy & Rich)                                                   | Freddy      | Dezeure    |                                   |
+| 14.00    | Opening and welcome (Freddy & Rich)                                                   |             |            |                                   |
 | 14.10    | Update from the MITRE ATT&CK team                                                     | Adam        | Pennington | MITRE                             |
 | 14.30    | Adversary Engagement from ATT&CK to MITRE Shield                                      | Stanley     | Barr       | MITRE                             |
 | 14:45    | MITRE ATT&CK Defender Certification and Training Overview                             | Chriss      | Knisley    | MITRE-ENGENUITY                   |
-| 15.00    | Official launch of CyCAT                                                               | Alex        | Dulaunoy   | CIRCL                             |
+| 15.00    | Official launch of CyCAT                                                              | Alex        | Dulaunoy   | CIRCL                             |
 | 15.15    | Great news on SIGMA                                                                   | Thomas      | Patzke     |                                   |
 | 15.30    | How Google YARA-L Works with Sigma and Other Community Standards                      | Anton       | Chuvakin   | GOOGLE                            |
 | 15.45    | ENGENUITY Atomic data source projet                                                   | TBD         |            | MITRE                             |
