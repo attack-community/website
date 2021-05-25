@@ -23,7 +23,7 @@ You will hear updates from MITRE and from developers of systems and tools suppor
 | 15.00    | Official launch of CyCAT                                                              | Alex        | Dulaunoy   | CIRCL                             |
 | 15.15    | Great news on SIGMA                                                                   | Thomas      | Patzke     |                                   |
 | 15.30    | How Google YARA-L Works with Sigma and Other Community Standards                      | Anton       | Chuvakin   | GOOGLE                            |
-| 15.45    | New resources from the Center for Threat Informed Defence                             | Rich        | Struse     | MITRE ENGENUITY                   |
+| 15.45    | New resources from the Center for Threat Informed Defense                             | Rich        | Struse     | MITRE ENGENUITY                   |
 |          |                                                                                       |             |            |                                   |
 | 16.00    | Break for coffee -                                                                    |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
