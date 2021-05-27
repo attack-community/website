@@ -18,7 +18,7 @@ You will hear updates from MITRE and from developers of systems and tools suppor
 | 01-Jun   |                                                                                       |             |            |                                   |
 |----------|---------------------------------------------------------------------------------------|-------------|------------|-----------------------------------|
 |          |                                                                                       |             |            |                                   |
-| Time CEST| Ttile                                                                                 | First namer | Last name  | Organisation                      |
+| Time CEST| Ttile                                                                                 | First name  | Last name  | Organisation                      |
 | 14.00    | Opening and welcome (Freddy & Rich)                                                   |             |            |                                   |
 | 14.10    | Update from the MITRE ATT&CK team                                                     | Adam        | Pennington | MITRE                             |
 | 14.30    | Adversary Engagement from ATT&CK to MITRE Shield                                      | Stanley     | Barr       | MITRE                             |
