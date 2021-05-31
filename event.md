@@ -31,6 +31,7 @@ You will hear updates from MITRE and from developers of systems and tools suppor
 | 16.00    | Break for coffee -                                                                    |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
 | 16.15    | ATT&CK operationalization                                                             | Joris       | Pinoy      | EUROCLEAR                         |
+|          |                                                                                       | Thibault    | Hendrieckx | EUROCLEAR                         |
 | 16.30    | Analysis of 1.5 years of APT activity data                                            | Vicente     | Diaz       | VirusTotal                        |
 | 16.45    | How to integrate MITRE ATT&CK into official security documentation                    | Desiree     | Sacher     | Finanz Informatik                 |
 | 17.00    | Extending MITRE ATT&CK for better Adversary profiling                                 | Mikel       | Gastesi    | CounterCraft                      |
@@ -42,6 +43,7 @@ You will hear updates from MITRE and from developers of systems and tools suppor
 | 14:15    | Creating Attack Graphs for Purple Teaming in ICS Environments                         | Jan         | Hoff       |                                   |
 | 14.30    | Who littered the sandbox? Scooping up new malware behavior.                           | Olaf        | Hartong    | FALCONFORCE                       |
 | 14.45    | Security Incident Timing Metrics - let’s all align!                                   | Francesco   | Chiarini   | FIRST.org                         |
+|          |                                                                                       | Logan       | Wilkins    | CISCO                             |
 | 15.00    | Mapping Platform Security Stacks to ATT&CK: Data Format, Rubric & Methodology         | Nicholas    | Amon       | MITRE                             |
 | 15.15    | How GoCardless is tracking Maturity and Coverage of MITRE ATT&CK using attack2jira2.0 | Melanie     | Molina     | GoCardless                        |
 | 15.30    | ATT&CKing Active Directory: Automated Adversary Simulation against AD                 | Mauricio    | Velazco    | SPLUNK                            |
