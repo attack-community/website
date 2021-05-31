@@ -47,7 +47,7 @@ You will hear updates from MITRE and from developers of systems and tools suppor
 | 15.00    | Mapping Platform Security Stacks to ATT&CK: Data Format, Rubric & Methodology         | Nicholas    | Amon       | MITRE                             |
 | 15.15    | How GoCardless is tracking Maturity and Coverage of MITRE ATT&CK using attack2jira2.0 | Melanie     | Molina     | GoCardless                        |
 | 15.30    | ATT&CKing Active Directory: Automated Adversary Simulation against AD                 | Mauricio    | Velazco    | SPLUNK                            |
-| 15:45    | Applying ATT&CK to CCIRs                                                              | Justin      | Lee        | Korea University                  |
+| 15:45    | Using ATT&CK for the C4ISR Architecture Framework                                     | Justin      | Lee        | Korea University                  |
 |          |                                                                                       |             |            |                                   |
 | 16.00    | Break for coffee                                                                      |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
