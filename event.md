@@ -54,8 +54,7 @@ You will hear updates from MITRE and from developers of systems and tools suppor
 | 16.15    | Using MITRE ATT&CK for better communication                                           | Philip      | Winther    | CERTA Intelligence & Security A/S |
 | 16.30    | Sigma customisations and Threat Bounty updates                                        | Andrii      | Bezverkhyi | SOCPRIME                          |
 |          |                                                                                       | Preeti      | Krishna    | MICROSOFT                         |
-| 16.45    | Red Team Ops: Planning and Targeting with ATT&CK                                      | Agostino    | Panico     | MOVEAX                            |
-| 17.00    | How to effectively use ATT&CK in the context of TIBER-EU                              | Jose Miguel | Esparza    | Blueliv                           |
+| 16.45    | How to effectively use ATT&CK in the context of TIBER-EU                              | Jose Miguel | Esparza    | Blueliv                           |
 
 We will distribute to all registered participants the videoconference information along with the final agenda in due time before the start of the event.
 
