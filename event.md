@@ -6,12 +6,10 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 
 # Seventh EU MITRE ATT&CK® Community Workshop
 
-The seventh EU ATT&CK Community Workshop will take place, in virtual format, on 1-2 June 2021 from 2pm CEST until 6pm CEST. The workshop is supported by CERT-EU, CIRCL and the MITRE Engenuity Center for Threat-Informed Defense. It is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response. 
+The seventh EU ATT&CK Community Workshop has taken place on 1-2 June 2021, supported by CERT-EU, CIRCL and the MITRE Engenuity Center for Threat-Informed Defense. 
 
-Participation to this event is at no cost, but registration is required. We insist that you provide your real name, affiliation and a corporate email address in your registration. You can register on the following link:
-<a href="https://scic.ec.europa.eu/ew/register/dgscic/EU_MITRE_ATTACK_01_01_June_2021_virtual/e/lk/g/23630/k/"> Registration for the seventh EU ATT&CK workshop.</a>
-
-You will hear updates from MITRE and from developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community. Presentations will focus on practical insights and contributions that the community can put into practice. Tools and methods presented should therefore be accessible and deployable by the participants. Commercial content in the presentations will not be accepted. 
+The presentations are avaulable on the following link:
+<a href="https://web.tresorit.com/l/OUWDd#B7bBNMx6TeEH0nTCGzDgAw"> Slide decks from the seventh EU ATT&CK workshop.</a>
 
 ## Agenda
 
@@ -55,8 +53,6 @@ You will hear updates from MITRE and from developers of systems and tools suppor
 | 16.30    | Sigma customisations and Threat Bounty updates                                        | Andrii      | Bezverkhyi | SOCPRIME                          |
 |          |                                                                                       | Preeti      | Krishna    | MICROSOFT                         |
 | 16.45    | How to effectively use ATT&CK in the context of TIBER-EU                              | Jose Miguel | Esparza    | Blueliv                           |
-
-We will distribute to all registered participants the videoconference information along with the final agenda in due time before the start of the event.
 
 # About the EU ATT&CK Community
 
