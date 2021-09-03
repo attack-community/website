@@ -21,7 +21,7 @@ We would like to point out that the presentations should focus on practical insi
 
 Participation to this event is at no cost for the participants, but registration is required. We insist that you provide your real name, affiliation and a corporate email address in your registration.
 
-The registration page is available on the following link:
+The registration page is available on the following link (European Commission conferences registration system):
 
 <a href="https://scic.ec.europa.eu/ew/register/dgscic/8th_EU_ATT_CK_Community_Workshop_22_October_2021_virtual/e/lk/g/30870/k/"> Registration for the 8th EU ATT&CK Workshop.</a>
 
