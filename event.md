@@ -23,7 +23,7 @@ Participation to this event is at no cost for the participants, but registration
 
 The registration page is available on the following link:
 
-<a href="https://scic.ec.europa.eu/ew/register/dgscic/8th_EU_ATT_CK_Community_Workshop_22_October_2021_virtual/e/lk/g/30870/k/"> Registration for the 8th EU ATT&CK Workshop.</a>.
+<a href="https://scic.ec.europa.eu/ew/register/dgscic/8th_EU_ATT_CK_Community_Workshop_22_October_2021_virtual/e/lk/g/30870/k/"> Registration for the 8th EU ATT&CK Workshop.</a>
 
 # About the EU ATT&CK Community
 
