@@ -6,18 +6,12 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 
 # Eight EU MITRE ATT&CK® Community Workshop
 
-The eight EU ATT&CK Community Workshop will take place, in virtual format, on 22 October 2021 from 2pm CET until 6pm CET. The workshop is supported by CERT-EU, CIRCL and the MITRE Engenuity Center for Threat-Informed Defense. It is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response.
+The eight EU ATT&CK Community Workshop will take place, in virtual format, on 22 October 2021 from 2pm CET until 7pm CET. The workshop is supported by CERT-EU, CIRCL and the MITRE Engenuity Center for Threat-Informed Defense. It is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response.
 
 You will hear updates from MITRE and from the developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community.
 
-We will continue the highly-effective format of short (15’) lightning talks, focusing on the following themes:
+We will continue the highly-effective format of short (15’) lightning talks. The agenda is as follows:
 
-Tools and methods for sharing
-Rules, playbooks and processes
-ATT&CK flavors (cloud, telecom, ICS, Active Defense…)
-It would be highly appreciated if you would be willing to share your experience with the ATT&CK® Framework in any of the three domains in a 15’ lightning talk.
-
-We would like to point out that the presentations should focus on practical insights and contributions that the community can put into practice. Tools and methods presented should therefore be accessible and deployable by the participants. Commercial content in the presentations will not be accepted.
 
 Participation to this event is at no cost for the participants, but registration is required. We insist that you provide your real name, affiliation and a corporate email address in your registration.
 
