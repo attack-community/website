@@ -6,16 +6,9 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 
 # Eight EU MITRE ATT&CK® Community Workshop
 
-The eight EU ATT&CK Community Workshop will take place, in virtual format, on 22 October 2021 from 2pm CET until 7pm CET. The workshop is supported by CERT-EU, CIRCL and the MITRE Engenuity Center for Threat-Informed Defense. It is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response.
+The eight EU ATT&CK Community Workshop will take place, in virtual format, on 22 October 2021 from 2pm CET until 7pm CET (one hour longer than originally planned). The workshop is supported by CERT-EU, CIRCL and the MITRE Engenuity Center for Threat-Informed Defense. 
 
-You will hear updates from MITRE and from the developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community.
-
-We will continue the highly-effective format of short (15’) lightning talks. The agenda is as follows:
-
-
-Participation to this event is at no cost for the participants, but registration is required. We insist that you provide your real name, affiliation and a corporate email address in your registration.
-
-The registration page is available on the following link (European Commission conferences registration system):
+Participation to this event is at no cost for the participants, but registration is required. We insist that you provide your real name, affiliation and a corporate email address in your registration. The registration page is available on the following link (European Commission conferences registration system):
 
 <a href="https://scic.ec.europa.eu/ew/register/dgscic/8th_EU_ATT_CK_Community_Workshop_22_October_2021_virtual/e/lk/g/30870/k/"> Registration for the 8th EU ATT&CK Workshop.</a>
 
@@ -26,8 +19,8 @@ The registration page is available on the following link (European Commission co
 |           |    |                                                                  |             |            |                         |
 | Time CEST |    | Ttile                                                            | First namer | Last name  | Organisation            |
 | 14.00     |    | Opening and welcome (Freddy & Rich)                              |             |            |                         |
-| 14.05     | 1  | ATT&CK v10 update                                                | Adam        | Pennington |                         |
-| 14.20     | 2  | Mapping Cloud Security Capabilities to ATT&CK TTPs               |             | Tbd        |                         |
+| 14.05     | 1  | ATT&CK v10 update                                                | Adam        | Pennington | MITRE                   |
+| 14.20     | 2  | Mapping Cloud Security Capabilities to ATT&CK TTPs               |             | Tbd        | MITRE                   |
 | 14.35     | 3  | New resources from the Center for Threat Informed Defense        | Rich        | Struse     | MITRE ENGENUITY         |
 | 14:45     | 4  | Updates on MISP and CyCAT                                        | Alex        | Dulaunoy   | CIRCL                   |
 | 15.00     | 5  | Requirements-driven Intelligence                                 | Garrett     | Carstens   | Intel471                |
