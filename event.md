@@ -15,7 +15,7 @@ Participation to this event is at no cost for the participants, but registration
 | 22-Oct    |    |                                                                  |             |            |                         |
 |-----------|----|------------------------------------------------------------------|-------------|------------|-------------------------|
 |           |    |                                                                  |             |            |                         |
-| Time CEST |    | Ttile                                                            | First namer | Last name  | Organisation            |
+| Time CEST |    | Title                                                            | First namer | Last name  | Organisation            |
 | 14.00     |    | Opening and welcome (Freddy & Rich)                              |             |            |                         |
 | 14.05     | 1  | ATT&CK v10 update                                                | Adam        | Pennington | MITRE                   |
 | 14.20     | 2  | Mapping Cloud Security Capabilities to ATT&CK TTPs               |             | Tbd        | MITRE                   |
