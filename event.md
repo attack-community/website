@@ -15,10 +15,10 @@ Participation to this event is at no cost for the participants, but registration
 | 22-Oct    |    |                                                                  |             |            |                         |
 |-----------|----|------------------------------------------------------------------|-------------|------------|-------------------------|
 |           |    |                                                                  |             |            |                         |
-| Time CEST |    | Title                                                            | First namer | Last name  | Organisation            |
+| Time CEST |    | Title                                                            | First name  | Last name  | Organisation            |
 | 14.00     |    | Opening and welcome (Freddy & Rich)                              |             |            |                         |
 | 14.05     | 1  | ATT&CK v10 update                                                | Adam        | Pennington | MITRE                   |
-| 14.20     | 2  | Mapping Cloud Security Capabilities to ATT&CK TTPs               |             | Tbd        | MITRE                   |
+| 14.20     | 2  | Mapping Cloud Security Capabilities to ATT&CK TTPs               | Jon         | Baker      | MITRE ENGENUITY         |
 | 14.35     | 3  | New resources from the Center for Threat Informed Defense        | Rich        | Struse     | MITRE ENGENUITY         |
 | 14:45     | 4  | Updates on MISP and CyCAT                                        | Alex        | Dulaunoy   | CIRCL                   |
 | 15.00     | 5  | Requirements-driven Intelligence                                 | Garrett     | Carstens   | Intel471                |
