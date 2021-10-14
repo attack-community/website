@@ -25,7 +25,7 @@ Participation to this event is at no cost for the participants, but registration
 | 15.15     | 6  | Sigma Rule Hall of Fame                                          | Florian     | Roth       | Nextron                 |
 | 15.30     | 7  | ATT&CKing the Cloud: An analysis of MITRE ATT&CK and TeamTNT     | Magno       | Logan      | Trend Micro             |
 | 15.45     | 8  | Highlighting your Gaps                                           | William     | MacArthur  | InQuest                 |
-| 16.00     | 9  | RPC ATT&CK Mapping                                               | Johnson     | Jonathan   | Red Canary              |
+| 16.00     | 9  | RPC ATT&CK Mapping                                               | Jonathan    | Johnson    | Red Canary              |
 |           |    |                                                                  |             |            |                         |
 | 16.15     |    | Break                                                            |             |            |                         |
 |           |    |                                                                  |             |            |                         |
