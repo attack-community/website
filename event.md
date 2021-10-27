@@ -6,9 +6,7 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 
 # Eight EU MITRE ATT&CK® Community Workshop
 
-The eight EU ATT&CK Community Workshop will take place, in virtual format, on 22 October 2021 from 2pm CET until 7pm CET (one hour longer than originally planned). The workshop is supported by CERT-EU, CIRCL and the MITRE Engenuity Center for Threat-Informed Defense. 
-
-Participation to this event is at no cost for the participants, but registration is required. We insist that you provide your real name, affiliation and a corporate email address in your registration in the European Commission conferences registration system using the following link:<a href="https://scic.ec.europa.eu/ew/register/dgscic/8th_EU_ATT_CK_Community_Workshop_22_October_2021_virtual/e/lk/g/30870/k/"> Registration for the 8th EU ATT&CK Workshop.</a>
+The eight EU ATT&CK Community Workshop took place on 22 October 2021. The workshop was supported by CERT-EU, CIRCL and the MITRE Engenuity Center for Threat-Informed Defense. The slides are available on this website in the section "Resources".
 
 # Agenda
 
