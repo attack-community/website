@@ -6,7 +6,7 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 
 # Eight EU MITRE ATT&CK® Community Workshop
 
-The eight EU ATT&CK Community Workshop took place on 22 October 2021. The workshop was supported by CERT-EU, CIRCL and the MITRE Engenuity Center for Threat-Informed Defense. The slides are available on this website in the section "Resources".
+The eight EU ATT&CK Community Workshop took place on 22 October 2021. The workshop was supported by CERT-EU, CIRCL and the MITRE Engenuity Center for Threat-Informed Defense. The slides are available on this link : .
 
 # Agenda
 
