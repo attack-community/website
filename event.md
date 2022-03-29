@@ -4,9 +4,24 @@ title: EU MITRE ATT&CK® Community
 subtitle: EU MITRE ATT&CK® Community Workshops
 ---
 
-# Eight EU MITRE ATT&CK® Community Workshop
+# Ninth EU MITRE ATT&CK® Community Workshop 2 June 2022
 
-The eigth EU ATT&CK Community Workshop will taken place on 22 October 2021, supported by CERT-EU, CIRCL and the MITRE Engenuity Center for Threat-Informed Defense. 
+The ninth EU ATT&CK Community Workshop will take place on 2 June 2022 from 9am CET until 6pm. If health and other restrictions allow us, we will organize this event in hybrid format, with space for some 200 attendees in a conference room in Brussels and the other attendees joining virtually.  If this would not be possible, we will organize the workshop virtually. The workshop is hosted by CERT-EU and supported by CIRCL and the MITRE Engenuity Center for Threat-Informed Defense. 
+
+It is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response. 
+You will hear updates from MITRE and from the developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community. 
+
+We will continue the highly-effective format of short (15’) lightning talks, focusing on the following themes: 
+1.	Tools and methods for sharing 
+2.	Rules, playbooks and processes 
+3.	ATT&CK flavors (cloud, telecom, ICS, Active Defense…)
+
+It would be highly appreciated if you would be willing to share your experience with the ATT&CK® Framework in any of the three domains in a 15’ lightning talk. Presentation by user organisations are particularly appreciated. We would like to point out that presentations should focus on practical insights and contributions that the community can put into practice. Tools and methods presented should therefore be accessible and deployable by the participants. Commercial content in the presentations will not be accepted. 
+
+Participation to this event is at no cost for the participants, but registration is required on the following link (EU Commission registration system): 
+<a href="https://scic.ec.europa.eu/ew/register/dgscic/8th_EU_ATT_CK_Community_Workshop_22_October_2021_virtual/e/lk/g/30870/k/"> Registration for the ninth EU MTRE ATT&CK workshop. </a>
+  
+We insist that you provide your real name, professional affiliation and a corporate email address in your registration. 
 
 The presentations are available on the following link:
 <a href="https://web.tresorit.com/l/OUWDd#B7bBNMx6TeEH0nTCGzDgAw"> Slide decks from the seventh EU ATT&CK workshop.</a>
