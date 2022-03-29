@@ -19,7 +19,7 @@ We will continue the highly-effective format of short (15’) lightning talks, f
 It would be highly appreciated if you would be willing to share your experience with the ATT&CK® Framework in any of the three domains in a 15’ lightning talk. Presentation by user organisations are particularly appreciated. We would like to point out that presentations should focus on practical insights and contributions that the community can put into practice. Tools and methods presented should therefore be accessible and deployable by the participants. Commercial content in the presentations will not be accepted. 
 
 Participation to this event is at no cost for the participants, but registration is required on the following link (EU Commission registration system): 
-<a href="https://scic.ec.europa.eu/ew/register/dgscic/9thEUATTACK_Workshop_2022/e/lk/g/39090/k/"> 
+<a href="https://scic.ec.europa.eu/ew/register/dgscic/8th_EU_ATT_CK_Community_Workshop_22_October_2021_virtual/e/lk/g/30870/k/">
   
 We insist that you provide your real name, professional affiliation and a corporate email address in your registration. 
 
