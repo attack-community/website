@@ -18,5 +18,5 @@ tor, and background, attendees came together with a common goal of sharing how M
 
 # Contact
 
-If you want to get in touch with us, you can reach us via email contact@freddydezeure.eu or info@circl.lu.
+If you want to get in touch with us, you can reach us via email contact@freddydezeure.eu or info@attack-community.org.
 
