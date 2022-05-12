@@ -30,5 +30,5 @@ The EU ATT&CK Community is a diverse community of practitioners including securi
 
 # Contact
 
-If you want to get in touch with us, you can reach us via email contact@freddydezeure.eu and info@circl.lu. You can also join the mailing list by sending a request to info@circl.lu.
+If you want to get in touch with us, you can reach us via email contact@freddydezeure.eu and info@attack-community.org . You can also join the mailing list by sending a request to info@attack-community.org .
 
