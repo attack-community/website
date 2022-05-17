@@ -16,14 +16,14 @@ Those of you who join us in Brussels will have the opportunity to meet the MITRE
 |----------|---------------------------------------------------------------------------------------|-------------|------------|-----------------------------------|
 |          |                                                                                       |             |            |                                   |
 | Time CEST| Ttile                                                                                 | First name  | Last name  | Organisation                      |
-| 14.00    | Opening and welcome (Freddy)                                                   |             |            |                                   |
-| 14.10    | Update from the MITRE ATT&CK team                                                     | Adam        | Pennington | MITRE                             |
-| 14.30    | Adversary Engagement from ATT&CK to MITRE Shield                                      | Stanley     | Barr       | MITRE                             |
-| 14:45    | MITRE ATT&CK Defender Certification and Training Overview                             | Chriss      | Knisley    | MITRE-ENGENUITY                   |
-| 15.00    | Official launch of CyCAT                                                              | Alex        | Dulaunoy   | CIRCL                             |
-| 15.15    | Great news on SIGMA                                                                   | Thomas      | Patzke     |                                   |
-| 15.30    | How Google YARA-L Works with Sigma and Other Community Standards                      | Anton       | Chuvakin   | GOOGLE                            |
-| 15.45    | New resources from the Center for Threat Informed Defense                             | Rich        | Struse     | MITRE ENGENUITY                   |
+| 10.00    | Opening and welcome (Freddy)                                                          |             |            |                                   |
+| 10.15    | The use of ATT&CK in Threat Alerts                                                    | George      | Koutepas   | CERT-EU                           |
+| 10.30    | Improving MISP workflow with ATT&CK                                                   | Alexandre   | Dulaunoy   | CIRCL                             |
+| 10:45    | TBD                                                                                   | Joris       | Pinoy      | EUROCLEAR                         |
+| 11.00    | The use of ATT&CK to defend against destructive cyber attacks                         | Andrii      | Bezverkhyi | SOCPRIME                          |
+| 11.15    | Defense and Detection in Depth using MITRE ATT&CK, MITRE D3FEND, and NIST SP 800-53   | Kevin       | Gomez Buquerin| AUDI                              |
+| 11.30    | How Google YARA-L Works with Sigma and Other Community Standards                      | Anton       | Chuvakin   | GOOGLE                            |
+| 11.45    | New resources from the Center for Threat Informed Defense                             | Rich        | Struse     | MITRE ENGENUITY                   |
 |          |                                                                                       |             |            |                                   |
 | 16.00    | Break for coffee -                                                                    |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
