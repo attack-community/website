@@ -17,7 +17,7 @@ Those of you who join us in Brussels will have the opportunity to meet the MITRE
 |          |                                                                                       |             |            |                                   |
 | Time CEST| Ttile                                                                                 | First name  | Last name  | Organisation                      |
 | 10.00    | Opening and welcome (Freddy)                                                          |             |            |                                   |
-| 10.15    | The use of ATT&CK in Threat Alerts                                                    | George      | Koutepas   | CERT-EU                           |
+| 10.15    | Statistical mapping of malicious events seen by CERT-EU to ATT&CK                     | George      | Koutepas   | CERT-EU                           |
 | 10.30    | Improving MISP workflow with ATT&CK                                                   | Alexandre   | Dulaunoy   | CIRCL                             |
 | 10:45    | TBD                                                                                   | Joris       | Pinoy      | EUROCLEAR                         |
 | 11.00    | The use of ATT&CK to defend against destructive cyber attacks                         | Andrii      | Bezverkhyi | SOCPRIME                          |
@@ -31,6 +31,7 @@ Those of you who join us in Brussels will have the opportunity to meet the MITRE
 |          |                                                                                       |             |            |                                   |
 | 13.30    | State of ATT&CK                                                                       | Jamie       | Williams   | MITRE                             |
 | 14:00    | Attack Flow - Top ATT&CK Techniques                                                   | Ingrid      | Skoog      | ENGENUITY                         |
+|          |                                                                                       | Steve       | Luke       |                                   |
 | 14.30    | pySigma: Project Structure & Contribution                                             | Thomas      | Patzke     |                                   |
 | 14.45    | ATT&CK enrichment in Sigma Splunk Backend                                             | Desiree     | Sacher     | SPLUNK                            |
 |          |                                                                                       |             |            |                                   |
