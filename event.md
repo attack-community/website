@@ -12,7 +12,7 @@ Those of you who join us in Brussels will have the opportunity to meet the MITRE
 
 ## Agenda
 
-| 01-Jun   |                                                                                       |             |            |                                   |
+| 02-Jun   |                                                                                       |             |            |                                   |
 |----------|---------------------------------------------------------------------------------------|-------------|------------|-----------------------------------|
 |          |                                                                                       |             |            |                                   |
 | Time CEST| Ttile                                                                                 | First name  | Last name  | Organisation                      |
