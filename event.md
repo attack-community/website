@@ -45,7 +45,7 @@ Those of you who join us in Brussels will have the opportunity to meet the MITRE
 | 16:45    | TBD                                                                                   | Rich        | Struse     | TIDAL                             |
 
 Participation to this event is at no cost, but registration is required on the following link (EU Commission registration system): 
-<a href="https://scic.ec.europa.eu/ew/register/dgscic/9thEUATTACK_Workshop_2022/e/lk/g/39090/k/"> Registration for the ninth EU ATT&CK workshop. </a>
+<a href="https://scic.ec.europa.eu/ew/register/dgscic/9thEUATTACK_Workshop_2022/e/lk/g/39090/k/"> Registration for the ninth EU ATT&CK workshop. </a> The event will not be recorded. 
 
 The workshop is hosted by CERT-EU and supported by CIRCL and the MITRE Engenuity Center for Threat-Informed Defense. It is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response. 
 
