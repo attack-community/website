@@ -40,7 +40,7 @@ Those of you who join us in Brussels will have the opportunity to meet the MITRE
 | 15.45    | Kickstarting your DFIR capability in AWS in 24h                                       | Teodor      | Cimpoesu   | EC DIGIT CSIRC                    |
 | 16.00    | Kubernetes Untapped: monitor pod network traffic to detect security threats           | Vijit       | Nair       | CORELIGHT                         |
 |          |                                                                                       | Stan        | Kiefer     |                                   |
-| 16.15    | CSPM, CWPP, CIEM  and ATT@CK                                                          | Frans       | Van Ierland| WIX                               |
+| 16.15    | CSPM, CWPP, CIEM  and ATT@CK                                                          | Frans       | Van Ierland| WIZ                               |
 | 16.30    | Managing Cloud Adoption with Security Stack Mappings                                  | Jose        | Barajas    | ATTACKIQ                          |
 | 16:45    | TBD                                                                                   | Rich        | Struse     | TIDAL                             |
 
