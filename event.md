@@ -31,7 +31,7 @@ Those of you who join us in Brussels will have the opportunity to meet the MITRE
 |          |                                                                                       |             |            |                                   |
 | 13.30    | State of ATT&CK                                                                       | Jamie       | Williams   | MITRE                             |
 | 14:00    | Attack Flow - Top ATT&CK Techniques                                                   | Ingrid      | Skoog      | ENGENUITY                         |
-|          |                                                                                       | Steve       | Luke       |                                   |
+|          |                                                                                       | Steve       | Luke       | ENGENUITY                         |
 | 14.30    | pySigma: Project Structure & Contribution                                             | Thomas      | Patzke     |                                   |
 | 14.45    | ATT&CK enrichment in Sigma Splunk Backend                                             | Desiree     | Sacher     | SPLUNK                            |
 |          |                                                                                       |             |            |                                   |
@@ -40,7 +40,7 @@ Those of you who join us in Brussels will have the opportunity to meet the MITRE
 | 15.30    | Detection mapping, how does your coverage compare to ATT&CK?                          | Olaf        | Hartong    | FalconForce                       |
 | 15.45    | Kickstarting your DFIR capability in AWS in 24h                                       | Teodor      | Cimpoesu   | EC DIGIT CSIRC                    |
 | 16.00    | Kubernetes Untapped: monitor pod network traffic to detect security threats           | Vijit       | Nair       | CORELIGHT                         |
-|          |                                                                                       | Stan        | Kiefer     |                                   |
+|          |                                                                                       | Stan        | Kiefer     | CORELIGHT                         |
 | 16.15    | CSPM, CWPP, CIEM  and ATT@CK                                                          | Frans       | Van Ierland| WIZ                               |
 | 16.30    | Managing Cloud Adoption with Security Stack Mappings                                  | Jose        | Barajas    | ATTACKIQ                          |
 | 16:45    | TBD                                                                                   | Rich        | Struse     | TIDAL                             |
