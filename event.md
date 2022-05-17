@@ -21,20 +21,28 @@ Those of you who join us in Brussels will have the opportunity to meet the MITRE
 | 10.30    | Improving MISP workflow with ATT&CK                                                   | Alexandre   | Dulaunoy   | CIRCL                             |
 | 10:45    | TBD                                                                                   | Joris       | Pinoy      | EUROCLEAR                         |
 | 11.00    | The use of ATT&CK to defend against destructive cyber attacks                         | Andrii      | Bezverkhyi | SOCPRIME                          |
-| 11.15    | Defense and Detection in Depth using MITRE ATT&CK, MITRE D3FEND, and NIST SP 800-53   | Kevin       | Gomez Buquerin| AUDI                              |
-| 11.30    | How Google YARA-L Works with Sigma and Other Community Standards                      | Anton       | Chuvakin   | GOOGLE                            |
-| 11.45    | New resources from the Center for Threat Informed Defense                             | Rich        | Struse     | MITRE ENGENUITY                   |
+| 11.15    | Defense and Detection in Depth using MITRE ATT&CK, MITRE D3FEND, and NIST SP 800-53   | Kevin       | Gomez Buquerin| AUDI                           |
+| 11.30    | Auditd for the newly threatened                                                       | Tim         | Brown      | CISCO                             |
+| 11.45    | An adversarial viewpoint to identify High Value Targets to increase Cyber Resilience  | Francesco   | Chiarini   | STANDARD CHARTERED                |
+| 12.00    | Leveraging MITRE mitigations for cyber posture analysis                               | Craig       | Roberts    | NOETIC                            |
+| 12.15    | Emulation of a Nation State Attacker                                                  | Agostino    | Panico     | BSidesRoma                        |
 |          |                                                                                       |             |            |                                   |
-| 16.00    | Break for coffee -                                                                    |             |            |                                   |
+| 12.30    | Break for lunch -                                                                     |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
-| 16.15    | ATT&CK operationalization                                                             | Joris       | Pinoy      | EUROCLEAR                         |
-|          |                                                                                       | Thibault    | Hendrieckx | EUROCLEAR                         |
-| 16.30    | Analysis of 1.5 years of APT activity data                                            | Vicente     | Diaz       | VirusTotal                        |
-| 16.45    | How to integrate MITRE ATT&CK into official security documentation                    | Desiree     | Sacher     | Finanz Informatik                 |
-| 17.00    | Extending MITRE ATT&CK for better Adversary profiling                                 | Mikel       | Gastesi    | CounterCraft                      |
-| 17.15    | TTPs with MITRE ATT&CK in TheHive                                                     | Jérôme      | Léonard    | StrangeBee                        |
-| 17.30    | Hands on with CyCAT                                                                   | Alex        | Dulaunoy   | CIRCL                             |
+| 13.30    | State of ATT&CK                                                                       | Jamie       | Williams   | MITRE                             |
+| 14:00    | Attack Flow - Top ATT&CK Techniques                                                   | Ingrid      | Skoog      | ENGENUITY                         |
+| 14.30    | pySigma: Project Structure & Contribution                                             | Thomas      | Patzke     |                                   |
+| 14.45    | ATT&CK enrichment in Sigma Splunk Backend                                             | Desiree     | Sacher     | SPLUNK                            |
 |          |                                                                                       |             |            |                                   |
+| 15.00    | Break for coffee -                                                                    |             |            |                                   |
+|          |                                                                                       |             |            |                                   |
+| 15.30    | Detection mapping, how does your coverage compare to ATT&CK?                          | Olaf        | Hartong    | FalconForce                       |
+| 15.45    | Kickstarting your DFIR capability in AWS in 24h                                       | Teodor      | Cimpoesu   | EC DIGIT CSIRC                    |
+| 16.00    | Kubernetes Untapped: monitor pod network traffic to detect security threats           | Vijit       | Nair       | CORELIGHT                         |
+|          |                                                                                       | Stan        | Kiefer     |                                   |
+| 16.15    | CSPM, CWPP, CIEM  and ATT@CK                                                          | Frans       | Van Ierland| WIX                               |
+| 16.30    | Managing Cloud Adoption with Security Stack Mappings                                  | Jose        | Barajas    | ATTACKIQ                          |
+| 16:45    | TBD                                                                                   | Rich        | Struse     | TIDAL                             |
 
 Participation to this event is at no cost, but registration is required on the following link (EU Commission registration system): 
 <a href="https://scic.ec.europa.eu/ew/register/dgscic/9thEUATTACK_Workshop_2022/e/lk/g/39090/k/"> Registration for the ninth EU ATT&CK workshop. </a>
