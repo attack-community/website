@@ -30,8 +30,9 @@ Those of you who join us in Brussels will have the opportunity to meet the MITRE
 | 12.30    | Break for lunch -                                                                     |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
 | 13.30    | State of ATT&CK                                                                       | Jamie       | Williams   | MITRE                             |
-| 14:00    | Attack Flow - Top ATT&CK Techniques                                                   | Ingrid      | Skoog      | ENGENUITY                         |
-|          |                                                                                       | Steve       | Luke       | ENGENUITY                         |
+|          |                                                                                       | Casey       | Knerr      | MITRE                             |
+| 14:00    | Top ATT&CK Techniques                                                                 | Ingrid      | Skoog      | ENGENUITY                         |
+| 14:15    | CTID Attack Flow                                                                      | Steve       | Luke       | ENGENUITY                         |
 | 14.30    | pySigma: Project Structure & Contribution                                             | Thomas      | Patzke     |                                   |
 | 14.45    | ATT&CK enrichment in Sigma Splunk Backend                                             | Desiree     | Sacher     | SPLUNK                            |
 |          |                                                                                       |             |            |                                   |
@@ -41,9 +42,9 @@ Those of you who join us in Brussels will have the opportunity to meet the MITRE
 | 15.45    | Kickstarting your DFIR capability in AWS in 24h                                       | Teodor      | Cimpoesu   | EC DIGIT CSIRC                    |
 | 16.00    | Kubernetes Untapped: monitor pod network traffic to detect security threats           | Vijit       | Nair       | CORELIGHT                         |
 |          |                                                                                       | Stan        | Kiefer     | CORELIGHT                         |
-| 16.15    | CSPM, CWPP, CIEM  and ATT@CK                                                          | Frans       | Van Ierland| WIZ                               |
+| 16.15    | Using Natural Language Processing to identify TTPs                                    | Sven        | Niedner    | SYNAMIC                           |
 | 16.30    | Managing Cloud Adoption with Security Stack Mappings                                  | Jose        | Barajas    | ATTACKIQ                          |
-| 16:45    | TBD                                                                                   | Rich        | Struse     | TIDAL                             |
+| 16:45    | Tidal Community Edition: Making Threat-Informed Defense Easier for All                | Rich        | Struse     | TIDAL                             |
 
 Participation to this event is at no cost, but registration is required on the following link (EU Commission registration system): 
 <a href="https://scic.ec.europa.eu/ew/register/dgscic/9thEUATTACK_Workshop_2022/e/lk/g/39090/k/"> Registration for the ninth EU ATT&CK workshop. </a> The event will not be recorded. 
