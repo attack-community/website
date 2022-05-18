@@ -34,7 +34,7 @@ Those of you who join us in Brussels will have the opportunity to meet the MITRE
 | 14:00    | Top ATT&CK Techniques                                                                 | Ingrid      | Skoog      | ENGENUITY                         |
 | 14:15    | CTID Attack Flow                                                                      | Steve       | Luke       | ENGENUITY                         |
 | 14.30    | pySigma: Project Structure & Contribution                                             | Thomas      | Patzke     |                                   |
-| 14.45    | ATT&CK enrichment in Sigma Splunk Backend                                             | Desiree     | Sacher     | SPLUNK                            |
+| 14.45    | ATT&CK enrichment in Sigma Splunk Backend                                             | Patrick     | Bareiss    | SPLUNK                            |
 |          |                                                                                       |             |            |                                   |
 | 15.00    | Break for coffee -                                                                    |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
