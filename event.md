@@ -41,8 +41,8 @@ The ninth EU ATT&CK Community Workshop will take place on 2 June 2022 from 10am 
 | 15.45    | Kickstarting your DFIR capability in AWS in 24h                                       | Teodor      | Cimpoesu   | EC DIGIT CSIRC                    |
 | 16.00    | Kubernetes Untapped: monitor pod network traffic to detect security threats           | Vijit       | Nair       | CORELIGHT                         |
 |          |                                                                                       | Stan        | Kiefer     | CORELIGHT                         |
-| 16.15    | Using Natural Language Processing to identify TTPs                                    | Sven        | Niedner    | SYNAMIC                           |
-| 16.30    | Managing Cloud Adoption with Security Stack Mappings                                  | Jose        | Barajas    | ATTACKIQ                          |
+| 16.15    | Managing Cloud Adoption with Security Stack Mappings                                  | Jose        | Barajas    | ATTACKIQ                          |
+| 16.30    | Using Natural Language Processing to identify TTPs                                    | Sven        | Niedner    | SYNAMIC                           |
 | 16:45    | Tidal Community Edition: Making Threat-Informed Defense Easier for All                | Rich        | Struse     | TIDAL                             |
 
 Participation to this event is at no cost, but registration is required on the following link (EU Commission registration system): 
