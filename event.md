@@ -6,7 +6,7 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 
 # Ninth EU MITRE ATT&CK® Community Workshop 2 June 2022
 
-The ninth EU ATT&CK Community Workshop will take place on 2 June 2022 from 10am CET until 5pm. We will organize this event in hybrid format, with space for some 200 attendees in a conference room in Brussels and the other attendees joining virtually. Physical attendance registration is closed now.
+The ninth EU ATT&CK Community Workshop will take place on 2 June 2022 from 10am CET until 5pm. We will organize this event in hybrid format, with space for some 200 attendees in a conference room in Brussels and the other attendees joining virtually. Physical attendance registration is closed now. Virtual attendance registration will be closed on 1 June EOB. 
 
 ## Agenda
 
@@ -17,7 +17,7 @@ The ninth EU ATT&CK Community Workshop will take place on 2 June 2022 from 10am 
 | 10.00    | Opening and welcome (Freddy)                                                          |             |            |                                   |
 | 10.15    | Statistical mapping of malicious events seen by CERT-EU to ATT&CK                     | George      | Koutepas   | CERT-EU                           |
 | 10.30    | Improving MISP workflow with ATT&CK                                                   | Alexandre   | Dulaunoy   | CIRCL                             |
-| 10:45    | Using ATT&CK to prioritise defences                                                   | Joris       | Pinoy      | EUROCLEAR                         |
+| 10:45    | Using ATT&CK to prioritise defences                                                   | Younes      | Fourir     | EUROCLEAR                         |
 | 11.00    | The use of ATT&CK to defend against destructive cyber attacks                         | Andrii      | Bezverkhyi | SOCPRIME                          |
 | 11.15    | Defense and Detection in Depth using MITRE ATT&CK, MITRE D3FEND, and NIST SP 800-53   | Kevin       | Gomez Buquerin| AUDI                           |
 | 11.30    | An adversarial viewpoint to identify High Value Targets to increase Cyber Resilience  | Francesco   | Chiarini   | STANDARD CHARTERED                |
