@@ -13,7 +13,7 @@ The ninth EU ATT&CK Community Workshop will take place on 2 June 2022 from 10am 
 | 02-Jun   |                                                                                       |             |            |                                   |
 |----------|---------------------------------------------------------------------------------------|-------------|------------|-----------------------------------|
 |          |                                                                                       |             |            |                                   |
-| Time CEST| Ttile                                                                                 | First name  | Last name  | Organisation                      |
+| Time CEST| Title                                                                                 | First name  | Last name  | Organisation                      |
 | 10.00    | Opening and welcome (Freddy)                                                          |             |            |                                   |
 | 10.15    | Statistical mapping of malicious events seen by CERT-EU to ATT&CK                     | George      | Koutepas   | CERT-EU                           |
 | 10.30    | Improving MISP workflow with ATT&CK                                                   | Alexandre   | Dulaunoy   | CIRCL                             |
