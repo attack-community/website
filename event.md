@@ -6,7 +6,8 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 
 # Ninth EU MITRE ATT&CK® Community Workshop 2 June 2022
 
-The ninth EU ATT&CK Community Workshop took place on 2 June 2022. The slides are available here: "https://web.tresorit.com/l/21biO#s0gSRpNqESAx_HiKS-OSxw"
+The ninth EU ATT&CK Community Workshop took place on 2 June 2022. The presentations are available on the following link:
+<a href=" https://web.tresorit.com/l/21biO#s0gSRpNqESAx_HiKS-OSxw"> Slide decks from the ninth EU ATT&CK workshop.</a>
 
 ## Agenda
 
