@@ -6,7 +6,9 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 
 # Ninth EU MITRE ATT&CK® Community Workshop 2 June 2022
 
-The ninth EU ATT&CK Community Workshop took place on 2 June 2022. Slides from the Ninth Workshop: "https://web.tresorit.com/l/21biO#s0gSRpNqESAx_HiKS-OSxw"
+The ninth EU ATT&CK Community Workshop took place on 2 June 2022. The slides are available "https://web.tresorit.com/l/21biO#s0gSRpNqESAx_HiKS-OSxw"
+
+<a href="https://scic.ec.europa.eu/ew/register/dgscic/8th_EU_ATT_CK_Community_Workshop_22_October_2021_virtual/e/lk/g/30870/k/">.
 
 ## Agenda
 
@@ -52,5 +54,5 @@ The EU ATT&CK Community is a diverse community of practitioners including securi
 
 # Contact
 
-If you want to get in touch with us, you can reach us via email contact@freddydezeure.eu and info@attack-community.org . You can also join the mailing list by sending a request to info@attack-community.org .
+If you want to get in touch with us, you can reach us via email info@attack-community.org. You can also join the mailing list by sending a request to info@attack-community.org .
 
