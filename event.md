@@ -13,7 +13,7 @@ The presentations are available on the following link:
 <a href="https://web.tresorit.com/l/OUWDd#B7bBNMx6TeEH0nTCGzDgAw"> Slide decks from the ninth EU ATT&CK workshop.</a>
 
 The presentations are available on the following link:
-<a href=" https://web.tresorit.com/l/21biO#s0gSRpNqESAx_HiKS-OSxw"> Slide decks from the ninth EU ATT&CK workshop.</a>
+<a href="https://web.tresorit.com/l/21biO#s0gSRpNqESAx_HiKS-OSxw"> Slide decks from the ninth EU ATT&CK workshop.</a>
 
 
 ## Agenda
