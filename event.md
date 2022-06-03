@@ -6,7 +6,7 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 
 # Ninth EU MITRE ATT&CK® Community Workshop 2 June 2022
 
-The ninth EU ATT&CK Community Workshop will take place on 2 June 2022 from 10am CET until 5pm. We will organize this event in hybrid format, with space for some 200 attendees in a conference room in Brussels and the other attendees joining virtually. Registration is closed now. 
+The ninth EU ATT&CK Community Workshop took place on 2 June 2022. 
 
 ## Agenda
 
