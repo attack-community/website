@@ -13,7 +13,7 @@ The workshop will allow for in-person interaction between the community and MITR
 
 The first part of the workshop on 6 October and in the morning of 7 October is limited to in-person attendance. It will allow for direct interaction between the community and MITRE / ENGENUITY.
 
-The second part of the workshop, expected to start around noon CET on 7 October,  is organised as a hybrid event covering best practices in the use of the MITRE ATT&CK Framework and the community tools built around it. You will learn best practices from your peers and from the MITRE ATT&CK and ENGENUITY team. We will continue the highly-effective format of short (15’) lightning talks,
+The second part of the workshop, expected to start around noon (CET) on 7 October,  is organised as a hybrid event covering best practices in the use of the MITRE ATT&CK Framework and the community tools built around it. You will learn best practices from your peers and from the MITRE ATT&CK and ENGENUITY team. We will continue the highly-effective format of short (15’) lightning talks,
 
 We require attendees to register using their real name and their corporate email address. If this information is not provided, the registration may be refused. In person attendance will be limited to domain experts, we reserve the possibility to refuse the registratiion by sales representatives and press.
 
