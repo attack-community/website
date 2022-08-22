@@ -17,7 +17,8 @@ The second part of the workshop, expected to start around noon (CET) on 7 Octobe
 
 We require attendees to register using their real name and their corporate email address. If this information is not provided, the registration may be refused. In person attendance will be limited to domain experts, we reserve the possibility to refuse the registratiion by sales representatives and press.
 
-The registration link for the workshop will be made available at a later stage. 
+Registration (in person or virtual) is possible on this link: <a href="https://www.xing.com/events/eu-mitre-att-ck-community-workshop-4153389"> Registration for the tenth 
+EU MITRE ATT&CK Community Workshop</a>. 
 
 # About the EU ATT&CK Community
 
