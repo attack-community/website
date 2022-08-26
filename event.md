@@ -11,7 +11,7 @@ The tenth EU MITRE ATT&CK® Community Workshop will be organised in Brussels on 
 
 The workshop will allow for in-person interaction between the community and MITRE / ENGENUITY. Part of the workshop will be organised as a hybrid event, with short lightning talks covering best practices in the use of the MITRE ATT&CK Framework and the community tools built around it.
 
-The first part of the workshop on 6 October and in the morning of 7 October is limited to in-person attendance. It will allow for direct interaction between the community and MITRE / ENGENUITY.
+The first part of the workshop on 6 October and in the morning of 7 October is limited to in-person attendance. It will allow for direct interaction between the community and MITRE / ENGENUITY. Preference for the in-person conference will be given to user organisations and presenters.
 
 The second part of the workshop, expected to start around noon (CET) on 7 October, is organised as a hybrid event. You will learn best practices from your peers and from the MITRE ATT&CK and ENGENUITY team. We will continue the highly-effective format of short (15’) lightning talks, during registration for the in person event you will be invited to express interest in sharing you experiences in a talk. 
 
