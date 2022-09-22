@@ -26,7 +26,7 @@ Draft programme:
 | 10.10    | Welcome from CCB                                                                      | Miguel      | De Bruycker| CCB                               |
 | 10.20    | How the CCB communicates TTPs to its constituents using the MITRE ATT&CK framework    | Kevin       | Holvoet    | CCB                               |
 | 10:40    | Use of Mitre Attack in Industrial CyberSOC: References and return of experience       | Olivier     | De Visscher| EUROPEAN RAILWAY ISAC             |
-| 11.00    | BT's experience in leveraging MITRE ATT&CK                                            | Victor      | Barbier    | BT                                |
+| 11.00    | Security Operations usage of MITRE ATT&CK                                             | Victor      | Barbier    | BT                                |
 | 11.20    | The purple power of automation                                                        | Jeroen      | Vandeleur  | NVISO                             |
 | 11.40    | Leveraging ATT&CK in purple teaming and adversary emulation                           | Bono        | Vanderpoorten   | SOPRA STERIA                 |
 | 12.00    | In Curation We Trust: Generating Contextual & Actionable Threat Intelligence          | Michel      | Coene      | NVISO                             |
