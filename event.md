@@ -10,8 +10,10 @@ The tenth EU MITRE ATT&CK® Community Workshop will be organised in Brussels on 
 
 The workshop will be organised as a hybrid event. You will learn best practices from your peers and from the MITRE ATT&CK and ENGENUITY team. We will continue the highly-effective format of short (15’) lightning talks. 
 
-During registration for the in person event you will be invited to express interest in sharing you experiences in a talk. The number of seats in the in-person event is limited and the remaining seats will be reserved for speakers. We require attendees to register using their real name and their corporate email address. If this information is not provided, the registration may be refused. Registration (in person or virtual) is possible at no cost via this link: <a href="https://www.xing.com/events/eu-mitre-att-ck-community-workshop-4153389"> Registration for the tenth 
+Registration (in person or virtual) is possible at no cost via this link: <a href="https://www.xing.com/events/eu-mitre-att-ck-community-workshop-4153389"> Registration for the tenth 
 EU MITRE ATT&CK Community Workshop</a>. 
+
+During registration for the in person event you will be invited to express interest in sharing you experiences in a talk. The number of seats in the in-person event is limited and the remaining seats will be reserved for speakers. We require attendees to register using their real name and their corporate email address. If this information is not provided, the registration may be refused. 
 
 Draft programme:
 ## Agenda
