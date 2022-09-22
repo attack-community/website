@@ -8,9 +8,10 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 
 The tenth EU MITRE ATT&CK® Community Workshop will be organised in Brussels on 7 October 2022. It will be hosted by the <a href="https://ccb.belgium.be/en"> Centre for Cybersecurity Belgium</a>. 
 
-The workshop will allow for in-person interaction between the community and MITRE / ENGENUITY. The workshop will be organised as a hybrid event, with short lightning talks covering best practices in the use of the MITRE ATT&CK Framework and the community tools built around it.
+The workshop will be organised as a hybrid event, with short lightning talks covering best practices in the use of the MITRE ATT&CK Framework and the community tools built around it. You will learn best practices from your peers and from the MITRE ATT&CK and ENGENUITY team. We will continue the highly-effective format of short (15’) lightning talks, during registration for the in person event you will be invited to express interest in sharing you experiences in a talk. 
 
-You will learn best practices from your peers and from the MITRE ATT&CK and ENGENUITY team. We will continue the highly-effective format of short (15’) lightning talks, during registration for the in person event you will be invited to express interest in sharing you experiences in a talk. The number of seats in the in-perso event is limited and the remaining seats will be reserved for speakers.
+The number of seats in the in-person event is limited and the remaining seats will be reserved for speakers. We require attendees to register using their real name and their corporate email address. If this information is not provided, the registration may be refused. Registration (in person or virtual) is possible at no cost via this link: <a href="https://www.xing.com/events/eu-mitre-att-ck-community-workshop-4153389"> Registration for the tenth 
+EU MITRE ATT&CK Community Workshop</a>. 
 
 Draft programme:
 ## Agenda
@@ -44,8 +45,7 @@ Draft programme:
 | 16.40    | TBD                                                                                   |             |            |                                   |
 | 17.00    | Closing comments                                                                      | Freddy      |            |                                   |
 
-We require attendees to register using their real name and their corporate email address. If this information is not provided, the registration may be refused. Registration (in person or virtual) is possible at no cost via this link: <a href="https://www.xing.com/events/eu-mitre-att-ck-community-workshop-4153389"> Registration for the tenth 
-EU MITRE ATT&CK Community Workshop</a>. 
+
 
 # About the EU ATT&CK Community
 
