@@ -41,7 +41,7 @@ Draft programme:
 |          |                                                                                       |             |            |                                   |
 | 15.20    | Break for coffee                                                                      |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
-| 15.40    | TBD                                                                                   | Andrew      | Costis     | ATTACKIQ                          |
+| 15.40    | Mapping the Adversary for Defensive Profiling                                         | Andrew      | Costis     | ATTACKIQ                          |
 | 16.00    | Detection As Code Principles                                                          | Patrick     | Bareiss    | SPLUNK                            |
 | 16.20    | Making Threat-Informed Decisions with Community Driven Resources                      | Rich        | Struse     | TIDAL                             |
 | 16.40    | TBD                                                                                   |             |            |                                   |
