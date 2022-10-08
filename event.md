@@ -8,7 +8,7 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 
 The tenth EU MITRE ATT&CK® Community Workshop was organised in Brussels on 7 October 2022. It will be hosted by the <a href="https://ccb.belgium.be/en"> Centre for Cybersecurity Belgium</a>. 
 
-The presentation are available <a href="https://web.tresorit.com/l/LPSZL#hWW8PO4qnAluY8tiAEPaOw"> on this link.</a> 
+The presentations are available <a href="https://web.tresorit.com/l/LPSZL#hWW8PO4qnAluY8tiAEPaOw"> on this link.</a> 
 
 ## Agenda
 
