@@ -4,9 +4,9 @@ title: EU MITRE ATT&CK® Community
 subtitle: EU MITRE ATT&CK® Community Workshops
 ---
 
-# EU MITRE ATT&CK® Community Workshop - 24 May 2023
+# EU MITRE ATT&CK® Community Workshop - 26 May 2023
 
-The next EU MITRE ATT&CK® Community Workshop will be organised in hybrid format (in-person in Brussels as well as via videoconference) on 24 May 2023. It will be hosted by the <a href="https://ccb.belgium.be/en"> Centre for Cybersecurity Belgium</a>. 
+The next EU MITRE ATT&CK® Community Workshop will be organised in hybrid format (in-person in Brussels as well as via videoconference) on Friday 26 May 2023. It will be hosted by the <a href="https://ccb.belgium.be/en"> Centre for Cybersecurity Belgium</a>. 
 
 The workshop is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response. You will hear updates from MITRE/Engenuity and from the developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community. 
 
