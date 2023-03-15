@@ -20,7 +20,7 @@ It would be highly appreciated if you would be willing to share your experience 
 Registration (in person or virtual) is possible at no cost via this link: <a href="https://www.eventbrite.com/e/11th-eu-attck-community-workshop-tickets-574427958487"> Registration for the eleventh 
 EU MITRE ATT&CK Community Workshop</a>. 
 
-Registration (in person or virtual) is possible at no cost via this link: <a href="[https://www.eventbrite.com/e/11th-eu-attck-community-workshop-tickets-574427958487"> Registration for the eleventh 
+Registration (in person or virtual) is possible at no cost via this link: <a href="https://www.eventbrite.com/e/11th-eu-attck-community-workshop-tickets-574427958487"> Registration for the eleventh 
 EU MITRE ATT&CK Community Workshop</a>. 
 
 # About the EU ATT&CK Community
