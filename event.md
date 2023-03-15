@@ -20,6 +20,9 @@ It would be highly appreciated if you would be willing to share your experience 
 Registration (in person or virtual) is possible at no cost via this link: <a href="https://www.eventbrite.com/e/11th-eu-attck-community-workshop-tickets-574427958487"> Registration for the eleventh 
 EU MITRE ATT&CK Community Workshop</a>. 
 
+Registration (in person or virtual) is possible at no cost via this link: <a href="[https://www.eventbrite.com/e/11th-eu-attck-community-workshop-tickets-574427958487"> Registration for the eleventh 
+EU MITRE ATT&CK Community Workshop</a>. 
+
 # About the EU ATT&CK Community
 
 The EU ATT&CK Community is a diverse community of practitioners including security professionals, cybersecurity vendors, CSIRTs/CERTs and user organisations whose aim is to actively use MITRE ATT&CK® while contributing back to improve cyber defense. The EU MITRE ATT&CK® Community is a volunteer-driven vendor neutral platform where all users can discuss, exchange and improve their use of adversary tactics and techniques together in practical use cases like attribution, prevention, detection, hunting and response.
