@@ -18,7 +18,7 @@ Draft programme:
 |          |                                                                                       |             |            |                                   |
 | Time CEST| Ttile                                                                                 | First name  | Last name  | Organisation              
 | 10.00    | Opening and welcome                                                                   | Freddy      |            |                           |
-| 10.10    | Welcome from CCB                                                                      | Miguel      | De Bruycker| CCB                       |
+| 10.10    | Welcome from CCB                                                                      |       | | CCB                       |
 | 10.20    | We need your help !                                                                   | Kevin       | Holvoet    | CCB                       |
 | 10:40    | MITRE ATT&CK for Incident Response Reporting                                          | Björn       | Vanneste   | Checkpoint                |
 | 11.00    | Early Lessons for Cloud Incidents      		                                           | Anna        | Chung      | Palo Alto                 |
@@ -30,19 +30,23 @@ Draft programme:
 |          |                                                                                       |             |            |                                   |
 | 12.40    | Break for lunch  -                                                                    |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
-| 13.30    | State of ATT&CK                                                                       | Adam        | Pennington | MITRE                             |
-| 14.00    | Look Back, Act Forward                                                                | Ingrid      | Skoog      | ENGENUITY                         |
-| 14.20    | Attack Flow                                                                           | Ross        | Weisman    | ENGENUITY                         |
-| 14.40    | Optimising the Financial Costs of Cybersecurity Analytics                             | Monzy       | Merza      | HSBC                              |
-| 15.00    | Sigma Rules and MITRE ATT&CK as foundation of Collective Cyber Defence                | Ruslan      | Mikhalov   | SOCPRIME                          |
+| 13.30    | State of the ATT&CK                                                                   | Adam        | Pennington | MITRE                             |
+|          |                                                                                       | Clarissa  | Miller           | MITRE                                  |
+| 14.00    | Roadmap for Advancing Threat-Informed Defense   | Jon      | Baker      | ENGENUITY                         |
+| 14.20    | Detection Engineering R&D at the Center for Threat-Informed Defense    | Roman        | Daszczyszak    | ENGENUITY                         |
+| 14.40    | ATT&CK Sync – Staying current with the ATT&CK releases          | Mark       | Haase      | ENGENUITY                              |
+| 15.00    | News from the Sigma Project		              | Thomas      | Patzke   |                           |
+| 15.20    | >10,000 Sigma rules + ATT&CK x ChatGPT = Uncoder A.I.			          | Andrii      | Bezverkhyi   |  Socprime                         |
 |          |                                                                                       |             |            |                                   |
-| 15.20    | Break for coffee                                                                      |             |            |                                   |
+| 15.40    | Break for coffee                                                                      |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
-| 15.40    | TBD                                                                                   | Andrew      | Costis     | ATTACKIQ                          |
-| 16.00    | Detection As Code Principles                                                          | Patrick     | Bareiss    | SPLUNK                            |
-| 16.20    | Making Threat-Informed Decisions with Community Driven Resources                      | Rich        | Struse     | TIDAL                             |
-| 16.40    | TBD                                                                                   |             |            |                                   |
-| 17.00    | Closing comments                                                                      | Freddy      |            |                                   |
+| 16.00    | Integrating Sigma into Splunk Security Content                                        | Patrick     | Bareiss    | SPLUNK                            |
+| 16.20    | Leveraging MITRE framework for security operations maturity journey			             | Evgeny        | Korzhov     | ABN AMRO                             |
+|          |                                                                                       | Dmitry	   | Galkin           | ABN AMRO                                   |
+| 16.40    | Mapping Security Products to MITRE ATT&CK for the Community			                     | Rich      | Struse           | TIDAL             |
+| 17.00    | Enhancing the STIX 2.1 representation of ATT&CK to encode compound attack patterns		 | Charles      | Frick           | JHU             |
+| 17.20    | Investigation of C2 hosts to understand defense evasion and future resource development			     | Matt      | Lembright           | Censys             |
+| 17.40    | Closing comments                                                                      | Freddy      |            |                                   |
 
 
 Registration (in person or virtual) is possible at no cost via this link: <a href="https://www.eventbrite.com/e/11th-eu-attck-community-workshop-tickets-574427958487"> Registration for the eleventh 
