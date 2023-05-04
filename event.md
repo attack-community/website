@@ -10,30 +10,25 @@ The next EU MITRE ATT&CK® Community Workshop will be organised in hybrid format
 
 The workshop is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response. You will hear updates from MITRE/Engenuity and from the developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community. 
 
-We will continue the highly-effective format of short (15’) lightning talks, focusing on the following themes: 
-1.	Tools and methods for sharing 
-2.	Rules, playbooks and processes 
-3.	ATT&CK flavors (cloud, telecom, ICS, Active Defense…)
-
-It would be highly appreciated if you would be willing to share your experience with the ATT&CK® Framework in any of the three domains in a 15’ lightning talk. Presentation by user organisations are particularly appreciated. We would like to point out that presentations should focus on practical insights and contributions that the community can put into practice. Tools and methods presented should therefore be accessible and deployable by the participants. Commercial content in the presentations will not be accepted. 
-
 Draft programme:
 ## Agenda
 
 | 26-May   |                                                                                       |             |            |                                   |
 |----------|---------------------------------------------------------------------------------------|-------------|------------|-----------------------------------|
 |          |                                                                                       |             |            |                                   |
-| Time CEST| Ttile                                                                                 | First name  | Last name  | Organisation                      |
-| 10.00    | Opening and welcome                                                                   | Freddy      |            |                                   |
-| 10.10    | Welcome from CCB                                                                      | Miguel      | De Bruycker| CCB                               |
-| 10.20    | We need your help !    | Kevin       | Holvoet    | CCB                               |
-| 10:40    | Use of Mitre Attack in Industrial CyberSOC: References and return of experience       | Olivier     | De Visscher| EUROPEAN RAILWAY ISAC             |
-| 11.00    | BT's experience in leveraging MITRE ATT&CK                                            | Victor      | Barbier    | BT                                |
-| 11.20    | The purple power of automation                                                        | Jeroen      | Vandeleur  | NVISO                             |
-| 11.40    | Leveraging ATT&CK in purple teaming and adversary emulation                           | Bono        | Vanderpoorten   | SOPRA STERIA                 |
-| 12.00    | In Curation We Trust: Generating Contextual & Actionable Threat Intelligence          | Michel      | Coene      | NVISO                             |
+| Time CEST| Ttile                                                                                 | First name  | Last name  | Organisation              
+| 10.00    | Opening and welcome                                                                   | Freddy      |            |                           |
+| 10.10    | Welcome from CCB                                                                      | Miguel      | De Bruycker| CCB                       |
+| 10.20    | We need your help !                                                                   | Kevin       | Holvoet    | CCB                       |
+| 10:40    | MITRE ATT&CK for Incident Response Reporting                                          | Björn       | Vanneste   | Checkpoint                |
+| 11.00    | Early Lessons for Cloud Incidents      		                                           | Anna        | Chung      | Palo Alto                 |
+| 11.20    | Practical investigations and Threat Hunting with Top ATT&CK			                     | Marvin      | Ngoma      | Elastic                   |
+| 11.40    | Mapping MITRE ATT&CK and D3FEND to the ECSF for cyber range scenario generation			 | Sebastien   | Dupont     | CETIC                     |
+| 12.00    | Use-Case of Cybersecurity requirements, mapping Mitre ATT&CK for ICS on STRIDE for Transportation	 		    | Olivier      | de Visscher      | Expleo                             |
+|          |                                                                                       |  Jean-Sebastien  | Servaye           | Alstom                                  |
+| 12.20    | Everything Everywhere All at Once: From Threat Scenarios to Detection - powered by ATT&CK					 | Hong-Gie   | Ong     | ING                     |
 |          |                                                                                       |             |            |                                   |
-| 12.20    | Break for lunch  -                                                                    |             |            |                                   |
+| 12.40    | Break for lunch  -                                                                    |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
 | 13.30    | State of ATT&CK                                                                       | Adam        | Pennington | MITRE                             |
 | 14.00    | Look Back, Act Forward                                                                | Ingrid      | Skoog      | ENGENUITY                         |
