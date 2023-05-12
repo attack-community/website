@@ -35,7 +35,7 @@ Draft programme:
 | 14.00    | Roadmap for Advancing Threat-Informed Defense   | Jon      | Baker      | ENGENUITY                         |
 | 14.20    | Detection Engineering R&D at the Center for Threat-Informed Defense    | Roman        | Daszczyszak    | ENGENUITY                         |
 | 14.40    | ATT&CK Sync – Staying current with the ATT&CK releases          | Mark       | Haase      | ENGENUITY                              |
-| 15.00    | News from the Sigma Project		              | Thomas      | Patzke   |                           |
+| 15.00    | Analysing Sigma rule sets with MITRE ATT&CK    | Thomas      | Patzke   |                           |
 | 15.20    | >10,000 Sigma rules + ATT&CK x ChatGPT = Uncoder A.I.			          | Andrii      | Bezverkhyi   |  Socprime                         |
 |          |                                                                                       |             |            |                                   |
 | 15.40    | Break for coffee                                                                      |             |            |                                   |
