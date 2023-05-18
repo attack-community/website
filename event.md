@@ -30,7 +30,7 @@ Draft programme:
 |          |                                                                                       |             |            |                                   |
 | 12.40    | Break for lunch  -                                                                    |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
-| 13.30    | State of the ATT&CK                                                                   | Adam        | Pennington | MITRE                             |
+| 13.30    | State of ATT&CK                                                                   | Adam        | Pennington | MITRE                             |
 |          |                                                                                       | Charissa  | Miller           | MITRE                                  |
 | 14.00    | Roadmap for Advancing Threat-Informed Defense   | Jon      | Baker      | ENGENUITY                         |
 | 14.20    | Detection Engineering R&D at the Center for Threat-Informed Defense    | Roman        | Daszczyszak    | ENGENUITY                         |
