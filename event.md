@@ -41,7 +41,7 @@ Draft programme:
 | 15.40    | Break for coffee                                                                      |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
 | 16.00    | Integrating Sigma into Splunk Security Content                                        | Patrick     | Bareiss    | SPLUNK                            |
-| 16.20    | Leveraging MITRE framework for security operations maturity journey			             | Evgeny        | Korzhov     | ABN AMRO                             |
+| 16.20    | Leveraging MITRE ATT&CK for security operations maturity journey			             | Evgeny        | Korzhov     | ABN AMRO                             |
 |          |                                                                                       | Dmitry	   | Galkin           | ABN AMRO                                   |
 | 16.40    | Using Open Standards to Represent, Detect and Respond to Adversary Behaviors		 | Charles      | Frick           | Johns Hopkins University             |
 | 17.00    | Using time-based analysis of C2 hosts for pattern-of-life development			     | Matt      | Lembright           | Censys             |
