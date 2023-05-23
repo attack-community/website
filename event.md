@@ -21,7 +21,7 @@ Draft programme:
 | 10.10    | Welcome from CCB                                                                      |       | | CCB                       |
 | 10.20    | We need your help !                                                                   | Kevin       | Holvoet    | CCB                       |
 | 10:40    | MITRE ATT&CK for Incident Response Reporting                                          | Björn       | Vanneste   | Checkpoint                |
-| 11.00    | Early Lessons for Cloud Incidents      		                                           | Anna        | Chung      | Palo Alto                 |
+| 11.00    | Early Lessons from Cloud Incidents      		                                           | Anna        | Chung      | Palo Alto                 |
 | 11.20    | Practical investigations and Threat Hunting with Top ATT&CK			                     | Marvin      | Ngoma      | Elastic                   |
 | 11.40    | Mapping MITRE ATT&CK and D3FEND to the ECSF for cyber range scenario generation			 | Sebastien   | Dupont     | CETIC                     |
 | 12.00    | Use-Case of Cybersecurity requirements, mapping Mitre ATT&CK for ICS on STRIDE for Transportation	 		    | Olivier      | de Visscher      | Expleo                             |
