@@ -43,11 +43,9 @@ Draft programme:
 | 16.00    | Integrating Sigma into Splunk Security Content                                        | Patrick     | Bareiss    | SPLUNK                            |
 | 16.20    | Leveraging MITRE framework for security operations maturity journey			             | Evgeny        | Korzhov     | ABN AMRO                             |
 |          |                                                                                       | Dmitry	   | Galkin           | ABN AMRO                                   |
-| 16.40    | Mapping Security Products to MITRE ATT&CK for the Community			                     | Rich      | Struse           | TIDAL             |
-| 17.00    | Using Open Standards to Represent, Detect and Respond to Adversary Behaviors		 | Charles      | Frick           | Johns Hopkins University             |
-| 17.20    | Investigation of C2 hosts to understand defense evasion and future resource development			     | Matt      | Lembright           | Censys             |
-| 17.40    | Closing comments                                                                      | Freddy      |            |                                   |
-
+| 16.40    | Using Open Standards to Represent, Detect and Respond to Adversary Behaviors		 | Charles      | Frick           | Johns Hopkins University             |
+| 17.00    | Using time-based analysis of C2 hosts for pattern-of-life development			     | Matt      | Lembright           | Censys             |
+| 17.20    | Closing comments                                                                      | Freddy      |            |                                   |
 
 Registration (in person or virtual) is possible at no cost via this link: <a href="https://www.eventbrite.com/e/11th-eu-attck-community-workshop-tickets-574427958487"> Registration for the eleventh 
 EU MITRE ATT&CK Community Workshop</a>. 
