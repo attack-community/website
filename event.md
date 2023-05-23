@@ -44,7 +44,7 @@ Draft programme:
 | 16.20    | Leveraging MITRE ATT&CK for security operations maturity journey			             | Evgeny        | Korzhov     | ABN AMRO                             |
 |          |                                                                                       | Dmitry	   | Galkin           | ABN AMRO                                   |
 | 16.40    | Using Open Standards to Represent, Detect and Respond to Adversary Behaviors		 | Charles      | Frick           | Johns Hopkins University             |
-| 17.00    | Using time-based analysis of C2 hosts for pattern-of-life development			     | Matt      | Lembright           | Censys             |
+| 17.00    | Pattern-of-life analysis of C2 hosts focusing on MITRE ATT&CK Pre-Compromise phase		     | Matt      | Lembright           | Censys             |
 | 17.20    | Closing comments                                                                      | Freddy      |            |                                   |
 
 Registration (in person or virtual) is possible at no cost via this link: <a href="https://www.eventbrite.com/e/11th-eu-attck-community-workshop-tickets-574427958487"> Registration for the eleventh 
