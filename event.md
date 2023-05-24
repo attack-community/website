@@ -17,8 +17,8 @@ Draft programme:
 |----------|---------------------------------------------------------------------------------------|-------------|------------|-----------------------------------|
 |          |                                                                                       |             |            |                                   |
 | Time CEST| Ttile                                                                                 | First name  | Last name  | Organisation              
-| 10.00    | Opening and welcome                                                                   | Freddy      |            |                           |
-| 10.10    | Welcome from CCB                                                                      |       | | CCB                       |
+| 10.00    | Welcome from CCB                                                                      | Miguel      | De Bruycker| CCB                       |
+| 10.10    | Opening and welcome                                                                   | Freddy      |            |                           |
 | 10.20    | We need your help !                                                                   | Kevin       | Holvoet    | CCB                       |
 | 10:40    | MITRE ATT&CK for Incident Response Reporting                                          | Björn       | Vanneste   | Checkpoint                |
 | 11.00    | Early Lessons from Cloud Incidents      		                                           | Anna        | Chung      | Palo Alto                 |
@@ -34,7 +34,7 @@ Draft programme:
 |          |                                                                                       | Charissa  | Miller           | MITRE                                  |
 | 14.00    | Roadmap for Advancing Threat-Informed Defense   | Jon      | Baker      | ENGENUITY                         |
 | 14.20    | Detection Engineering R&D at the Center for Threat-Informed Defense    | Roman        | Daszczyszak    | ENGENUITY                         |
-| 14.40    | ATT&CK Sync – Staying current with the ATT&CK releases          | Mark       | Haase      | ENGENUITY                              |
+| 14.40    | ATT&CK Sync – Staying current with the ATT&CK releases          | Roman       | Daszczyszak      | ENGENUITY                              |
 | 15.00    | Analysing Sigma rule sets with MITRE ATT&CK    | Thomas      | Patzke   |                           |
 | 15.20    | >10,000 Sigma rules + ATT&CK x ChatGPT = Uncoder A.I.			          | Andrii      | Bezverkhyi   |  Socprime                         |
 |          |                                                                                       |             |            |                                   |
