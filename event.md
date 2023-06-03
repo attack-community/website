@@ -10,7 +10,7 @@ The next EU MITRE ATT&CK® Community Workshop was organised in hybrid format on 
 
 The workshop is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response. You will hear updates from MITRE/Engenuity and from the developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community. 
 
-The slide decks from the presentations are available at 
+The slide decks from the presentations are available at : "https://web.tresorit.com/l/VKO5B#gMP-M69QBMpwM6pK27EVFA"
 
 ## Agenda
 
