@@ -6,11 +6,12 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 
 # EU MITRE ATT&CK® Community Workshop - 26 May 2023
 
-The next EU MITRE ATT&CK® Community Workshop will be organised in hybrid format (in-person in Brussels as well as via videoconference) on Friday 26 May 2023. It will be hosted by the <a href="https://ccb.belgium.be/en"> Centre for Cybersecurity Belgium</a>. 
+The next EU MITRE ATT&CK® Community Workshop was organised in hybrid format on Friday 26 May 2023, hosted by the <a href="https://ccb.belgium.be/en"> Centre for Cybersecurity Belgium</a>. 
 
 The workshop is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response. You will hear updates from MITRE/Engenuity and from the developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community. 
 
-Draft programme:
+The slide decks from the presentations are available at 
+
 ## Agenda
 
 | 26-May   |                                                                                       |             |            |                                   |
@@ -41,14 +42,10 @@ Draft programme:
 | 15.40    | Break for coffee                                                                      |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
 | 16.00    | Integrating Sigma into Splunk Security Content                                        | Patrick     | Bareiss    | SPLUNK                            |
-| 16.20    | Leveraging MITRE ATT&CK for security operations maturity journey			             | Evgeny        | Korzhov     | ABN AMRO                             |
-| 16.40    | Using Open Standards to Represent, Detect and Respond to Adversary Behaviors		 | Charles      | Frick           | Johns Hopkins University             |
-| 17.00    | Pattern-of-life analysis of C2 hosts focusing on MITRE ATT&CK Pre-Compromise phase		     | Matt      | Lembright           | Censys             |
-| 17.20    | ATT&CK with Confidence		     | Eireann      | Leverett           | Tidal             |
-| 17.40    | Closing comments                                                                      | Freddy      |            |                                   |
-
-Registration (in person or virtual) is possible at no cost via this link: <a href="https://www.eventbrite.com/e/11th-eu-attck-community-workshop-tickets-574427958487"> Registration for the eleventh 
-EU MITRE ATT&CK Community Workshop</a>. 
+| 16.20    | Using Open Standards to Represent, Detect and Respond to Adversary Behaviors		 | Charles      | Frick           | Johns Hopkins University             |
+| 16.40    | Pattern-of-life analysis of C2 hosts focusing on MITRE ATT&CK Pre-Compromise phase		     | Matt      | Lembright           | Censys             |
+| 17.00    | ATT&CK with Confidence		     | Eireann      | Leverett           | Tidal             |
+| 17.20    | Closing comments                                                                      | Freddy      |            |                                   |
 
 # About the EU ATT&CK Community
 
