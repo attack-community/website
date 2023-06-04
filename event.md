@@ -4,7 +4,7 @@ title: EU MITRE ATT&CK® Community
 subtitle: EU MITRE ATT&CK® Community Workshops
 ---
 
-# EU MITRE ATT&CK® Community Workshop - 26 May 2023
+# EU MITRE ATT&CK® Community Workshop
 
 The eleventh EU MITRE ATT&CK® Community Workshop was organised in hybrid format on Friday 26 May 2023, hosted by the <a href="https://ccb.belgium.be/en"> Centre for Cybersecurity Belgium</a>. The slide decks from the presentations are available at : <a href="https://web.tresorit.com/l/VKO5B#gMP-M69QBMpwM6pK27EVFA"> Slides from the eleventh workshop</a>. 
 
