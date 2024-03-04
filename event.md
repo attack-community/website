@@ -20,6 +20,7 @@ It would be highly appreciated if you would be willing to share your experience 
 
 Participation to this event is at no cost for the participants, but registration is required on the following link: 
 <a href="https://scic.ec.europa.eu/ew/register/dgscic/8th_EU_ATT_CK_Community_Workshop_22_October_2021_virtual/e/lk/g/30870/k/"> Registration for the twelfth EU MTRE ATT&CK workshop. </a>
+While registering you can also indicate your willingness to present in person at the event. 
   
 We insist that you provide your real name, professional affiliation and a corporate email address in your registration. 
 
