@@ -4,44 +4,24 @@ title: EU MITRE ATT&CK® Community
 subtitle: EU MITRE ATT&CK® Community Workshops
 ---
 
-# EU MITRE ATT&CK® Community Workshop
+# Twelfth EU MITRE ATT&CK® Community Workshop 17 May 2024
 
-The eleventh EU MITRE ATT&CK® Community Workshop was organised in hybrid format on Friday 26 May 2023, hosted by the <a href="https://ccb.belgium.be/en"> Centre for Cybersecurity Belgium</a>. The slide decks from the presentations are available at : <a href="https://web.tresorit.com/l/VKO5B#gMP-M69QBMpwM6pK27EVFA"> Slides from the eleventh workshop</a>. 
+The ninth EU ATT&CK Community Workshop will take place on 17 May 2024 from 9am CET until 6pm. We will organize this event in hybrid format, with space for some 350 attendees in a conference room in Brussels and the other attendees joining virtually.  The workshop is hosted by the <a href="https://ccb.belgium.be/en"> Centre for Cybersecurity Belgium </a>  and supported by the MITRE Engenuity Center for Threat-Informed Defense. 
 
-## Agenda
+It is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response. 
+You will hear updates from MITRE and from the developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community. 
 
-| 26-May   |                                                                                       |             |            |                                   |
-|----------|---------------------------------------------------------------------------------------|-------------|------------|-----------------------------------|
-|          |                                                                                       |             |            |                                   |
-| Time CEST| Ttile                                                                                 | First name  | Last name  | Organisation              
-| 10.00    | Welcome from CCB                                                                      | Miguel      | De Bruycker| CCB                       |
-| 10.10    | Opening and welcome                                                                   | Freddy      |            |                           |
-| 10.20    | We need your help !                                                                   | Kevin       | Holvoet    | CCB                       |
-| 10:40    | MITRE ATT&CK for Incident Response Reporting                                          | Björn       | Vanneste   | Checkpoint                |
-| 11.00    | Early Lessons from Cloud Incidents      		                                           | Anna        | Chung      | Palo Alto                 |
-| 11.20    | Practical investigations and Threat Hunting with Top ATT&CK			                     | Marvin      | Ngoma      | Elastic                   |
-| 11.40    | Mapping MITRE ATT&CK and D3FEND to the ECSF for cyber range scenario generation			 | Sebastien   | Dupont     | CETIC                     |
-| 12.00    | Use-Case of Cybersecurity requirements, mapping Mitre ATT&CK for ICS on STRIDE for Transportation	 		    | Olivier      | de Visscher      | Expleo                             |
-|          |                                                                                       |  Jean-Sebastien  | Servaye           | Alstom                                  |
-| 12.20    | Everything Everywhere All at Once: From Threat Scenarios to Detection - powered by ATT&CK					 | Hong-Gie   | Ong     | ING                     |
-|          |                                                                                       |             |            |                                   |
-| 12.40    | Break for lunch  -                                                                    |             |            |                                   |
-|          |                                                                                       |             |            |                                   |
-| 13.30    | State of ATT&CK                                                                   | Adam        | Pennington | MITRE                             |
-|          |                                                                                       | Charissa  | Miller           | MITRE                                  |
-| 14.00    | Roadmap for Advancing Threat-Informed Defense   | Jon      | Baker      | ENGENUITY                         |
-| 14.20    | Detection Engineering R&D at the Center for Threat-Informed Defense    | Roman        | Daszczyszak    | ENGENUITY                         |
-| 14.40    | ATT&CK Sync – Staying current with the ATT&CK releases          | Roman       | Daszczyszak      | ENGENUITY                              |
-| 15.00    | Analysing Sigma rule sets with MITRE ATT&CK    | Thomas      | Patzke   |                           |
-| 15.20    | >10,000 Sigma rules + ATT&CK x ChatGPT = Uncoder A.I.			          | Andrii      | Bezverkhyi   |  Socprime                         |
-|          |                                                                                       |             |            |                                   |
-| 15.40    | Break for coffee                                                                      |             |            |                                   |
-|          |                                                                                       |             |            |                                   |
-| 16.00    | Integrating Sigma into Splunk Security Content                                        | Patrick     | Bareiss    | SPLUNK                            |
-| 16.20    | Using Open Standards to Represent, Detect and Respond to Adversary Behaviors		 | Charles      | Frick           | Johns Hopkins University             |
-| 16.40    | Pattern-of-life analysis of C2 hosts focusing on MITRE ATT&CK Pre-Compromise phase		     | Matt      | Lembright           | Censys             |
-| 17.00    | ATT&CK with Confidence		     | Eireann      | Leverett           | Tidal             |
-| 17.20    | Closing comments                                                                      | Freddy      |            |                                   |
+We will continue the highly-effective format of short (15’) lightning talks, focusing on the following themes: 
+1.	Tools and methods for sharing 
+2.	Rules, playbooks and processes 
+3.	ATT&CK flavors (cloud, telecom, ICS, Active Defense…)
+
+It would be highly appreciated if you would be willing to share your experience with the ATT&CK® Framework in any of the three domains in a 15’ lightning talk. Presentation by user organisations are particularly appreciated. We would like to point out that presentations should focus on practical insights and contributions that the community can put into practice. Tools and methods presented should therefore be accessible and deployable by the participants. Commercial content in the presentations will not be accepted. 
+
+Participation to this event is at no cost for the participants, but registration is required on the following link: 
+<a href="https://scic.ec.europa.eu/ew/register/dgscic/8th_EU_ATT_CK_Community_Workshop_22_October_2021_virtual/e/lk/g/30870/k/"> Registration for the twelfth EU MTRE ATT&CK workshop. </a>
+  
+We insist that you provide your real name, professional affiliation and a corporate email address in your registration. 
 
 # About the EU ATT&CK Community
 
