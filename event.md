@@ -19,7 +19,7 @@ We will continue the highly-effective format of short (15’) lightning talks, f
 It would be highly appreciated if you would be willing to share your experience with the ATT&CK® Framework in any of the three domains in a 15’ lightning talk. Presentation by user organisations are particularly appreciated. We would like to point out that presentations should focus on practical insights and contributions that the community can put into practice. Tools and methods presented should therefore be accessible and deployable by the participants. Commercial content in the presentations will not be accepted. 
 
 Participation to this event is at no cost for the participants, but registration is required on the following link: 
-<a href="[ttps://www.eventbrite.be/e/12th-eu-attck-community-workshop-hybrid-format-tickets-855686319817"> Registration for the twelfth EU MITRE ATT&CK workshop. </a>
+<a href="https://www.eventbrite.be/e/12th-eu-attck-community-workshop-hybrid-format-tickets-855686319817"> Registration for the twelfth EU MITRE ATT&CK workshop. </a>
 While registering you can also indicate your willingness to present in person at the event. 
   
 We insist that you provide your real name, professional affiliation and a corporate email address in your registration. 
