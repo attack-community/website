@@ -47,7 +47,7 @@ You will hear updates from MITRE and from the developers of systems and tools su
 | 15.30    | A Look Outside the Window(s): CTI Spotlight on Less-Prominent ATT&CK Techniques       | Scott       | Small      | TIDAL                             |
 | 15.45    | Operationalizing Threat Intelligence to ATT&CK your Adversaries                       | Hanna       | Holych     | SSSCIP                            |
 | 16.00    | A CISO story: educating students on MITRE ATT&CK in Ukraine, with CERT-UA                           | Volodymyr   | Garashchenko| SOC Prime                        |
-|          |                                                                                       | Denys       | Iaschuk    | CERT-UA                           |
+|          |                                                                                       | Denys       | Yashchuk    | CERT-UA                           |
 | 16.15    | Cost effective requirements allocation with MITRE ATT&CK                              | Olivier     | de Visscher| Expleo                            |
 |          |                                                                                       | Thomas      | Jahan      | Expleo                            |
 | 16.30    | Honeypots and how to use them with ATT&CK                                                         | Victor      | Curalea    | European Commission               |
