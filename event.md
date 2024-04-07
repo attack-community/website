@@ -13,7 +13,7 @@ You will hear updates from MITRE and from the developers of systems and tools su
 
 ## Draft Agenda
 
-| 17-May   |                                                                                       |             |            |                                   |
+|  |                                                                                       |             |            |                                   |
 |----------|---------------------------------------------------------------------------------------|-------------|------------|-----------------------------------|
 |          |                                                                                       |             |            |                                   |
 | Time CEST| Ttile                                                                                 | First name  | Last name  | Organisation                      |
