@@ -48,7 +48,6 @@ You will hear updates from MITRE and from the developers of systems and tools su
 | 15.45    | Operationalizing Threat Intelligence to ATT&CK your Adversaries                       | Hanna       | Holych     | SSSCIP                            |
 | 16.00    | A CISO story: educating students on MITRE ATT&CK in Ukraine                           | Volodymyr   | Garashchenko| SOC Prime                        |
 |          |                                                                                       | Denys       | Iaschuk    | CERT-UA                           |
-
 | 16.15    | Cost effective requirements allocation with MITRE ATT&CK                              | Olivier     | de Visscher| Expleo                            |
 |          |                                                                                       | Thomas      | Jahan      | Expleo                            |
 | 16.30    | Honeypots and how to use them                                                         | Victor      | Curalea    | European Commission               |
