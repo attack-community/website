@@ -51,7 +51,7 @@ You will hear updates from MITRE and from the developers of systems and tools su
 | 16.15    | Cost effective requirements allocation with MITRE ATT&CK                              | Olivier     | de Visscher| Expleo                            |
 |          |                                                                                       | Thomas      | Jahan      | Expleo                            |
 | 16.30    | Honeypots and how to use them with ATT&CK                                                         | Victor      | Curalea    | European Commission               |
-| 16.45    | Standardising Threat Matrices: the good, the bad, the ...                             | Christoph   | Vandeplas  | nexturia / MISP Project           |
+| 16.45    | Standardising Threat Matrices: the good, the bad, the ...                             | Christophe   | Vandeplas  | nexturia / MISP Project           |
 | 17.00    | Leveraging MITRE ATT&CK to Develop the MISP Galaxy Standard: Building a Robust Interconnected Knowledge Base | Alexandre| Dulaunoy| CIRCL                                  |
 | 17.15    | TBD                                                                      |       |            |                                   |
 | 17.30    | Closing comments                                                                      | Freddy      |            |                                   |
