@@ -61,7 +61,6 @@ You will hear updates from MITRE and from the developers of systems and tools su
 
 Participation to this event is at no cost for the participants, but registration is required on the following link: 
 <a href="https://www.eventbrite.be/e/12th-eu-attck-community-workshop-hybrid-format-tickets-855686319817"> Registration for the twelfth EU MITRE ATT&CK workshop. </a>
-While registering you can also indicate your willingness to present in person at the event. 
   
 We insist that you provide your real name, professional affiliation and a corporate email address in your registration. 
 
