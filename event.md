@@ -18,7 +18,7 @@ You will hear updates from MITRE and from the developers of systems and tools su
 |          |                                                                                       |             |            |                                   |
 | Time CEST| Ttile                                                                                 | First name  | Last name  | Organisation                      |
 | 9.30    | Opening and welcome                                                                   | Freddy      |            |                                   |
-| 9.30    | How CCB links ATT&CK techniques with CyFun mitigations                          |Kevin |  Holvoet    |  CCB                                |
+| 9.30    | Enhancing Cybersecurity with MITRE ATT&CK and CyberFundamentals                          |Kevin |  Holvoet    |  CCB                                |
 | 9.45    | The Always-On Purple Team: An Automated CI/CD for Detection Engineering    | Erik      | Van Buggenhout | NVISO                               |
 | 10.00    | Threat-Led Attack Emulation: Holistic & Efficient Adoption of Threat-Informed Defense    | Kennedy      | Torkura | Mitigant                 |
 | 10.15    | Purple Teaming Automation    | Rajendra| Mekhale| ItsMe|
@@ -29,7 +29,7 @@ You will hear updates from MITRE and from the developers of systems and tools su
 | 11.00    | Coffee                                                        | | | |
 |          |                                                                                       |             |            |                                   |
 | 11.30    | GenAI for Threat-Informed Defense - GenAI as Buddy for TID Research & Development          | Ryusuke      | Masuoka      | Fujitsu                             |
-| 11.45    | Chat with your CTI         | Dhia      | Mahjoub      | Independent Researcher                            |
+| 11.45    | TBD         |        |        |                              |
 | 12.00    | The rationale for Cyber Risk Quantification                                           | Robert      | Kloots      | Trust Matters                    |
 | 12.15    | Digital Maintenance for Rail: A MITRE ATT&CK Handbook for Today (and Tomorrow)         | Emma      | Taylor      | RazorSecure                       |
 |          |                                                                                       |             |            |                                   |
