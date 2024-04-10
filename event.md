@@ -22,7 +22,7 @@ You will hear updates from MITRE and from the developers of systems and tools su
 | 9.45    | The Always-On Purple Team: An Automated CI/CD for Detection Engineering    | Erik      | Van Buggenhout | NVISO                               |
 | 10.00    | Threat-Led Attack Emulation: Holistic & Efficient Adoption of Threat-Informed Defense    | Kennedy      | Torkura | Mitigant                 |
 | 10.15    | Purple Teaming Automation    | Rajendra| Mekhale| ItsMe|
-| 10:30    | TotalTest – An Integrated and Enhanced Approach to Conducting Attack Simulations       | Nebu     | Varghese| FTI Consulting           |
+| 10:30    | TotalTest – An Integrated Approach to Conducting Attack Simulation       | Nebu     | Varghese| FTI Consulting           |
 | 10.45    | Threat-Informed Defense: Transforming Intelligence into Countermeasures     | Grzegorz      | Molski    | Standard Chartered                                |
 |  |   | Wojciech      | Lesicki    | Standard Chartered                                |
 |          |                                                                                       |             |            |                                   |
