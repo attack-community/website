@@ -48,12 +48,12 @@ You will hear updates from MITRE and from the developers of systems and tools su
 | 15.45    | Operationalizing Threat Intelligence to ATT&CK your Adversaries                       | Hanna       | Holych     | SSSCIP                            |
 | 16.00    | A CISO story: educating students on MITRE ATT&CK in Ukraine, with CERT-UA                           | Volodymyr   | Garashchenko| SOC Prime                        |
 |          |                                                                                       | Denys       | Yashchuk    | CERT-UA                           |
-| 16.15    | Cost effective requirements allocation with MITRE ATT&CK                              | Olivier     | de Visscher| Expleo                            |
+| 16.15    | Matching the Attack - Growth in use of QR Codes                                       | Dave        | Ross        | Intel471                                  |
+| 16.30    | Cost effective requirements allocation with MITRE ATT&CK                              | Olivier     | de Visscher| Expleo                            |
 |          |                                                                                       | Thomas      | Jahan      | Expleo                            |
-| 16.30    | Honeypots and how to use them with ATT&CK                                                         | Victor      | Curalea    | European Commission               |
 | 16.45    | Standardising Threat Matrices: the good, the bad, the ...                             | Christophe   | Vandeplas  | nexturia / MISP Project           |
 | 17.00    | Leveraging MITRE ATT&CK to Develop the MISP Galaxy Standard: Building a Robust Interconnected Knowledge Base | Alexandre| Dulaunoy| CIRCL                                  |
-| 17.15    | TBD                                                                      |       |            |                                   |
+| 17.15    | Honeypots and how to use them with ATT&CK                                                         | Victor      | Curalea    | European Commission               |
 | 17.30    | Closing comments                                                                      | Freddy      |            |                                   |
 
 
