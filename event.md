@@ -29,7 +29,7 @@ You will hear updates from MITRE and from the developers of systems and tools su
 | 11.00    | Coffee                                                        | | | |
 |          |                                                                                       |             |            |                                   |
 | 11.30    | GenAI for Threat-Informed Defense - GenAI as Buddy for TID Research & Development          | Ryusuke      | Masuoka      | Fujitsu                             |
-| 11.45    | TBD         |        |        |                              |
+| 11.45    | Chat with your CTI         | Dhia       | Mahjoub       | Independent researcher                             |
 | 12.00    | The rationale for Cyber Risk Quantification                                           | Robert      | Kloots      | Trust Matters                    |
 | 12.15    | Digital Maintenance for Rail: A MITRE ATT&CK Handbook for Today (and Tomorrow)         | Emma      | Taylor      | RazorSecure                       |
 |          |                                                                                       |             |            |                                   |
