@@ -6,12 +6,9 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 
 # Twelfth EU MITRE ATT&CK® Community Workshop 17 May 2024
 
-The twelfth EU ATT&CK Community Workshop has taken place on 17 May 2024. The workshop was hosted by the <a href="https://ccb.belgium.be/en"> Centre for Cybersecurity Belgium </a>  and supported by the MITRE Engenuity Center for Threat-Informed Defense. The slide decks from the presentations are available here: <a href="https://web.tresorit.com/l/qoe8T#OGmZPNN7E4A8Om77bH2sGQ"> Presentations at the tewelfth EU ATT&CK Workshop </a>
+The twelfth EU ATT&CK Community Workshop has taken place on 17 May 2024. The workshop was hosted by the <a href="https://ccb.belgium.be/en"> Centre for Cybersecurity Belgium </a>  and supported by the MITRE Engenuity Center for Threat-Informed Defense. The slide decks from the presentations are available here: <a href="https://web.tresorit.com/l/qoe8T#OGmZPNN7E4A8Om77bH2sGQ"> Presentations at the twelfth EU ATT&CK Workshop </a>
 
-It is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response. 
-You will hear updates from MITRE and from the developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community. 
-
-## Draft Agenda
+## Agenda
 
 |  |                                                                                       |             |            |                                   |
 |----------|---------------------------------------------------------------------------------------|-------------|------------|-----------------------------------|
@@ -46,8 +43,7 @@ You will hear updates from MITRE and from the developers of systems and tools su
 |          |                                                                                       |             |            |                                   |
 | 15.30    | A Look Outside the Window(s): CTI Spotlight on Less-Prominent ATT&CK Techniques       | Scott       | Small      | TIDAL                             |
 | 15.45    | Operationalizing Threat Intelligence to ATT&CK your Adversaries                       | Hanna       | Holych     | SSSCIP                            |
-| 16.00    | A CISO story: educating students on MITRE ATT&CK in Ukraine, with CERT-UA                           | Volodymyr   | Garashchenko| SOC Prime                        |
-|          |                                                                                       | Denys       | Yashchuk    | CERT-UA                           |
+| 16.00    | Unlocking the potential of MITRE ATT&CK                                               | Denys       | Yashchuk    | CERT-UA                           |
 | 16.15    | Matching the Attack - Growth in use of QR Codes                                       | Dave        | Ross        | Intel471                                  |
 | 16.30    | Cost effective requirements allocation with MITRE ATT&CK                              | Olivier     | de Visscher| Expleo                            |
 |          |                                                                                       | Thomas      | Jahan      | Expleo                            |
@@ -55,14 +51,6 @@ You will hear updates from MITRE and from the developers of systems and tools su
 | 17.00    | Leveraging MITRE ATT&CK to Develop the MISP Galaxy Standard: Building a Robust Interconnected Knowledge Base | Alexandre| Dulaunoy| CIRCL                                  |
 | 17.15    | Honeypots and how to use them with ATT&CK                                                         | Victor      | Curalea    | European Commission               |
 | 17.30    | Closing comments                                                                      | Freddy      |            |                                   |
-
-
-
-
-Participation to this event is at no cost for the participants, but registration is required on the following link: 
-<a href="https://www.eventbrite.be/e/12th-eu-attck-community-workshop-hybrid-format-tickets-855686319817"> Registration for the twelfth EU MITRE ATT&CK workshop. </a>
-  
-We insist that you provide your real name, professional affiliation and a corporate email address in your registration. 
 
 # About the EU ATT&CK Community
 
