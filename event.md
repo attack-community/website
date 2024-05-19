@@ -6,7 +6,7 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 
 # Twelfth EU MITRE ATT&CK® Community Workshop 17 May 2024
 
-The twelfth EU ATT&CK Community Workshop will take place on 17 May 2024 from 9am CET until 6pm. We will organize this event in hybrid format, with space for some 300 attendees in a conference room in Brussels and the other attendees joining virtually.  The workshop is hosted by the <a href="https://ccb.belgium.be/en"> Centre for Cybersecurity Belgium </a>  and supported by the MITRE Engenuity Center for Threat-Informed Defense. 
+The twelfth EU ATT&CK Community Workshop has taken place on 17 May 2024. The workshop was hosted by the <a href="https://ccb.belgium.be/en"> Centre for Cybersecurity Belgium </a>  and supported by the MITRE Engenuity Center for Threat-Informed Defense. The slide decks from the presentations are available here: <a href="https://web.tresorit.com/l/qoe8T#OGmZPNN7E4A8Om77bH2sGQ">  </a>
 
 It is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response. 
 You will hear updates from MITRE and from the developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community. 
