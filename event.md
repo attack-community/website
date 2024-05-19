@@ -6,7 +6,7 @@ subtitle: EU MITRE ATT&CK® Community Workshops
 
 # Twelfth EU MITRE ATT&CK® Community Workshop 17 May 2024
 
-The twelfth EU ATT&CK Community Workshop has taken place on 17 May 2024. The workshop was hosted by the <a href="https://ccb.belgium.be/en"> Centre for Cybersecurity Belgium </a>  and supported by the MITRE Engenuity Center for Threat-Informed Defense. The slide decks from the presentations are available here: <a href="https://web.tresorit.com/l/qoe8T#OGmZPNN7E4A8Om77bH2sGQ"> Presentations at the twelfth EU ATT&CK Workshop </a>
+The twelfth EU ATT&CK Community Workshop has taken place on 17 May 2024. The workshop was hosted by the <a href="https://ccb.belgium.be/en"> Centre for Cybersecurity Belgium </a>  and supported by the MITRE Engenuity Center for Threat-Informed Defense. The presentations are available here: <a href="https://web.tresorit.com/l/qoe8T#OGmZPNN7E4A8Om77bH2sGQ"> Slide decks from the presentations at the twelfth EU ATT&CK Workshop </a>
 
 ## Agenda
 
