@@ -18,5 +18,5 @@ The EU ATT&CK Community is a diverse community of practitioners including securi
 
 # Contact
 
-If you want to get in touch with us or if you want to join the mailing list, you can reach us via email info@attack-community.org. 
+If you want to get in touch with us, you can reach us via email info@attack-community.org. 
 
