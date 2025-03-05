@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 2025 EU MITRE ATT&CK® Community
-subtitle: EU MITRE ATT&CK® Community Workshops
+title: 2025 EU MITRE ATT&CK® Community Workshop
 ---
 
 # EU MITRE ATT&CK® Community Workshop – Registration is open!
