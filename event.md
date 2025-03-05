@@ -14,7 +14,7 @@ You can register for the event on the following link:
 
 <a href="https://www.eurocontrol.int/event/2025-eu-mitre-attckr-community-workshop"> Registration for the 2025 EU MITRE ATT&CK Community Workshop </a>
 
-Please specify if you would like to attend in person or virtually. If you attend in person, you can also submit a proposal for a talk, to share your experience with the ATT&CK® Framework.
+Please specify if you would like to attend in person or virtually. If you attend in person at the Eurocontrol premises in Brussels, you can also submit a proposal for a talk, to share your experience with the ATT&CK® Framework.
 
 # About the EU ATT&CK Community
 
