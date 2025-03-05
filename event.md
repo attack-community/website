@@ -10,8 +10,11 @@ The 2025 EU ATT&CK Community Workshop will take place, in hybrid format, on 15 M
 
 You will hear updates from MITRE, the Center for Threat-Informed Defense and from the developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community.
 
-You can register for the event on the following link. Please specify if you would like to attend in person or virtually. If you attend in person, you can also submit a proposal for a talk, to share your experience with the ATT&CK® Framework:
+You can register for the event on the following link:
+
 <a href="https://www.eurocontrol.int/event/2025-eu-mitre-attckr-community-workshop"> Registration for the 2025 EU MITRE ATT&CK Community Workshop </a>
+
+Please specify if you would like to attend in person or virtually. If you attend in person, you can also submit a proposal for a talk, to share your experience with the ATT&CK® Framework.
 
 # About the EU ATT&CK Community
 
