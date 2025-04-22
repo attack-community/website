@@ -35,7 +35,7 @@ The 2025 EU ATT&CK Community Workshop will take place, in hybrid format, on 15 M
 | 14.15    | From Attacks to Action: An Open Community Model to Drive Defensive Choices | Phyllis        | Lee    | CIS                         |
 |     | | Curtis        | Dukes    | CIS                         |
 | 14.30    | In the Eye of Falco - Enabling Visibility and Forensics in Kubernetes and Linux Environments | Sergej       | Epp      | Sysdig                              |
-| 14.45    | Cloud security by default| Freddy      | | |
+| 14.45    | Cloud Security by Default| Freddy      | | |
 |          |                                                                                       |             |            |                                   |
 | 15.00    | Break for coffee                                                                      |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
