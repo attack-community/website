@@ -18,7 +18,6 @@ You will hear updates from MITRE, the Center for Threat-Informed Defense and fro
 | 9.30    | Opening and welcome                                                                   | Freddy      |            |                                   |
 | 9.45    | How Eurocontrol uses ATT&CK    | Patrick      | Mana | Eurocontrol                               |
 | 10.00    | A funny tale of an unknown technique | Vito      | Alfano | CITIA                               |
-
 | 10.15    | How Stolen Identity Data Fuels Cyber Threats | Mandeep | Sandhu | SpyCloud|
 | 10:30    | High Value Targets & MITRE ATT&CK: Enhancing Cyber Threat Intel with the HVT STIX Extension       | Francesco| De Chiarini | High Value Target             |
 | 10.45    | Risk-Based MITRE TTP Scoring for Proactive Cyber Threat Prioritization and Response | Mohammad | Makchudul | BGD e-GOV CIRT |
