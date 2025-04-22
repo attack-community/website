@@ -5,9 +5,7 @@ title: 2025 EU MITRE ATT&CK® Community Workshop
 
 # EU MITRE ATT&CK® Community Workshop – Registration is open!
 
-The 2025 EU ATT&CK Community Workshop will take place, in hybrid format, on 15 May 2025 from 9am CET until 5pm CET, hosted by <a href="https://www.eurocontrol.int/"> Eurocontrol </a> and supported by the <a href="https://ctid.mitre.org/"> MITRE Center for Threat-Informed Defense </a> and the <a href="https://ccb.belgium.be/en"> Centre for Cybersecurity Belgium </a>.  It is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response.
-
-You will hear updates from MITRE, the Center for Threat-Informed Defense and from the developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community.
+The 2025 EU ATT&CK Community Workshop will take place, in hybrid format, on 15 May 2025 from 9:30am CET until 5pm CET, hosted by <a href="https://www.eurocontrol.int/"> Eurocontrol </a> and supported by the <a href="https://ctid.mitre.org/"> MITRE Center for Threat-Informed Defense </a> and the <a href="https://ccb.belgium.be/en"> Centre for Cybersecurity Belgium </a>.  It is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response.
 
 ## Draft Agenda
 
