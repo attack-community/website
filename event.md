@@ -9,6 +9,49 @@ The 2025 EU ATT&CK Community Workshop will take place, in hybrid format, on 15 M
 
 You will hear updates from MITRE, the Center for Threat-Informed Defense and from the developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community.
 
+Draft programme:
+## Agenda
+
+| 15-May   |                                                                                       |             |            |                                   |
+|----------|---------------------------------------------------------------------------------------|-------------|------------|-----------------------------------|
+|          |                                                                                       |             |            |                                   |
+| Time CEST| Ttile                                                                                 | First name  | Last name  | Organisation                      |
+| 9.30    | Opening and welcome                                                                   | Freddy      |            |                                   |
+| 9.45    | How Eurocontrol uses ATT&CK    | Patrick      | Mana | Eurocontrol                               |
+| 10.00    | A funny tale of an unknown technique | Vito      | Alfano | CITIA                               |
+
+| 10.15    | How Stolen Identity Data Fuels Cyber Threats | Mandeep | Sandhu | SpyCloud|
+| 10:30    | High Value Targets & MITRE ATT&CK: Enhancing Cyber Threat Intel with the HVT STIX Extension       | Francesco| De Chiarini | High Value Target             |
+| 10.45    | Risk-Based MITRE TTP Scoring for Proactive Cyber Threat Prioritization and Response | Mohammad | Makchudul | BGD e-GOV CIRT |
+|          |                                                                                       |             |            |                                   |
+| 11.00    | Coffee                                                        | | | |
+|          |                                                                                       |             |            |                                   |
+| 11.15    | Leveraging Adversary Emulation for GenAI Red Teaming        | Kennedy      | Torkura      | Mitigant                             |
+| 11.30    | How to interlock MITRE ATT&CK to Risk          | Neil | Jacobs      | Lloyds Bank |
+| 11.45    | Transl&ting Annual Threat Reports: Best Practice Guidance       | Scott | Small      | TIDAL Cyber |
+| 12.00    | OpenTIDE the Threat-informed Detection Engineering framework          | Remy     | Seguy      | European Commission                            |
+| 12.15    | Optimizing Cybersecurity Defenses: Clustering APT Groups for Tailored Mitigation Strategies | Efthymios | Lalas | European Commission                            |
+|          |                                                                                       |             |            |                                   |
+| 12.30    | Break for lunch  -                                                                    |             |            |                                   |
+|          |                                                                                       |             |            |                                   |
+| 13.30    | State of ATT&CK                                                                       | Adam        | Pennington | MITRE                             |
+| 14.00    | Update on Attack Flow                                                                | Mark      | Haase      | MITRE                         |
+| 14.15    | From Attacks to Action: An Open Community Model to Drive Defensive Choices | Phyllis        | Lee    | CIS                         |
+|     | | Curtis        | Dukes    | CIS                         |
+| 14.30    | In the Eye of Falco - Enabling Visibility and Forensics in Kubernetes and Linux Environments | Sergej       | Epp      | Sysdig                              |
+| 14.45    | Cloud security by default| Freddy      | | |
+|          |                                                                                       |             |            |                                   |
+| 15.00    | Break for coffee                                                                      |             |            |                                   |
+|          |                                                                                       |             |            |                                   |
+| 15.15    | TBD                                                                                   | |       | |
+| 15.30    | Applying MITRE ATT&CK for threat-informed cyber insurance underwriting | Jay     | Vinda    | Mosaic Insurance |
+| 15.45    | Applying MITRE ATT&CK for Resilience: A Lessons-Learned Approach | Lorenzo      | Vacca    | ISSA                            |
+| 16.00    | ATT&CK framework to increase cyber resilience of National Critical Infrastructures                      | Giorgi        | Gurgenidze | GITAC                             |
+| 16.15    | TBD                                                                                   | Oleksii            |  Hlushkov          |  CERT-UA                                 |
+| 16.30    | Threat Bounty in the era of AI: LLM assisted Sigma rules and ATT&CK flows generation for Threat Informed Detection Engineering | Andrii            | Bezverkhyi           |  Socprime                                 |
+| 16.45    | TBD                                                                                   |             |            |                                   |
+| 17.00    | Closing comments                                                                      | Freddy      |            |                                   |
+
 You can register for the event on the following link:
 
 <a href="https://www.eurocontrol.int/event/2025-eu-mitre-attckr-community-workshop"> Registration for the 2025 EU MITRE ATT&CK Community Workshop </a>
