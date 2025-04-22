@@ -42,7 +42,7 @@ The 2025 EU ATT&CK Community Workshop will take place, in hybrid format, on 15 M
 | 15.15    | TBD                                                                                   | |       | |
 | 15.30    | Applying MITRE ATT&CK for threat-informed cyber insurance underwriting | Jay     | Vinda    | Mosaic Insurance |
 | 15.45    | Applying MITRE ATT&CK for Resilience: A Lessons-Learned Approach | Lorenzo      | Vacca    | ISSA                            |
-| 16.00    | ATT&CK framework to increase cyber resilience of National Critical Infrastructures                      | Giorgi        | Gurgenidze | GITAC                             |
+| 16.00    | ATT&CK  to increase cyber resilience of National Critical Infrastructures                      | Giorgi        | Gurgenidze | GITAC                             |
 | 16.15    | TBD                                                                                   | Oleksii            |  Hlushkov          |  CERT-UA                                 |
 | 16.30    | Threat Bounty in the era of AI: LLM assisted Sigma rules and ATT&CK flows generation for Threat Informed Detection Engineering | Andrii            | Bezverkhyi           |  Socprime                                 |
 | 16.45    | TBD                                                                                   |             |            |                                   |
