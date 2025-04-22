@@ -26,7 +26,7 @@ The 2025 EU ATT&CK Community Workshop will take place, in hybrid format, on 15 M
 | 11.30    | How to interlock MITRE ATT&CK to Risk          | Neil | Jacobs      | Lloyds Bank |
 | 11.45    | Transl&ting Annual Threat Reports: Best Practice Guidance       | Scott | Small      | TIDAL Cyber |
 | 12.00    | OpenTIDE the Threat-informed Detection Engineering framework          | Remy     | Seguy      | European Commission                            |
-| 12.15    | Optimizing Cybersecurity Defenses: Clustering APT Groups for Tailored Mitigation Strategies | Efthymios | Lalas | European Commission                            |
+| 12.15    | Clustering APT Groups for Tailored Mitigation Strategies | Efthymios | Lalas | European Commission                            |
 |          |                                                                                       |             |            |                                   |
 | 12.30    | Break for lunch  -                                                                    |             |            |                                   |
 |          |                                                                                       |             |            |                                   |
