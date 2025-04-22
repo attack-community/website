@@ -9,8 +9,7 @@ The 2025 EU ATT&CK Community Workshop will take place, in hybrid format, on 15 M
 
 You will hear updates from MITRE, the Center for Threat-Informed Defense and from the developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community.
 
-Draft programme:
-## Agenda
+## Draft Agenda
 
 | 15-May   |                                                                                       |             |            |                                   |
 |----------|---------------------------------------------------------------------------------------|-------------|------------|-----------------------------------|
