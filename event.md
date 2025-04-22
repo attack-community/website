@@ -17,8 +17,8 @@ The 2025 EU ATT&CK Community Workshop will take place, in hybrid format, on 15 M
 | 9.45    | How Eurocontrol uses ATT&CK    | Patrick      | Mana | Eurocontrol                               |
 | 10.00    | A funny tale of an unknown technique | Vito      | Alfano | CITIA                               |
 | 10.15    | How Stolen Identity Data Fuels Cyber Threats | Mandeep | Sandhu | SpyCloud|
-| 10:30    | High Value Targets & MITRE ATT&CK: Enhancing Cyber Threat Intel with the HVT STIX Extension       | Francesco| De Chiarini | High Value Target             |
-| 10.45    | Risk-Based MITRE TTP Scoring for Proactive Cyber Threat Prioritization and Response | Mohammad | Makchudul | BGD e-GOV CIRT |
+| 10:30    | Enhancing Cyber Threat Intel with the HVT STIX Extension       | Francesco| De Chiarini | High Value Target             |
+| 10.45    | Risk-Based TTP Scoring for Proactive Cyber Threat Prioritization and Response | Mohammad | Makchudul | BGD e-GOV CIRT |
 |          |                                                                                       |             |            |                                   |
 | 11.00    | Coffee                                                        | | | |
 |          |                                                                                       |             |            |                                   |
