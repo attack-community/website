@@ -12,7 +12,7 @@ The 2025 EU ATT&CK Community Workshop will take place, in hybrid format, on 15 M
 | 15-May   |                                                                                       |             |            |                                   |
 |----------|---------------------------------------------------------------------------------------|-------------|------------|-----------------------------------|
 |          |                                                                                       |             |            |                                   |
-| Time CEST| Ttile                                                                                 | First name  | Last name  | Organisation                      |
+| Time CEST| Title                                                                                 | First name  | Last name  | Organisation                      |
 | 9.30    | Opening and welcome                                                                   | Freddy      |            |                                   |
 | 9.45    | How Eurocontrol uses ATT&CK    | Paul      | Bosman | Eurocontrol                               |
 | 10.00    | A funny tale of an unknown technique | Vito      | Alfano | CYTIA                               |
