@@ -7,6 +7,11 @@ title: 2025 EU MITRE ATT&CK® Community Workshop
 
 The 2025 EU ATT&CK Community Workshop will take place, in hybrid format, on 15 May 2025 from 9:30am CET until 5pm CET, hosted by <a href="https://www.eurocontrol.int/"> Eurocontrol </a> and supported by the <a href="https://ctid.mitre.org/"> MITRE Center for Threat-Informed Defense </a> and the <a href="https://ccb.belgium.be/en"> Centre for Cybersecurity Belgium </a>.  It is organized by practitioners and for practitioners with an interest in the use of the MITRE ATT&CK® Framework in Prevention, Detection/Hunting and Response.
 
+You can register for the event on the following link:
+<a href="https://www.eurocontrol.int/event/2025-eu-mitre-attckr-community-workshop"> Registration for the 2025 EU MITRE ATT&CK Community Workshop </a>
+
+Please specify if you would like to attend in person or virtually. If you attend in person at the Eurocontrol premises in Brussels, you can also submit a proposal for a talk, to share your experience with the ATT&CK® Framework.
+
 ## Draft Agenda
 
 | 15-May   |                                                                                       |             |            |                                   |
@@ -48,12 +53,6 @@ The 2025 EU ATT&CK Community Workshop will take place, in hybrid format, on 15 M
 | 16.30    | The Always-On Purple Team: AI Agents on the Loose                                     | Jeroen        | Vandeleur     | Proximus NXT           |
 | 16.45    | TBD                                                                                   |             |            |                                   |
 | 17.00    | Closing comments                                                                      | Freddy      |            |                                   |
-
-You can register for the event on the following link:
-
-<a href="https://www.eurocontrol.int/event/2025-eu-mitre-attckr-community-workshop"> Registration for the 2025 EU MITRE ATT&CK Community Workshop </a>
-
-Please specify if you would like to attend in person or virtually. If you attend in person at the Eurocontrol premises in Brussels, you can also submit a proposal for a talk, to share your experience with the ATT&CK® Framework.
 
 # About the EU ATT&CK Community
 
