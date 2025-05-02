@@ -14,10 +14,11 @@ The 2025 EU ATT&CK Community Workshop will take place, in hybrid format, on 15 M
 |          |                                                                                       |             |            |                                   |
 | Time CEST| Title                                                                                 | First name  | Last name  | Organisation                      |
 | 9.30    | Opening and welcome                                                                   | Freddy      |            |                                   |
-| 9.45    | How Eurocontrol uses ATT&CK    | Paul      | Bosman | Eurocontrol                               |
-| 10.00    | A funny tale of an unknown technique | Vito      | Alfano | CYTIA                               |
-| 10.15    | How Stolen Identity Data Fuels Cyber Threats | Mandeep | Sandhu | SpyCloud|
-| 10:30    | Enhancing Cyber Threat Intel with the HVT STIX Extension       | Francesco| De Chiarini | High Value Target             |
+| 9.30    | How Eurocontrol uses ATT&CK    | Paul      | Bosman | Eurocontrol                               |
+| 9.45    | A funny tale of an unknown technique | Vito      | Alfano | CYTIA                               |
+| 10.00    | How Stolen Identity Data Fuels Cyber Threats | Mandeep | Sandhu | SpyCloud|
+| 10:15    | Enhancing Cyber Threat Intel with the HVT STIX Extension       | Francesco| Chiarini | High Value Target             |
+| 10:30    | Applying MITRE ATT&CK for Resilience: A Lessons-Learned Approach       | Lorenzo| Vacca | ISSA             |
 | 10.45    | Risk-Based TTP Scoring for Proactive Threat Prioritization and Response | Mohammad | Makchudul | BGD e-GOV CIRT |
 |          |                                                                                       |             |            |                                   |
 | 11.00    | Coffee                                                        | | | |
@@ -41,10 +42,10 @@ The 2025 EU ATT&CK Community Workshop will take place, in hybrid format, on 15 M
 |          |                                                                                       |             |            |                                   |
 | 15.15    | From Stuck to Started: Agents Unblock Detection Workflows                  | Raj | Sharma      | AttackIQ |
 | 15.30    | Applying MITRE ATT&CK for threat-informed cyber insurance underwriting | Jay     | Vinda    | Mosaic Insurance |
-| 15.45    | Applying MITRE ATT&CK for Resilience: A Lessons-Learned Approach | Lorenzo      | Vacca    | ISSA                            |
-| 16.00    | ATT&CK  to increase cyber resilience of National Critical Infrastructures                      | Giorgi        | Gurgenidze | GITAC                             |
-| 16.15    | Prioritizing ATT&CK Techniques for National-Level Threat-Informed Defence  | Oleksii            |  Hlushkov          |  CERT-UA                                 |
-| 16.30    | Threat Bounty in the era of AI: LLM assisted Sigma rules and ATT&CK flows generation for Threat Informed Detection Engineering | Andrii            | Bezverkhyi           |  Socprime                                 |
+| 15.45    | ATT&CK  to increase cyber resilience of National Critical Infrastructures                      | Giorgi        | Gurgenidze | GITAC                             |
+| 16.00    | Prioritizing ATT&CK Techniques for National-Level Threat-Informed Defence  | Oleksii            |  Hlushkov          |  CERT-UA                                 |
+| 16.15    | Threat Bounty in the era of AI: LLM assisted Sigma rules and ATT&CK flows generation for Threat Informed Detection Engineering | Andrii            | Bezverkhyi           |  Socprime                                 |
+| 16.30    | The Always-On Purple Team: AI Agents on the Loose                                     | Jeroen        | Vandeleur     | Proximus NXT           |
 | 16.45    | TBD                                                                                   |             |            |                                   |
 | 17.00    | Closing comments                                                                      | Freddy      |            |                                   |
 
