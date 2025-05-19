@@ -28,7 +28,7 @@ The 2025 EU ATT&CK Community Workshop has taken place on 15 May 2025. The slide 
 | 11    | Clustering APT Groups for Tailored Mitigation Strategies | Efthymios | Lalas | European Commission                            |
 | 12    | State of ATT&CK                                                                       | Adam        | Pennington | MITRE                             |
 | 13    | Update on Attack Flow                                                                | Mark      | Haase      | MITRE                         |
-| 14    | From Attacks to Action: An Open Community Model to Drive Defensive Choices | Phyllis        | Lee    | CIS                         |
+| 14    | From Attacks to Action: An Open Community Model to Drive Defensive Choices | Curtis        | Dukes    | CIS                         |
 | 15    | In the Eye of Falco - Enabling Visibility and Forensics in Kubernetes and Linux Environments | Sergej       | Epp      | Sysdig                              |
 | 16    | Cloud Security by Default| Freddy      | | |
 | 17    | From Stuck to Started: Agents Unblock Detection Workflows                  | Raj | Sharma      | AttackIQ |
