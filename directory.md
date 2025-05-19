@@ -10,8 +10,6 @@ Tools discussed during the EU ATT&CK Community Workshops.
 | Name                             | Link                                                 | Owner                         |
 |----------------------------------|------------------------------------------------------|-------------------------------|
 | Navigator                        | [https://mitre.github.io/attack-navigator/enterprise/](https://mitre.github.io/attack-navigator/enterprise/) | MITRE                         |
-| CAR                              | [https://car.mitre.org/wiki/Main_Page](https://car.mitre.org/wiki/Main_Page) | MITRE                         |
-| AMITT                            | [https://github.com/misinfosecproject/amitt_framework](https://github.com/misinfosecproject/amitt_framework) |                               |
 | MISP                             | [https://www.misp-project.org](https://www.misp-project.org/) | MISP Project             |
 |                                  |                                                      |                               |
 
