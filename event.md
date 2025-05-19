@@ -3,11 +3,10 @@ layout: page
 title: 2025 EU MITRE ATT&CK® Community Workshop
 ---
 
-# EU MITRE ATT&CK® Community Workshop – Slide decks available now!
+# EU MITRE ATT&CK® Community Workshop – Slide decks available!
 
-The 2025 EU ATT&CK Community Workshop has taken place on 15 May 2025, hosted by <a href="https://www.eurocontrol.int/"> Eurocontrol </a> and supported by the <a href="https://ctid.mitre.org/"> MITRE Center for Threat-Informed Defense </a> and the <a href="https://ccb.belgium.be/en"> Centre for Cybersecurity Belgium </a>.  
+The 2025 EU ATT&CK Community Workshop has taken place on 15 May 2025. The slide decks of the presentations at the event can be downloaded on the following link:
 
-The slide decks of the presentations at the event can be downloaded on the following link:
 <a href="https://web.tresorit.com/l/7Hm4r#ygnAdze2Fc2sjZh0D0FbfQ"> Presentations at the 2025 EU MITRE ATT&CK Community Workshop </a>
 
 ## Agenda
