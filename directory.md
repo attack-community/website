@@ -23,8 +23,7 @@ Tools discussed during the EU ATT&CK Community Workshops.
 | SIGMA Rules                      | [https://github.com/Neo23x0/sigma/tree/master/rules ](https://github.com/Neo23x0/sigma/tree/master/rules)  | Florian Roth                  |
 | OSCD Community                   | [https://oscd.community ](https://oscd.community )                               |                               |
 | BZAR                             | [https://github.com/mitre-attack/bzar ](https://github.com/mitre-attack/bzar)                 | MITRE                         |
-| SIGMA Editor                     | [https://tdm.socprime.com/sigma/generate/](https://tdm.socprime.com/sigma/generate/)            | SOCPRIME                      |
-| UNCODER                          | [https://uncoder.io/ ](https://uncoder.io/)                                  | SOCPRIME                      |
+| UNCODER                          | [https://tdm.socprime.com/uncoder-ai](https://tdm.socprime.com/uncoder-ai)                                 | SOC Prime                      |
 | Threathunter Playbook            | [https://github.com/Cyb3rWard0g/ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) | Roberto Rodriguez             |
 | ThreatHunting App                | [https://github.com/olafhartong/ThreatHunting](https://github.com/olafhartong/ThreatHunting)         | Olaf Hartong                  |
 | Atomic Threat Coverage           | [https://github.com/krakow2600/atomic-threat-coverage](https://github.com/krakow2600/atomic-threat-coverage) | ATC Project                   |
