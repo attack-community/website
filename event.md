@@ -15,7 +15,7 @@ The 2025 EU ATT&CK Community Workshop has taken place on 15 May 2025. The slide 
 |----------|---------------------------------------------------------------------------------------|-------------|------------|-----------------------------------|
 |          |                                                                                       |             |            |                                   |
 |  | Title                                                                                 | First name  | Last name  | Organisation                      |
-| 1    | How Eurocontrol uses ATT&CK    | Paul      | Bosman | Eurocontrol                               |
+| 1    | How Eurocontrol uses ATT&CK    | Szymon      | Loza | Eurocontrol                               |
 | 2    | A funny tale of an unknown technique | Vito      | Alfano | CYTIA                               |
 | 3    | How Stolen Identity Data Fuels Cyber Threats | Mandeep | Sandhu | SpyCloud|
 | 4    | Enhancing Cyber Threat Intel with the HVT STIX Extension       | Francesco| Chiarini | High Value Target             |
