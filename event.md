@@ -3,7 +3,7 @@ layout: page
 title: 2025 EU MITRE ATT&CK® Community Workshop
 ---
 
-# EU MITRE ATT&CK® Community Workshop – Slide decks available!
+# EU MITRE ATT&CK® Community Workshop – Slide decks
 
 The 2025 EU ATT&CK Community Workshop has taken place on 15 May 2025. The slide decks of the presentations at the event can be downloaded on the following link:
 
