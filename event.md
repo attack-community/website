@@ -12,6 +12,7 @@ The slide decks of the presentations at the event can be downloaded on the follo
 
 ## Agenda
 
+| 15-May   |                                                                                       |             |            |                                   |
 |----------|---------------------------------------------------------------------------------------|-------------|------------|-----------------------------------|
 |          |                                                                                       |             |            |                                   |
 | | Title                                                                                 | First name  | Last name  | Organisation                      |
