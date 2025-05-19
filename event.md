@@ -12,10 +12,9 @@ The slide decks of the presentations at the event can be downloaded on the follo
 
 ## Agenda
 
-| 15-May   |                                                                                       |             |            |                                   |
 |----------|---------------------------------------------------------------------------------------|-------------|------------|-----------------------------------|
 |          |                                                                                       |             |            |                                   |
-| Time CEST| Title                                                                                 | First name  | Last name  | Organisation                      |
+| | Title                                                                                 | First name  | Last name  | Organisation                      |
 | 1    | How Eurocontrol uses ATT&CK    | Paul      | Bosman | Eurocontrol                               |
 | 2    | A funny tale of an unknown technique | Vito      | Alfano | CYTIA                               |
 | 3    | How Stolen Identity Data Fuels Cyber Threats | Mandeep | Sandhu | SpyCloud|
