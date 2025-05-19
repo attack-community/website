@@ -27,16 +27,17 @@ navbar-links:
   Tools: "directory"
   Resources:
     - MITRE ATT&CK Blog: "https://medium.com/mitre-attack"
-    - Slides from the Twelfth Workshop: "https://web.tresorit.com/l/qoe8T#OGmZPNN7E4A8Om77bH2sGQ"
-    - Slides from the Eleventh Workshop: "https://web.tresorit.com/l/VKO5B#gMP-M69QBMpwM6pK27EVFA"
-    - Slides from the Tenth Workshop: "https://web.tresorit.com/l/LPSZL#hWW8PO4qnAluY8tiAEPaOw"
-    - Slides from the Ninth Workshop: "https://web.tresorit.com/l/21biO#s0gSRpNqESAx_HiKS-OSxw"
-    - Slides from the Eight Workshop: "https://web.tresorit.com/l/7W9nC#-UfIYJLF40FIYfWTEN60AA"
-    - Slides from the Seventh Workshop: "https://web.tresorit.com/l/OUWDd#B7bBNMx6TeEH0nTCGzDgAw"
-    - Slides from the Sixth Workshop: "https://web.tresorit.com/l/FDl4u#NHx11i1KRZQQjHFGg01Jsg"
-    - Slides from the Fifth Workshop: "https://web.tresorit.com/l/lN841#uqbRHdXCFzVVX8obs1OEUw"
-    - Slides from the Fourth Workshop: "https://web.tresorit.com/l/yxYqH#Hftihl820SXk1zqIFe1YwQ"
-    - Slides from the Third Workshop: "https://web.tresorit.com/l/vcXZj#TdH1Ht0aX_0DMWzxyDXQAw"
+    - Slides from the 2025 Workshop: "https://web.tresorit.com/l/7Hm4r#ygnAdze2Fc2sjZh0D0FbfQ"
+    - Slides from the Twelfth Workshop: "https://web.tresorit.com/l/XaA0s#5yXrRwlWD6El6n9_7_crLQ"
+    - Slides from the Eleventh Workshop: "https://web.tresorit.com/l/dUyrv#fS676lGDSKQ8B98wVDdEog"
+    - Slides from the Tenth Workshop: "https://web.tresorit.com/l/g856E#d3rFCDQDQs_h_nMMSFWJuA"
+    - Slides from the Ninth Workshop: "https://web.tresorit.com/l/JpT3x#OhrypRt-VmVidMriQCQ8sw"
+    - Slides from the Eight Workshop: "https://web.tresorit.com/l/bgU0m#xyKYbAmS_g48wWRU7FMP-Q"
+    - Slides from the Seventh Workshop: "https://web.tresorit.com/l/rMr2U#THEh96PHq63SMVfW1wRuBA"
+    - Slides from the Sixth Workshop: "https://web.tresorit.com/l/0Sql5#_PUTLGaBh8rWikBDd24GOw"
+    - Slides from the Fifth Workshop: "https://web.tresorit.com/l/tRSOr#QcSfCqD-1HbLRg8Kur3WHw"
+    - Slides from the Fourth Workshop: "https://web.tresorit.com/l/Y4e4G#wpYQxX3Qa9wTjVwkUgSBnA"
+    - Slides from the Third Workshop: "https://web.tresorit.com/l/aaDfG#apcgDQ4zzosggrraWfNZ2A"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
