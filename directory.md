@@ -24,7 +24,7 @@ Tools discussed during the EU ATT&CK Community Workshops.
 | Threathunter Playbook            | [https://github.com/Cyb3rWard0g/ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) | Roberto Rodriguez             |
 | RE&CT                            | [https://atc-project.github.io/atc-react/](https://atc-project.github.io/atc-react/)             | ATC Project                   |
 | DETT&CT                          | [https://github.com/rabobank-cdc/DeTTECT](https://github.com/rabobank-cdc/DeTTECT)             | Marcus Bakker / Ruben Bouwman |
-| attack2jira                      | [https://github.com/OpenTideHQ](https://github.com/OpenTideHQ)              | European Commission              |
+| OpenTIDE                      | [https://github.com/OpenTideHQ](https://github.com/OpenTideHQ)              | European Commission              |
 
 # Prevention / Red Teams / Testing of Controls
 
@@ -33,6 +33,4 @@ Tools discussed during the EU ATT&CK Community Workshops.
 | CALDERA                          | [https://github.com/mitre/caldera](https://github.com/mitre/caldera)    | MITRE                         |
 | Atomic Red Team                  | [https://github.com/redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)      | Red Canary                    |
 | SPLUNK ATTACK Range              | [https://github.com/splunk/attack_range](https://github.com/splunk/attack_range)              | SPLUNK                        |
-| MORDOR                           | [https://mordordatasets.com/introduction.html](https://mordordatasets.com/introduction.html)         | Roberto Rodriguez             |
-| PurpleSharp                      | [https://github.com/mvelazc0/PurpleSharp](https://github.com/mvelazc0/PurpleSharp)         | Mauricio Velazco             |
 
