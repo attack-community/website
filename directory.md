@@ -33,6 +33,6 @@ Tools discussed during the EU ATT&CK Community Workshops.
 | CALDERA                          | [https://github.com/mitre/caldera](https://github.com/mitre/caldera)    | MITRE                         |
 | Atomic Red Team                  | [https://github.com/redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)      | Red Canary                    |
 | SPLUNK ATTACK Range              | [https://github.com/splunk/attack_range](https://github.com/splunk/attack_range)              | SPLUNK                        |
-| Purple Crew              | [https://github.com/Vjeroen/PurpleCrew] (https://github.com/Vjeroen/PurpleCrew)             | Jeroen Vandeleur                        |
+| Purple Crew                      | [https://github.com/Vjeroen/PurpleCrew](https://github.com/Vjeroen/PurpleCrew)             | Jeroen Vandeleur                        |
 
 
