@@ -49,7 +49,7 @@ Please specify if you would like to attend in person or virtually. If you attend
 | 15.30    | Applying MITRE ATT&CK for threat-informed cyber insurance underwriting | Jay     | Vinda    | Mosaic Insurance |
 | 15.45    | ATT&CK  to increase cyber resilience of National Critical Infrastructures                      | Giorgi        | Gurgenidze | GITAC                             |
 | 16.00    | Prioritizing ATT&CK Techniques for National-Level Threat-Informed Defence  | Oleksii            |  Hlushkov          |  CERT-UA                                 |
-| 16.15    | Threat Bounty in the era of AI: LLM assisted Sigma rules and ATT&CK flows generation for Threat Informed Detection Engineering | Andrii            | Bezverkhyi           |  Socprime                                 |
+| 16.15    | Threat Bounty in the era of AI: LLM assisted Sigma rules and ATT&CK flows generation for Threat Informed Detection Engineering | Andrii            | Bezverkhyi           |  SOC Prime                                 |
 | 16.30    | The Always-On Purple Team: AI Agents on the Loose                                     | Jeroen        | Vandeleur     | Proximus NXT           |
 | 16.45    | Closing comments                                                                                       |  Freddy           |            |                                   |
 | 17.00    | Networking drink                                                                  |       |            |                                   |
