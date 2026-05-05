@@ -36,8 +36,9 @@ This workshop is organised by practitioners and for practitioners with an intere
 | 16 | 16:00 - 16:15 | Latest updates of the MITRE Center for Threat-Informed Defense                                        | Leslie          | Anderson             | MITRE Center for Threat-Informed Defense                               |
 | 17 | 16:15 - 16:30 | From Threat Scenarios to ATT&CK Mapping: Making Threat Modeling Actionable Without False Precision    | Nathan          | Pembe                | NVISO                                                                  |
 | 18 | 16:30 - 16:45 | Beyond detection rules                                                                                | LTC Maciej      | Szymczyk             | Polish Cyber Command                                                   |
-|    | 16:45 - 17:00 | Closing of event                                                                                      | Clara           | Grillet              | CCB                                                                    |
-|    | 17:00 - 18:30 | DRINK                                                                                                 |                 |                      |                                                                        |
+| 19 | 16:45 - 17:00 | Securing the Agentic Control Plane                                                                    | Daniele         | Catteddu             | Cloud Security Alliance                                                                    |
+|    | 17:00 - 17:10 | Closing of event                                                                                      | Clara           | Grillet              | CCB                                                                    |
+|    | 17:10 - 18:30 | DRINK                                                                                                 |                 |                      |                                                                        |
 
 We look forward to welcoming you on 6 May 2026!<br><br>
 👉 **Register now to save your spot:** [2026 EU MITRE ATT&CK® Community Workshop | EUROCONTROL](https://www.eurocontrol.int/event/2026-eu-mitre-attckr-community-workshop)
