@@ -5,6 +5,7 @@ title: 2026 EU MITRE ATT&CK® Community Workshop
 
 The **2026 EU MITRE ATT&CK® Community Workshop** has taken place on **6 May 2026**, hosted by EUROCONTROL in collaboration with the Centre for Cybersecurity Belgium, the MITRE Center for Threat-Informed Defense and MITRE ATT&CK. The slide decks of the presentations at the event can be downloaded via the following link:
 
+<a href="https://web.tresorit.com/l/rLqwl#wKl-A9uE-vSAbQJ_t1iKZw">Presentations at the 2025 EU MITRE ATT&CK Community Workshop</a>
 
 ## Agenda
 
