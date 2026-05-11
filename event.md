@@ -3,9 +3,9 @@ layout: page
 title: 2026 EU MITRE ATT&CK® Community Workshop
 ---
 
-The **2026 EU MITRE ATT&CK® Community Workshop** will take place on **6 May 2026 from 9:30 until 17:30 (CEST)** and will be hosted by EUROCONTROL, in collaboration with the Centre for Cybersecurity Belgium, the MITRE Center for Threat-Informed Defense and MITRE ATT&CK. The event is hybrid: you can choose to attend online via videoconference or attend in-person in Brussels.
+The **2026 EU MITRE ATT&CK® Community Workshop** has taken place on **6 May 2026**, hosted by EUROCONTROL in collaboration with the Centre for Cybersecurity Belgium, the MITRE Center for Threat-Informed Defense and MITRE ATT&CK. The slide decks of the presentations at the event can be downloaded via the following link:
 
-This workshop is organised by practitioners and for practitioners with an interest in the use of the ATT&CK® Framework in Prevention, Detection/Hunting and Response. You will hear updates from the [MITRE Center For Threat-Informed Defense](https://ctid.mitre.org/) and from the developers of systems and tools supporting the ATT&CK® Framework. But even more importantly, you will learn best practices from your peers in the user community. 
+<a href="https://web.tresorit.com/l/rLqwl#wKl-A9uE-vSAbQJ_t1iKZw">Presentations at the 2026 EU MITRE ATT&CK Community Workshop</a>
 
 ## Agenda
 
@@ -40,8 +40,10 @@ This workshop is organised by practitioners and for practitioners with an intere
 |    | 17:00 - 17:10 | Closing of event                                                                                      | Clara           | Grillet              | CCB                                                                    |
 |    | 17:10 - 18:30 | DRINK                                                                                                 |                 |                      |                                                                        |
 
-We look forward to welcoming you on 6 May 2026!<br><br>
-👉 **Register now to save your spot:** [2026 EU MITRE ATT&CK® Community Workshop | EUROCONTROL](https://www.eurocontrol.int/event/2026-eu-mitre-attckr-community-workshop)
+<br>
+We look forward to welcoming you back for the 2027 edition!
+<br>
+
 
 ## About the EU ATT&CK Community
 
